@@ -1,0 +1,832 @@
+[
+  {
+    "id": "clement-of-rome",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Clement of Rome",
+    "yearStart": 96,
+    "dateDisplay": "d. c. AD 99",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "clement-letter",
+    "categories": [
+      "Apostolic Fathers"
+    ],
+    "summary": "An early bishop of Rome whose letter to Corinth is among the oldest Christian writings outside the New Testament.",
+    "article": "**Clement** was a leader of the church at Rome at the end of the 1st century, traditionally reckoned among its earliest bishops. His surviving work, **1 Clement** (c. AD 96), is a letter written in the Roman church's name to Corinth, urging the reinstatement of presbyters wrongly deposed — the earliest datable Christian document outside the New Testament, and evidence of Rome already speaking with weight to another church.\n\nLater legend made him a martyr thrown into the sea with an anchor; that story is tradition, not history. What is solid is the letter, quoted and read in churches for centuries — so valued that a few early lists flirted with treating it as Scripture.",
+    "scriptureRefs": [],
+    "readingPointer": "His letter, 1 Clement, is read alongside the New Testament as an Apostolic Father.",
+    "sources": [
+      "ODCC",
+      "Chadwick, The Early Church"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Rome",
+      "lat": 41.89,
+      "lng": 12.48
+    }
+  },
+  {
+    "id": "ignatius-of-antioch",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Ignatius of Antioch",
+    "yearStart": 108,
+    "dateDisplay": "d. c. AD 108",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "ignatius-chains",
+    "categories": [
+      "Apostolic Fathers",
+      "Martyrs"
+    ],
+    "summary": "Bishop of Antioch who wrote seven letters on his way to martyrdom in Rome.",
+    "article": "**Ignatius**, bishop of Antioch, was condemned to the beasts and taken in chains to Rome, writing **seven letters** along the way to churches he passed and to Polycarp. Calling himself *Theophorus* (\"God-bearer\"), he begged the Romans not to prevent his martyrdom: \"I am God's wheat, ground by the teeth of the beasts to become the pure bread of Christ.\"\n\nHis letters (c. AD 108) are a landmark: the earliest strong witness to a single bishop leading each church (\"where the bishop is, there let the congregation be\"), to the Eucharist, and to the title *catholic* church. He warned fiercely against those who denied Christ's true humanity.",
+    "scriptureRefs": [],
+    "readingPointer": "His seven letters, written under sentence of death, are among the Apostolic Fathers.",
+    "sources": [
+      "ODCC",
+      "Chadwick, The Early Church"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Antioch (Syria)",
+      "lat": 36.2,
+      "lng": 36.16
+    }
+  },
+  {
+    "id": "polycarp",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Polycarp of Smyrna",
+    "yearStart": 155,
+    "dateDisplay": "d. c. AD 155–156",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "polycarp-pyre",
+    "categories": [
+      "Apostolic Fathers",
+      "Martyrs"
+    ],
+    "summary": "Bishop of Smyrna, a link to the apostles, burned at the stake in old age.",
+    "article": "**Polycarp**, bishop of Smyrna, was among the last Christians who could claim to have known the apostles: Irenaeus reports that Polycarp had been taught by **John**. That living memory made him a prized witness to apostolic teaching against 2nd-century innovations.\n\nHis martyrdom, recorded in the *Martyrdom of Polycarp* (the earliest such account after the New Testament), is famous: told to curse Christ and go free, the old man answered, \"Eighty-six years I have served him, and he has done me no wrong; how can I blaspheme my King who saved me?\" He was burned at the stake around AD 155.",
+    "scriptureRefs": [],
+    "readingPointer": "The Martyrdom of Polycarp is the earliest detailed account of a Christian martyr's death.",
+    "sources": [
+      "ODCC",
+      "Chadwick, The Early Church"
+    ],
+    "relationships": [
+      {
+        "targetId": "irenaeus",
+        "type": "teacher-to-disciple"
+      }
+    ],
+    "location": {
+      "name": "Smyrna (modern İzmir)",
+      "lat": 38.42,
+      "lng": 27.14
+    }
+  },
+  {
+    "id": "justin-martyr",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Justin Martyr",
+    "yearStart": 160,
+    "dateDisplay": "c. AD 100–165",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "justin-pallium",
+    "categories": [
+      "Apologists",
+      "Martyrs"
+    ],
+    "summary": "A philosopher who became Christianity's first great intellectual defender.",
+    "article": "**Justin** was a wandering philosopher who found in Christianity the \"true philosophy\" and kept wearing the philosopher's cloak to teach it. In his **First Apology** (addressed to the emperor) and his **Dialogue with Trypho** (a Jewish interlocutor), he argued that Christ is the divine *Logos* whom the best pagan thinkers had glimpsed in part — the first sustained attempt to commend the faith to the educated world.\n\nHis writings are also a priceless early window on Christian worship, describing baptism and the Sunday Eucharist around AD 150. Tried before the prefect of Rome and refusing to sacrifice, he was beheaded about AD 165 — earning the name by which he is known.",
+    "scriptureRefs": [],
+    "readingPointer": "His First Apology describes Christian worship around AD 150.",
+    "sources": [
+      "ODCC",
+      "Chadwick, The Early Church"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Rome",
+      "lat": 41.89,
+      "lng": 12.48
+    }
+  },
+  {
+    "id": "irenaeus",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Irenaeus of Lyons",
+    "yearStart": 190,
+    "dateDisplay": "c. AD 130–202",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "irenaeus-book",
+    "categories": [
+      "Church Fathers"
+    ],
+    "summary": "Bishop of Lyons whose Against Heresies answered Gnosticism and defended the fourfold Gospel.",
+    "article": "**Irenaeus**, bishop of Lyons, wrote **Against Heresies**, the great 2nd-century refutation of **Gnosticism** — the array of movements teaching secret knowledge, a lesser creator-god, and a Christ only seeming to be human. Against them Irenaeus set the public teaching handed down from the apostles through the churches, the one Creator God of both Testaments, and Christ's real incarnation summing up (\"recapitulating\") all humanity.\n\nHe is an early witness to the **fourfold Gospel** — four and no more — and to the rule of faith the churches held in common. Standing in a line from John through Polycarp to himself, he embodied the appeal to apostolic continuity that would shape the emerging canon and creed.",
+    "scriptureRefs": [],
+    "readingPointer": "His Against Heresies is the fullest early account of — and answer to — Gnosticism.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Lyons (Gaul)",
+      "lat": 45.76,
+      "lng": 4.83
+    }
+  },
+  {
+    "id": "tertullian",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Tertullian",
+    "yearStart": 200,
+    "dateDisplay": "c. AD 155–220",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "tertullian-trinity",
+    "categories": [
+      "Church Fathers"
+    ],
+    "summary": "The first great Latin theologian, who gave the West the vocabulary of the Trinity.",
+    "article": "**Tertullian** of Carthage was the first major Christian writer in **Latin**, and his coinages shaped Western theology for good: it was he who framed God as one *substantia* in three *personae* — the language of **Trinity** (*trinitas*) — and Christ as one person in two natures, well before the councils that would ratify such terms.\n\nBrilliant, rigorous, and combative, he asked \"What has Athens to do with Jerusalem?\" and defended Christians against slander in his *Apology*. In later life his zeal for rigor led him into **Montanism**, a prophetic-rigorist movement outside the mainstream church — a reminder that even a founding theologian's course was not simple.",
+    "scriptureRefs": [],
+    "readingPointer": "The Latin words Trinity, person, and substance in Christian use trace back to Tertullian.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "cyprian",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Carthage",
+      "lat": 36.85,
+      "lng": 10.32
+    }
+  },
+  {
+    "id": "origen",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Origen of Alexandria",
+    "yearStart": 230,
+    "dateDisplay": "c. AD 185–253",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "origen-columns",
+    "categories": [
+      "Church Fathers"
+    ],
+    "summary": "The greatest biblical scholar of the early Church — brilliant, prolific, and later controversial.",
+    "article": "**Origen** of Alexandria was the most learned and prolific scholar of the early Church. His **Hexapla** set six versions of the Old Testament in parallel columns — pioneering textual criticism — and his commentaries, his treatise *On First Principles*, and his reply *Against Celsus* ranged across the whole of Scripture and philosophy. He championed the **allegorical** reading of the Bible.\n\nHis speculations (the pre-existence of souls, a hint of universal restoration) were condemned three centuries after his death, and his fame is shadowed by a report that he took Matthew 19:12 literally and castrated himself. Yet his influence on later fathers, especially the Cappadocians, was immense. He suffered torture in the Decian persecution and died of its effects.",
+    "scriptureRefs": [],
+    "readingPointer": "His Hexapla and commentaries founded Christian biblical scholarship.",
+    "sources": [
+      "ODCC",
+      "Chadwick, The Early Church"
+    ],
+    "relationships": [
+      {
+        "targetId": "the-cappadocian-fathers",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Alexandria",
+      "lat": 31.2,
+      "lng": 29.92
+    }
+  },
+  {
+    "id": "cyprian",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Cyprian of Carthage",
+    "yearStart": 255,
+    "dateDisplay": "d. AD 258",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "cyprian-cathedra",
+    "categories": [
+      "Church Fathers",
+      "Martyrs"
+    ],
+    "summary": "Bishop of Carthage on the unity of the Church, martyred under Valerian.",
+    "article": "**Cyprian**, bishop of Carthage, led his church through the crises of persecution: what to do with the *lapsi*, Christians who had denied the faith under threat and now sought to return. His answer — mercy through orderly penance, not cheap readmission — and his treatise **On the Unity of the Catholic Church** made him the theologian of the Church's oneness: \"He cannot have God for his Father who does not have the Church for his Mother.\"\n\nHe revered Tertullian as \"the master.\" He clashed with Rome over rebaptizing heretics, insisting no bishop was bishop of bishops. Under the emperor Valerian he was beheaded in 258 — a bishop-martyr who died as he had counselled others to be ready to.",
+    "scriptureRefs": [],
+    "readingPointer": "His On the Unity of the Church shaped Western thinking on the Church itself.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Carthage",
+      "lat": 36.85,
+      "lng": 10.32
+    }
+  },
+  {
+    "id": "diocletianic-persecution",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Great Persecution",
+    "yearStart": 303,
+    "dateDisplay": "AD 303–311",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "martyr-palm",
+    "categories": [
+      "Persecution",
+      "Martyrs"
+    ],
+    "summary": "The last and fiercest imperial persecution — and the eve of the Church's triumph.",
+    "article": "The **Great Persecution** under the emperor **Diocletian** (begun AD 303) was the most systematic Roman attempt to destroy the Church: edicts ordered churches demolished, Scriptures burned, clergy imprisoned, and everyone made to sacrifice. It was harshest in the East and left deep scars — including the later **Donatist** schism in Africa over how to treat those who had handed over the sacred books (*traditores*).\n\nIt was also the last gasp. Worn down and dying, the emperor **Galerius** issued an edict of toleration in 311, admitting the effort had failed. Within a decade Constantine would reverse everything. The palm branch is the ancient sign of the martyrs whose endurance the Church remembered as its seedbed — \"the blood of the martyrs is the seed of the church.\"",
+    "scriptureRefs": [],
+    "readingPointer": "It ended not in the Church's defeat but in the toleration edict of 311.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Rome (the imperial seat)",
+      "lat": 41.89,
+      "lng": 12.48
+    }
+  },
+  {
+    "id": "edict-of-milan",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Edict of Milan",
+    "yearStart": 313,
+    "dateDisplay": "AD 313",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "edict-scroll",
+    "categories": [
+      "Church & Empire"
+    ],
+    "summary": "Constantine and Licinius grant toleration — the persecuted faith becomes lawful.",
+    "article": "In **AD 313**, the emperors **Constantine** and Licinius agreed at Milan to grant Christians — and everyone — freedom of worship, and to restore confiscated church property. The so-called **Edict of Milan** did not make Christianity the state religion, but it ended the era of persecution and set the Church on the road from outlawed sect to favoured faith.\n\nThe change was epochal. Within a lifetime a movement that had met in houses and buried its dead in catacombs would be building basilicas with imperial funds and settling its doctrine in imperial councils. That new nearness to power brought both protection and peril — a tension that runs through all the church history to follow.",
+    "scriptureRefs": [],
+    "readingPointer": "313 marks the turn from persecuted sect to tolerated — soon favoured — faith.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Milan",
+      "lat": 45.46,
+      "lng": 9.19
+    }
+  },
+  {
+    "id": "constantine",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Constantine the Great",
+    "yearStart": 320,
+    "dateDisplay": "c. AD 272–337",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "labarum",
+    "categories": [
+      "Church & Empire"
+    ],
+    "summary": "The emperor who legalized Christianity and convened the first ecumenical council.",
+    "article": "**Constantine** reshaped the relationship of Church and empire more than anyone before or since. Tradition says that before the battle of the **Milvian Bridge** (312) he saw a sign of the cross with the words \"by this, conquer,\" and marked his soldiers' shields with the *Chi-Rho*. The next year came the toleration of Milan; in 325 he **convened the Council of Nicaea** to settle the Arian dispute, presiding over the bishops in person.\n\nHe founded a new Christian capital, **Constantinople**, and favoured the Church with wealth and law — though he delayed his own baptism until he lay dying in 337. Historians still debate the depth of his faith and the cost of the Church's new alliance with power; the entry holds the fact of his revolution and the honest questions about it together.",
+    "scriptureRefs": [],
+    "readingPointer": "His reign is the hinge between the age of martyrs and the age of Christendom.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "edict-of-milan",
+        "type": "influenced"
+      },
+      {
+        "targetId": "council-of-nicaea",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Constantinople (modern Istanbul)",
+      "lat": 41.01,
+      "lng": 28.98
+    }
+  },
+  {
+    "id": "arian-controversy",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Arian Controversy",
+    "yearStart": 340,
+    "dateDisplay": "c. AD 318–381",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "arian-iota",
+    "categories": [
+      "Doctrine",
+      "Church & Empire"
+    ],
+    "summary": "The great fourth-century struggle over whether the Son is truly God.",
+    "article": "The **Arian controversy** was the defining doctrinal crisis of the 4th century. **Arius**, a presbyter of Alexandria, taught that the Son, though exalted, was a creature — \"there was a time when he was not\" — so that only the Father is God in the fullest sense. His opponents, led by **Athanasius**, insisted the Son is *homoousios*, \"of one substance\" with the Father; on the difference of a single letter (*homoousios* vs *homoiousios*, \"of like substance\") the doctrine of God seemed to hang.\n\nNicaea condemned Arius in 325, but the dispute raged for another half-century, with emperors backing now one side, now the other, and Athanasius exiled five times. It was finally settled for the imperial church at Constantinople in 381 — the crucible in which the doctrine of the Trinity was hammered out.",
+    "scriptureRefs": [],
+    "readingPointer": "The whole doctrine of Christ's divinity turned on a single Greek letter.",
+    "sources": [
+      "ODCC",
+      "Chadwick, The Early Church",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Alexandria",
+      "lat": 31.2,
+      "lng": 29.92
+    }
+  },
+  {
+    "id": "the-nicene-creed",
+    "type": "text",
+    "layers": [
+      "church",
+      "scripture"
+    ],
+    "title": "The Nicene Creed",
+    "yearStart": 325,
+    "dateDisplay": "AD 325, expanded 381",
+    "certainty": "attested",
+    "registers": [
+      "tradition",
+      "history"
+    ],
+    "symbol": "creed-tablet",
+    "categories": [
+      "Doctrine",
+      "Creeds"
+    ],
+    "summary": "The Church's great confession of the Triune God, forged against Arianism.",
+    "article": "The **Nicene Creed** is the most widely shared Christian confession, recited across Catholic, Orthodox, and many Protestant churches to this day. Its core was drawn up at **Nicaea (325)** to exclude Arianism — confessing the Son as \"God from God, Light from Light, true God from true God, begotten not made, of one substance (*homoousios*) with the Father.\" It was expanded at **Constantinople (381)** with a fuller article on the **Holy Spirit**, \"the Lord and giver of life.\"\n\nA later Western addition — the *filioque*, that the Spirit proceeds \"from the Father *and the Son*\" — would become a flashpoint in the split between East and West. As a text, the creed is a codex on the timeline; it is tethered to nothing earlier because it *is* the settling of the faith the councils confessed.",
+    "scriptureRefs": [],
+    "readingPointer": "Recited weekly in much of the Church, it is the fruit of Nicaea and Constantinople.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "arian-controversy",
+        "type": "opposed"
+      }
+    ],
+    "traditions": {
+      "catholic": "Recites the creed with the filioque — the Spirit proceeds from the Father and the Son.",
+      "orthodox": "Rejects the filioque as an unauthorized addition; the Spirit proceeds from the Father.",
+      "protestant": "Most churches inherit the Western text, with the filioque, and confess the creed as a summary of the faith."
+    },
+    "location": {
+      "name": "Nicaea (modern İznik)",
+      "lat": 40.43,
+      "lng": 29.72
+    }
+  },
+  {
+    "id": "antony-of-egypt",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Antony of Egypt",
+    "yearStart": 330,
+    "dateDisplay": "c. AD 251–356",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "antony-tau",
+    "categories": [
+      "Monasticism"
+    ],
+    "summary": "The father of Christian monasticism, who took the desert for his cell.",
+    "article": "Hearing the gospel words \"sell what you have and give to the poor,\" **Antony** gave away his inheritance and withdrew into the Egyptian desert, becoming the most famous of the **Desert Fathers** and the pattern of the solitary monastic life. Stories of his long struggle with demons and his serene endurance drew crowds of would-be disciples into the wilderness after him.\n\nHis fame owes much to the **Life of Antony** written by his friend **Athanasius**, a bestseller of the ancient world that carried the monastic ideal across the empire and helped convert, among others, the young Augustine's circle. Where Antony sought solitude, others (like Pachomius) soon gathered monks into communities — the two roots of all later monasticism.",
+    "scriptureRefs": [],
+    "readingPointer": "Athanasius' Life of Antony spread the monastic ideal across the Roman world.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "The Egyptian desert (Mount Colzim)",
+      "lat": 28.92,
+      "lng": 32.36
+    }
+  },
+  {
+    "id": "athanasius",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Athanasius of Alexandria",
+    "yearStart": 350,
+    "dateDisplay": "c. AD 296–373",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "athanasius-shield",
+    "categories": [
+      "Church Fathers",
+      "Doctrine"
+    ],
+    "summary": "The tireless champion of Christ's full divinity — \"Athanasius against the world.\"",
+    "article": "**Athanasius**, bishop of Alexandria, was the great defender of the Nicene faith through the long Arian struggle. As a young deacon he had been at Nicaea; for the rest of his life he insisted, against emperors and majorities alike, that only if the Son is truly God can God truly save — and he paid for it with **five exiles** over forty-five years. The phrase *Athanasius contra mundum*, \"against the world,\" caught his lonely persistence.\n\nHe wrote *On the Incarnation*, the *Life of Antony* that spread monasticism, and the festal letter of 367 that first listed exactly the twenty-seven New Testament books (its own node earlier on the timeline). More than any other, he made sure the Church confessed the Trinity it does.",
+    "scriptureRefs": [],
+    "readingPointer": "His festal letter of 367 (a separate node) first fixed the 27-book New Testament.",
+    "sources": [
+      "ODCC",
+      "Chadwick, The Early Church",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "arian-controversy",
+        "type": "opposed"
+      },
+      {
+        "targetId": "council-of-nicaea",
+        "type": "influenced"
+      },
+      {
+        "targetId": "antony-of-egypt",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Alexandria",
+      "lat": 31.2,
+      "lng": 29.92
+    }
+  },
+  {
+    "id": "the-cappadocian-fathers",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "The Cappadocian Fathers",
+    "yearStart": 375,
+    "dateDisplay": "fl. c. AD 360–390",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "trinity-knot",
+    "categories": [
+      "Church Fathers",
+      "Doctrine"
+    ],
+    "summary": "Basil and the two Gregories, who gave the doctrine of the Trinity its classic form.",
+    "article": "The three **Cappadocians** — **Basil the Great** of Caesarea, his brother **Gregory of Nyssa**, and their friend **Gregory of Nazianzus** — completed the work Athanasius began. Their careful distinction of one divine *ousia* (substance) in three *hypostases* (persons) gave the doctrine of the **Trinity** its enduring Greek vocabulary, and secured the full divinity of the **Holy Spirit** against those who would leave the Spirit out.\n\nBasil also wrote a monastic rule still followed in the East and organized great works of charity; Gregory of Nazianzus, \"the Theologian,\" presided for a time over the Council of Constantinople; Gregory of Nyssa was the boldest speculative mind of the three. Together they are grouped here as one node — the theologians of the Spirit and the Trinity.",
+    "scriptureRefs": [],
+    "readingPointer": "One substance, three persons — the Trinitarian grammar the Cappadocians fixed is still standard.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "council-of-constantinople-i",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Caesarea in Cappadocia",
+      "lat": 38.72,
+      "lng": 35.48
+    }
+  },
+  {
+    "id": "ambrose-of-milan",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Ambrose of Milan",
+    "yearStart": 385,
+    "dateDisplay": "c. AD 339–397",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "ambrose-beehive",
+    "categories": [
+      "Church Fathers"
+    ],
+    "summary": "Bishop of Milan who baptized Augustine and made an emperor do penance.",
+    "article": "**Ambrose** was a Roman governor acclaimed bishop of **Milan** by popular demand before he was even baptized. He became one of the towering figures of the Western church: a preacher whose sermons drew the young **Augustine** toward conversion, a writer of hymns still sung, and a defender of the Church's independence from the state.\n\nMost famously, when the emperor **Theodosius** ordered a massacre at Thessalonica, Ambrose barred him from communion until he did public **penance** — a bishop calling an emperor to account, and a landmark in the long story of church and power. Legend says a swarm of bees settled on the infant Ambrose's mouth, foretelling his \"honeyed\" eloquence; the beehive is his emblem.",
+    "scriptureRefs": [],
+    "readingPointer": "He baptized Augustine (386) and made the emperor Theodosius do public penance.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "augustine-of-hippo",
+        "type": "teacher-to-disciple"
+      }
+    ],
+    "location": {
+      "name": "Milan",
+      "lat": 45.46,
+      "lng": 9.19
+    }
+  },
+  {
+    "id": "john-chrysostom",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "John Chrysostom",
+    "yearStart": 398,
+    "dateDisplay": "c. AD 347–407",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "chrysostom-mouth",
+    "categories": [
+      "Church Fathers"
+    ],
+    "summary": "The \"golden-mouthed\" preacher, bishop of Constantinople.",
+    "article": "**John**, called **Chrysostom** — \"golden-mouthed\" — was the greatest preacher of the early Church. Trained in Antioch and famed for plain, powerful homilies on the Scriptures, he was made bishop of **Constantinople**, where his blunt attacks on wealth, luxury, and injustice — and on the excesses of the imperial court — made him as many enemies as admirers.\n\nTwice driven into exile by his opponents, he died on the road in 407, worn out, reportedly with the words \"Glory to God for all things.\" His hundreds of surviving sermons made him a model of biblical preaching for both East and West, and the Eastern church's most-used liturgy still bears his name.",
+    "scriptureRefs": [],
+    "readingPointer": "His name still marks the Divine Liturgy most used in the Eastern churches.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Constantinople (modern Istanbul)",
+      "lat": 41.01,
+      "lng": 28.98
+    }
+  },
+  {
+    "id": "jerome",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Jerome",
+    "yearStart": 405,
+    "dateDisplay": "c. AD 347–420",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "jerome-lion",
+    "categories": [
+      "Church Fathers"
+    ],
+    "summary": "The scholar-monk who translated the Bible into Latin — the Vulgate.",
+    "article": "**Jerome** was the finest scholar of the Western church: irascible, ascetic, and unmatched in languages. Learning **Hebrew** from Jewish teachers, he produced the great Latin translation of the Bible — the **Vulgate** (its own node nearby) — insisting on the *Hebraica veritas*, the \"Hebrew truth,\" rather than translating the Old Testament from the Greek. His judgment that the deuterocanonical books ranked below the Hebrew canon would be quoted by both sides at the Reformation.\n\nHe lived his last decades as a monk in Bethlehem, writing commentaries and letters and quarrelling with almost everyone. Later art gave him a **tame lion** (from a legend of a thorn drawn from its paw) and a cardinal's hat (an anachronism); the lion is his emblem here.",
+    "scriptureRefs": [],
+    "readingPointer": "His Latin Bible, the Vulgate, has its own node — the Western church's Bible for a millennium.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Bethlehem",
+      "lat": 31.7,
+      "lng": 35.2
+    }
+  },
+  {
+    "id": "augustine-of-hippo",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Augustine of Hippo",
+    "yearStart": 418,
+    "dateDisplay": "AD 354–430",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "augustine-heart",
+    "categories": [
+      "Church Fathers",
+      "Doctrine"
+    ],
+    "summary": "The most influential theologian of the Western Church.",
+    "article": "**Augustine**, bishop of Hippo in North Africa, shaped Western Christianity more than any other thinker. His **Confessions** — the first true spiritual autobiography — traced his restless road from a worldly youth through Manichaeism to conversion under **Ambrose** in Milan (386): \"You have made us for yourself, and our heart is restless until it rests in you.\" His **City of God** answered those who blamed Christianity for Rome's fall, setting the earthly and heavenly cities against each other across all history.\n\nAgainst **Pelagius** he defended the priority of God's **grace** and the reality of original sin — doctrines that would define Catholic theology and, a thousand years later, fire the Reformation (Luther was an Augustinian friar). He died in 430 as the Vandals besieged his city.",
+    "scriptureRefs": [],
+    "readingPointer": "Read the Confessions — the West's first spiritual autobiography.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "martin-luther",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Hippo Regius (modern Annaba)",
+      "lat": 36.9,
+      "lng": 7.77
+    }
+  },
+  {
+    "id": "council-of-constantinople-i",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "First Council of Constantinople",
+    "yearStart": 381,
+    "dateDisplay": "AD 381",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "council-assembly",
+    "categories": [
+      "Councils",
+      "Doctrine"
+    ],
+    "summary": "The second ecumenical council — the Trinity completed and the Spirit confessed.",
+    "article": "The **First Council of Constantinople (381)**, convened by the emperor Theodosius, brought the long Arian struggle to its close for the imperial church. It reaffirmed **Nicaea**, expanded the creed with a full confession of the **Holy Spirit** as \"the Lord and giver of life,\" and condemned those (like Apollinaris) who denied Christ's complete humanity.\n\nWith Nicaea's homoousios now joined to the Spirit's divinity — the work the Cappadocians had secured — the doctrine of the **Trinity** stood in its classic form. Reckoned the second of the seven ecumenical councils, it also ranked the see of Constantinople, \"the new Rome,\" just after Rome itself — a status that would feed centuries of rivalry between East and West.",
+    "scriptureRefs": [],
+    "readingPointer": "It completed the Nicene Creed's article on the Holy Spirit.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Constantinople (modern Istanbul)",
+      "lat": 41.01,
+      "lng": 28.98
+    }
+  },
+  {
+    "id": "council-of-ephesus",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "Council of Ephesus",
+    "yearStart": 431,
+    "dateDisplay": "AD 431",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "council-assembly",
+    "categories": [
+      "Councils",
+      "Doctrine"
+    ],
+    "summary": "The third ecumenical council — Christ is one person, and Mary is Theotokos.",
+    "article": "The **Council of Ephesus (431)** turned from the Trinity to the person of **Christ**. **Nestorius**, patriarch of Constantinople, was thought to divide Christ into two persons, a divine and a human loosely joined, and objected to calling Mary *Theotokos*, \"God-bearer.\" Against him, **Cyril of Alexandria** insisted that the one Christ is a single person, so that the one born of Mary is truly God the Son.\n\nThe council condemned Nestorius and affirmed **Theotokos** — a title about Christ before it is about Mary. The proceedings were stormy and politically tangled, and their aftermath opened a lasting rift: the **Church of the East** (\"Nestorian\") went its own way, the first great body of Christians to separate over doctrine.",
+    "scriptureRefs": [],
+    "readingPointer": "\"Theotokos,\" God-bearer, is a statement about Christ's single person before it is about Mary.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Ephesus",
+      "lat": 37.94,
+      "lng": 27.34
+    }
+  },
+  {
+    "id": "council-of-chalcedon",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "Council of Chalcedon",
+    "yearStart": 451,
+    "dateDisplay": "AD 451",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "council-assembly",
+    "categories": [
+      "Councils",
+      "Doctrine"
+    ],
+    "summary": "The fourth ecumenical council — Christ, one person in two natures.",
+    "article": "The **Council of Chalcedon (451)** gave the classic definition of who Christ is. Against those who so stressed his divinity that his humanity seemed swallowed up (Eutyches, \"monophysitism\"), it confessed the one Christ **in two natures**, divine and human, united \"without confusion, without change, without division, without separation\" in one person. This **Chalcedonian Definition** became the standard of orthodoxy for the Catholic, Orthodox, and most Protestant churches.\n\nBut its cost was a permanent breach: the churches that would not accept its language — the **Oriental Orthodox** (Coptic, Armenian, Syriac, Ethiopian, and others) — separated from the imperial church, a division that endures to this day. Chalcedon thus marks both the summit of the councils' Christology and the first great and lasting split in the body of Christ.",
+    "scriptureRefs": [],
+    "readingPointer": "Its definition — one person, two natures — still bounds mainstream Christology.",
+    "sources": [
+      "ODCC",
+      "Chadwick, The Early Church",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "traditions": {
+      "catholic": "Receives Chalcedon as the fourth ecumenical council and the measure of orthodoxy.",
+      "orthodox": "Likewise foundational — Eastern Orthodoxy is emphatically Chalcedonian.",
+      "protestant": "Inherits the Chalcedonian Definition as the standard account of Christ's person."
+    },
+    "location": {
+      "name": "Chalcedon (modern Kadıköy)",
+      "lat": 40.99,
+      "lng": 29.02
+    }
+  }
+]

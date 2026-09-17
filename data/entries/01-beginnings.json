@@ -1,0 +1,164 @@
+[
+  {
+    "id": "creation",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Creation",
+    "undated": true,
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "genesis-burst",
+    "categories": ["beginnings", "primeval"],
+    "summary": "\"In the beginning, God created the heavens and the earth\" — the opening affirmation of scripture, before datable history.",
+    "article": "**What scripture narrates.** Genesis opens with two complementary creation accounts. The first (Genesis 1:1–2:3) is a structured, liturgical seven-day sequence culminating in the sabbath; the second (Genesis 2:4–25) narrows the frame to the making of the first human pair and the garden in Eden. The New Testament reads creation through the Word: \"all things were made through him\" (John 1:1–3).\n\n**Why this entry carries no date.** Scripture gives creation no calendar. Attempts to compute one — most famously Archbishop James Ussher's 4004 BC, published in his *Annals of the World* (1650) by summing the genealogies — are one tradition's arithmetic, not consensus history, and the genealogies themselves are widely understood to be stylized and selective rather than exhaustive chronologies. This app therefore keeps Creation in the beginnings zone, off the year axis entirely.\n\n**How Christians have read it.** Within the church there is a spectrum of readings — literal six-day, day-age, framework, and others — that this project does not adjudicate. What the traditions share is the confession the text itself leads with: that the world is created, ordered, and called good.",
+    "scriptureRefs": ["Genesis 1:1–2:3", "Genesis 2:4–25", "John 1:1–3"],
+    "readingPointer": "Read the creation accounts in Genesis 1–2.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 1–2",
+      "The Oxford Dictionary of the Christian Church, \"Creation\" and \"Ussher, James\""
+    ]
+  },
+  {
+    "id": "adam",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Adam",
+    "undated": true,
+    "certainty": "traditional",
+    "registers": ["scripture"],
+    "symbol": "eden-tree",
+    "categories": ["beginnings", "primeval", "line-of-promise"],
+    "summary": "The first man of the Genesis narrative — head of the human family and first name on the line of promise.",
+    "article": "**What scripture narrates.** Adam is formed from the dust and given the garden to keep (Genesis 2), falls with Eve in the eating of the forbidden fruit (Genesis 3), and receives, within the very words of judgment, the first glimmer of promise — the offspring of the woman who will crush the serpent (Genesis 3:15), which later Christian reading called the *protoevangelium*, the \"first gospel.\"\n\n**The line of promise begins here.** Genesis 5 traces a genealogy from Adam through Seth down to Noah, and Luke's Gospel runs Jesus' genealogy all the way back \"to Adam, the son of God\" (Luke 3:38). The gold thread on this canvas condenses that genealogy: between Adam and Noah scripture names eight further generations (Seth, Enosh, Kenan, Mahalalel, Jared, Enoch, Methuselah, Lamech), unnamed here so the thread stays legible.\n\n**Register and dating.** Adam belongs to the beginnings zone: scripture places him before any event that external history can date, and this app assigns him no year. Whether he is read as a historical first man or as a representative or literary figure of humanity is a live question — among Christians as well as scholars — that this project does not resolve, keeping the account in its scriptural register. Paul's letters treat Adam as the figure in whom humanity's story of sin and death begins, answered in Christ, \"the last Adam\" (Romans 5:12–21; 1 Corinthians 15:45) — a theological claim, not a datable biographical one.",
+    "scriptureRefs": ["Genesis 2–3", "Genesis 5:1–32", "Luke 3:38", "Romans 5:12–21"],
+    "readingPointer": "His story is told in Genesis 2–5.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 2–5",
+      "The Oxford Dictionary of the Christian Church, \"Adam\""
+    ],
+    "relationships": [{ "targetId": "noah", "type": "line-of-promise" }]
+  },
+  {
+    "id": "eve",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Eve",
+    "undated": true,
+    "certainty": "traditional",
+    "registers": ["scripture"],
+    "symbol": "eden-fruit",
+    "categories": ["beginnings", "primeval", "matriarch"],
+    "summary": "The first woman of the Genesis narrative, \"the mother of all living\" — matriarch of the whole human family.",
+    "article": "**What scripture narrates.** In the second creation account the LORD God, judging that \"it is not good that the man should be alone,\" fashions a woman from the man's side to be \"a helper fit for him,\" and the man greets her as bone of his bones and flesh of his flesh (Genesis 2:18–23). She is the one the serpent addresses in the garden, and the first to eat the forbidden fruit (Genesis 3). After the judgment the man names her Eve — Hebrew *Hawwah*, linked to the word for \"living\" — \"because she was the mother of all living\" (Genesis 3:20). She bears Cain, then Abel, and after Abel's death Seth (Genesis 4:1, 25).\n\n**A note on translation.** The word rendered \"rib\" (Hebrew *tsela*) more often means simply \"side,\" and how to translate it has been discussed since antiquity — a small window onto how much interpretation can ride on a single word in these opening chapters. As with Adam, whether Eve is read as a historical first woman or as a representative figure of humanity is a question this project leaves open, keeping her story in its scriptural register; she carries no date.\n\n**Her place in the story.** Paul twice recalls Eve as the one the serpent deceived (2 Corinthians 11:3; 1 Timothy 2:13–14), and a long strand of Christian tradition sets her beside Mary — the mother of all living beside the mother of the Lord — as a figure of the reversal the gospel proclaims. She is honored as matriarch of the whole human family.",
+    "scriptureRefs": ["Genesis 2:18–25", "Genesis 3:20", "Genesis 4:1", "2 Corinthians 11:3", "1 Timothy 2:13–14"],
+    "readingPointer": "Her story is told in Genesis 2–4.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 2–4",
+      "The Oxford Dictionary of the Christian Church, \"Eve\""
+    ],
+    "relationships": [{ "targetId": "adam", "type": "contemporary" }]
+  },
+  {
+    "id": "the-fall",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "The Fall",
+    "undated": true,
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "fall-serpent",
+    "categories": ["beginnings", "primeval", "fall"],
+    "summary": "The first disobedience in Eden — sin, shame, and death entering a good creation, with the first promise of a deliverer hidden inside the curse.",
+    "article": "**What scripture narrates.** In the garden the serpent, \"more crafty than any other beast of the field\" (Genesis 3:1), persuades the woman that the fruit of the one forbidden tree — the tree of the knowledge of good and evil — will make her \"like God, knowing good and evil.\" She eats, gives to her husband, and \"the eyes of both were opened\" to their nakedness (Genesis 3:6–7). Judgment falls on serpent, woman, and man in turn; yet within the curse on the serpent sounds the first note of promise — the offspring of the woman who will bruise its head (Genesis 3:15), read by later tradition as the *protoevangelium*, the \"first gospel.\" God clothes the pair (3:21) and sends them out of Eden, barred from the tree of life (3:22–24): \"you are dust, and to dust you shall return\" (3:19).\n\n**Register and dating.** The Fall belongs to the beginnings zone and carries no date. What the narrative claims is theological — the entry of sin, shame, and death into a good creation — not a chronicle that history can date or corroborate; and the question of whether Adam and Eve are a historical first pair or a representative figure of humanity is one this project keeps open, holding the account in its scriptural register.\n\n**Its long reach.** No passage is more load-bearing for Christian theology of sin. Paul reads Adam's trespass as the doorway by which \"sin came into the world... and death through sin\" (Romans 5:12), answered by Christ the \"last Adam\" (1 Corinthians 15:21–22). What exactly humanity inherits from the Fall, however, the traditions describe differently — see below.",
+    "scriptureRefs": ["Genesis 3", "Genesis 3:15", "Romans 5:12–21", "1 Corinthians 15:21–22"],
+    "readingPointer": "Read the account in Genesis 3.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 3 and Romans 5",
+      "The Oxford Dictionary of the Christian Church, \"Fall, the\" and \"Original Sin\""
+    ],
+    "traditions": {
+      "catholic": "Catholic teaching holds that Adam's sin was a real fall from an original state of holiness: humanity now inherits a nature deprived of that original grace, transmitted by descent, and remitted through baptism. This inherited condition is \"original sin\" — a lack rather than a personal fault of the newborn — defined at the Council of Trent (1546); Mary is held to have been preserved from it (the Immaculate Conception).",
+      "orthodox": "Orthodoxy generally speaks of \"ancestral sin\": from Adam humanity inherits mortality and a corruption of nature, a bent toward sin and subjection to death, but not Adam's personal guilt. The emphasis falls on death as the enemy, and on salvation as the restoration and healing of human nature in Christ, the new Adam.",
+      "protestant": "The Reformers stressed the depth of the corruption — the whole nature fallen, not merely wounded — and the Augustinian and Reformed traditions have affirmed that Adam's guilt as well as his corruption is reckoned to all his descendants, so that rescue can come only by grace through faith, not by human repair."
+    }
+  },
+  {
+    "id": "cain-and-abel",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Cain & Abel",
+    "undated": true,
+    "certainty": "traditional",
+    "registers": ["scripture"],
+    "symbol": "twin-altars",
+    "categories": ["beginnings", "primeval", "first-family"],
+    "summary": "The first children of Adam and Eve, and the first murder — envy in the field, and Abel's blood crying from the ground.",
+    "article": "**What scripture narrates.** Eve bears two sons: Cain, \"a worker of the ground,\" and Abel, \"a keeper of sheep\" (Genesis 4:2). Both bring offerings, and \"the LORD had regard for Abel and his offering, but for Cain and his offering he had no regard\" (4:4–5) — scripture does not spell out why, though Hebrews later reads Abel's as offered \"by faith\" (Hebrews 11:4). Cain, his face fallen, is warned that \"sin is crouching at the door\" (4:7); instead he rises against his brother in the field and kills him — the first murder. Asked where Abel is, he answers, \"Am I my brother's keeper?\" (4:9). He is sentenced to wander, yet marked by God for protection (4:15). The chapter ends with two lines of descent — Cain's, and, in place of Abel, Seth, in whose days \"people began to call upon the name of the LORD\" (4:25–26).\n\n**Register and dating.** Like the rest of the beginnings zone the story carries no date and no external corroboration; it is primeval narrative in the scriptural register, read across the canon as the archetype of envy, violence, and sin's spread beyond the garden.\n\n**Its echoes.** Abel becomes scripture's first martyr, his blood \"crying to me from the ground\" (4:10), named by Jesus among the righteous (Matthew 23:35) and set against \"the sprinkled blood that speaks a better word than the blood of Abel\" (Hebrews 12:24). \"The way of Cain\" becomes a byword for hatred of one's brother (1 John 3:12; Jude 11).",
+    "scriptureRefs": ["Genesis 4", "Hebrews 11:4", "Hebrews 12:24", "1 John 3:12"],
+    "readingPointer": "Read the account in Genesis 4.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 4",
+      "The Oxford Dictionary of the Christian Church, \"Cain\""
+    ]
+  },
+  {
+    "id": "noah",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Noah",
+    "undated": true,
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "ark",
+    "categories": ["beginnings", "primeval", "line-of-promise", "covenant"],
+    "summary": "Builder of the ark and carrier of the line of promise through the flood, receiving the covenant of the rainbow.",
+    "article": "**What scripture narrates.** Noah, tenth from Adam and \"a righteous man, blameless in his generation,\" who \"walked with God\" (Genesis 6:9), is the one through whom the human family passes through the great flood. Commanded to build the ark, he preserves his household and the animals; afterward he builds an altar, and God binds himself by covenant never again to destroy all flesh by flood, hanging his bow in the clouds as its sign (Genesis 9:8–17). His three sons — Shem, Ham, and Japheth — repopulate the earth in the \"table of nations\" (Genesis 10).\n\n**The thread continues.** Genesis 11:10–26 carries the line from Noah's son Shem down ten generations to Abram. The gold thread of this canvas condenses those generations, running Noah → Abraham directly, the un-named links folded into one, as the genealogies are themselves selective. The New Testament reads Noah as a figure of judgment survived and rescue through water (Matthew 24:37–39; 1 Peter 3:20–21; Hebrews 11:7).\n\n**Register and dating.** Noah belongs to the beginnings zone and carries no date; for the flood itself, the ancient Near Eastern parallels, and what history can and cannot say, see the entry on the Flood. His righteousness and the covenant are narrated in the scriptural register and held in tradition, without external corroboration — hence the marking *traditional*.",
+    "scriptureRefs": ["Genesis 6–9", "Genesis 9:8–17", "Genesis 11:10–26", "1 Peter 3:20–21"],
+    "readingPointer": "His story is told in Genesis 6–9.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 6–11",
+      "The Oxford Dictionary of the Christian Church, \"Noah\"",
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years"
+    ],
+    "relationships": [{ "targetId": "abraham", "type": "line-of-promise" }]
+  },
+  {
+    "id": "the-flood",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "The Flood",
+    "undated": true,
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition", "history"],
+    "symbol": "covenant-bow",
+    "categories": ["beginnings", "primeval", "covenant"],
+    "summary": "The waters that unmake a violent world, and the ark that carries the human story through — sealed by the covenant of the bow in the clouds.",
+    "article": "**What scripture narrates.** Seeing the earth \"filled with violence,\" God resolves to blot out what he has made, but \"Noah found favor in the eyes of the LORD\" (Genesis 6:8). Noah builds the ark to God's measure and gathers his household and the animals; the waters come, from beneath and above, and cover the earth, and when they recede the ark rests on the mountains of Ararat (8:4). Noah builds an altar, and God binds himself by covenant never again to destroy all flesh by flood, setting his bow in the clouds as its sign (9:8–17) — the first of scripture's great covenants, and the first to carry a visible sign.\n\n**What the wider ancient world shows.** Mesopotamian literature preserves older flood stories strikingly like Genesis: the Sumerian Ziusudra, the *Atrahasis* epic, and above all the eleventh tablet of the *Epic of Gilgamesh*, in which a flood hero builds a boat, rides out a deluge, and sends out birds. That there is some relationship between these accounts and Genesis is widely held; what it implies is contested — views run from a shared memory of real ancient flooding to a shared literary inheritance that Genesis reworks toward its own theological ends. No flood of the scale the narrative describes can be dated or confirmed archaeologically, and this app assigns the event no year.\n\n**Its reading in the New Testament.** Jesus makes \"the days of Noah\" a figure of judgment coming on the unready (Matthew 24:37–39); 1 Peter reads the ark's passage through water as a type of baptism (1 Peter 3:20–21); Hebrews praises Noah's faith (Hebrews 11:7).",
+    "scriptureRefs": ["Genesis 6–9", "Genesis 9:8–17", "Matthew 24:37–39", "1 Peter 3:20–21"],
+    "readingPointer": "Read the flood narrative in Genesis 6–9.",
+    "sources": [
+      "ESV Study Bible, introduction to Genesis and notes on Genesis 6–9",
+      "The Oxford Dictionary of the Christian Church, \"Flood, the\"",
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years"
+    ]
+  },
+  {
+    "id": "tower-of-babel",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Tower of Babel",
+    "undated": true,
+    "certainty": "traditional",
+    "registers": ["scripture", "history"],
+    "symbol": "babel-tower",
+    "categories": ["beginnings", "primeval"],
+    "summary": "Humanity's tower reaching for heaven, and the scattering of one language into many — the close of the primeval history.",
+    "article": "**What scripture narrates.** \"Now the whole earth had one language and the same words\" (Genesis 11:1). Migrating to the plain of Shinar, humanity settles and resolves to build \"a city, and a tower with its top in the heavens,\" to \"make a name\" for itself and keep from being scattered (11:4). The LORD comes down, confuses their language so that they cannot understand one another, and scatters them over the face of the earth; the place is called Babel — a play on the Hebrew *balal*, \"to confuse.\" The story caps the primeval history of Genesis 1–11: human ambition reaching for heaven, and the one human family fracturing into many tongues and nations.\n\n**What history sets alongside it.** The tower evokes the *ziggurat*, the stepped temple-tower of Mesopotamian cities; many scholars connect the imagery with Babylon's great ziggurat Etemenanki, though the text names no particular structure and any such identification is inference, not statement. Babel is Babylon — a name that will echo through scripture as the emblem of proud empire, down to the Babylon of Revelation. The event carries no date and stands in the scriptural register.\n\n**Its answer at Pentecost.** Christian reading has long set Babel against Pentecost (Acts 2): where at Babel language divides and scatters the nations, at Pentecost the one gospel is heard by every nation in its own tongue — the scattering beginning to be healed.",
+    "scriptureRefs": ["Genesis 11:1–9", "Acts 2:1–11"],
+    "readingPointer": "Read the account in Genesis 11:1–9.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 11:1–9",
+      "The Oxford Dictionary of the Christian Church, \"Babel, Tower of\""
+    ]
+  }
+]

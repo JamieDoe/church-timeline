@@ -1,0 +1,592 @@
+[
+  {
+    "id": "erasmus",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Erasmus of Rotterdam",
+    "yearStart": 1516,
+    "dateDisplay": "c. AD 1466–1536",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "erasmus-quill",
+    "categories": [
+      "Humanism",
+      "Reformation"
+    ],
+    "summary": "The prince of humanists, whose Greek New Testament helped light the Reformation's fuse.",
+    "article": "**Erasmus** was the most celebrated scholar of his age, a Christian **humanist** who called the Church back *ad fontes* — \"to the sources.\" His **Greek New Testament** (1516), the first published, let scholars read the text behind the Latin Vulgate and exposed places where the Church's practice had drifted from Scripture; it was the very text Luther and Tyndale translated from. In *The Praise of Folly* and elsewhere he lampooned clerical corruption and empty ritual.\n\nIt was said that **\"Erasmus laid the egg that Luther hatched.\"** Yet he refused to break with Rome, and when the Reformation turned radical he broke with Luther instead — most sharply in their debate over **free will**. He remained a reformer who hoped to mend the old Church from within, not to divide it.",
+    "scriptureRefs": [],
+    "readingPointer": "His 1516 Greek New Testament is the text Luther and Tyndale worked from.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "martin-luther",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Rotterdam",
+      "lat": 51.92,
+      "lng": 4.48
+    }
+  },
+  {
+    "id": "the-95-theses",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Ninety-Five Theses",
+    "yearStart": 1517,
+    "dateDisplay": "AD 1517",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "theses-nail",
+    "categories": [
+      "Reformation"
+    ],
+    "summary": "Luther's protest against indulgences — the spark of the Reformation.",
+    "article": "On **31 October 1517**, an Augustinian friar and professor named **Martin Luther** made public **ninety-five theses** for debate at **Wittenberg**, protesting the sale of **indulgences** — the pardons hawked (by Tetzel) with the jingle \"as soon as the coin in the coffer rings, the soul from purgatory springs.\" Luther argued that forgiveness is God's free gift, not the Church's to sell.\n\nWhether or not he literally nailed them to the castle-church door, the theses were seized on by the new **printing press** and spread across Germany within weeks. What Luther meant as an academic challenge became the opening act of the **Reformation** — the moment a protest against one abuse grew into a movement that would split Western Christianity.",
+    "scriptureRefs": [],
+    "readingPointer": "Meant as an academic debate, the printing press turned it into a revolution.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Wittenberg",
+      "lat": 51.87,
+      "lng": 12.65
+    }
+  },
+  {
+    "id": "the-diet-of-worms",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Diet of Worms",
+    "yearStart": 1521,
+    "dateDisplay": "AD 1521",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "hand-on-bible",
+    "categories": [
+      "Reformation"
+    ],
+    "summary": "Luther before the emperor — conscience bound to Scripture.",
+    "article": "In 1521 Luther was summoned before **Emperor Charles V** and the imperial Diet at **Worms** and ordered to recant his writings. He refused: unless convinced by Scripture and plain reason, he would not go against conscience, \"for to act against conscience is neither right nor safe.\" The ringing words often quoted — **\"Here I stand; I can do no other\"** — may be a later embellishment, but the stand was real.\n\nDeclared an outlaw whom anyone might kill, Luther was spirited away by friendly princes to the **Wartburg** castle, where in hiding he translated the New Testament into German. Worms made the breach with Rome irreversible and set the pattern of the Reformation: the authority of **Scripture and conscience** set against that of pope and council.",
+    "scriptureRefs": [],
+    "readingPointer": "\"Here I stand\" — the appeal to Scripture and conscience over pope and council.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Worms",
+      "lat": 49.63,
+      "lng": 8.36
+    }
+  },
+  {
+    "id": "huldrych-zwingli",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Huldrych Zwingli",
+    "yearStart": 1523,
+    "dateDisplay": "c. AD 1484–1531",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "zwingli-sword-bible",
+    "categories": [
+      "Reformation"
+    ],
+    "summary": "The reformer of Zurich and father of the Reformed tradition.",
+    "article": "**Huldrych Zwingli** led the Reformation in **Zurich**, arriving at reform independently of Luther through his own study of Erasmus's Greek New Testament. More thoroughgoing than Luther, he stripped the churches of images, music, and ceremony, keeping only what Scripture expressly commanded — the beginning of the **Reformed** stream that Calvin would carry on.\n\nHe and Luther agreed on much but split bitterly over the **Lord's Supper**: at the **Marburg Colloquy (1529)** Luther insisted \"this *is* my body\" while Zwingli held the bread a symbol, and the two wings of the Reformation parted without communion. Zwingli died in 1531 fighting as chaplain in a war between Zurich and the Catholic cantons — a reformer who took up the sword and fell by it.",
+    "scriptureRefs": [],
+    "readingPointer": "His split with Luther over the Lord's Supper divided the Reformation from the start.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "john-calvin",
+        "type": "influenced"
+      },
+      {
+        "targetId": "martin-luther",
+        "type": "opposed"
+      }
+    ],
+    "location": {
+      "name": "Zurich",
+      "lat": 47.37,
+      "lng": 8.54
+    }
+  },
+  {
+    "id": "the-anabaptists",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Anabaptists",
+    "yearStart": 1525,
+    "dateDisplay": "from AD 1525",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "anabaptist-drops",
+    "categories": [
+      "Reformation",
+      "Radical Reformation"
+    ],
+    "summary": "The radical reformers of believer's baptism — persecuted by all sides.",
+    "article": "In **Zurich in 1525**, a group of Zwingli's own followers, impatient that reform did not go far enough, baptized one another as adult believers — hence *Ana-baptists*, \"re-baptizers.\" They held that baptism belongs to those who can profess faith, that the Church should be a voluntary community of the committed, and (mostly) that it should be **separate from the state** and refuse the sword.\n\nFor this they were hunted by Catholics and mainstream Protestants alike, and drowned, burned, and beheaded in the thousands — a grim reminder that the reformers, too, persecuted. A violent takeover of Münster (1534–35) blackened their name unfairly; the peaceful majority, gathered by **Menno Simons** (the Mennonites), became the ancestors of the Amish, Mennonites, Baptists, and the whole free-church tradition.",
+    "scriptureRefs": [],
+    "readingPointer": "The ancestors of the Mennonites, Amish, and Baptists — and the free-church idea.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "huldrych-zwingli",
+        "type": "split-from"
+      }
+    ],
+    "location": {
+      "name": "Zurich",
+      "lat": 47.37,
+      "lng": 8.54
+    }
+  },
+  {
+    "id": "the-augsburg-confession",
+    "type": "text",
+    "layers": [
+      "church"
+    ],
+    "title": "The Augsburg Confession",
+    "yearStart": 1530,
+    "dateDisplay": "AD 1530",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "confession-articles",
+    "categories": [
+      "Reformation",
+      "Creeds"
+    ],
+    "summary": "The founding confession of the Lutheran churches.",
+    "article": "The **Augsburg Confession** is the primary statement of the **Lutheran** faith. Drafted mainly by Luther's gentler colleague **Philipp Melanchthon** and presented to Emperor Charles V at the Diet of **Augsburg in 1530**, it set out the reformers' beliefs — justification by **faith alone**, the authority of Scripture, a reformed understanding of the sacraments — in careful, conciliatory terms, hoping still to show that the evangelicals were faithful catholic Christians, not heretics.\n\nReconciliation failed, and the Confession instead became the charter of the Lutheran churches, the first of the great Protestant **confessions of faith**. As a text it appears here as a codex — the moment the Reformation set its convictions down in an enduring, public creed.",
+    "scriptureRefs": [],
+    "readingPointer": "The first great Protestant confession — the charter of the Lutheran churches.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Augsburg",
+      "lat": 48.37,
+      "lng": 10.9
+    }
+  },
+  {
+    "id": "the-english-reformation",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The English Reformation",
+    "yearStart": 1534,
+    "dateDisplay": "from AD 1534",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "supremacy-crown",
+    "categories": [
+      "Reformation"
+    ],
+    "summary": "England breaks with Rome — a Reformation begun by a king.",
+    "article": "England's Reformation began less in theology than in politics. When the pope refused **Henry VIII** an annulment of his marriage to Catherine of Aragon, the king had Parliament pass the **Act of Supremacy (1534)**, declaring the monarch, not the pope, \"Supreme Head\" of the Church in England. The monasteries were dissolved and their wealth seized.\n\nAt first the break was more jurisdictional than doctrinal, but under Henry's son Edward VI the Church of England became genuinely Protestant — shaped above all by Archbishop **Cranmer** and his Prayer Book — before Mary I's violent Catholic restoration and, finally, Elizabeth I's lasting middle way, the *via media* between Rome and Geneva that still marks Anglicanism.",
+    "scriptureRefs": [],
+    "readingPointer": "Begun for a king's annulment, it grew under Cranmer into a distinct Reformation.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "London",
+      "lat": 51.51,
+      "lng": -0.13
+    }
+  },
+  {
+    "id": "john-calvin",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "John Calvin",
+    "yearStart": 1541,
+    "dateDisplay": "AD 1509–1564",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "calvin-hand-heart",
+    "categories": [
+      "Reformation"
+    ],
+    "summary": "The systematic theologian of the Reformed tradition, and reformer of Geneva.",
+    "article": "**John Calvin**, a French lawyer turned reformer, gave the Reformation its most influential systematic theology. His **Institutes of the Christian Religion** (first published 1536, expanded for decades) laid out Reformed doctrine with lucid order — the sovereignty of God, salvation by grace, **predestination**, and Scripture as the sole rule — and shaped Protestant thought across Europe and beyond.\n\nFrom **Geneva** he built a model reformed city, its life ordered by church discipline, and trained preachers who carried Calvinism to France (the Huguenots), the Netherlands, Scotland, and eventually New England. His Geneva also burned the anti-Trinitarian **Servetus** (1553) — a stain the entry does not hide. His personal seal, a **hand offering a heart to God**, caught his motto: \"My heart I give to you, Lord, promptly and sincerely.\"",
+    "scriptureRefs": [],
+    "readingPointer": "His Institutes shaped Reformed churches from Scotland to New England.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "john-knox",
+        "type": "teacher-to-disciple"
+      }
+    ],
+    "location": {
+      "name": "Geneva",
+      "lat": 46.2,
+      "lng": 6.14
+    }
+  },
+  {
+    "id": "ignatius-loyola",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Ignatius of Loyola",
+    "yearStart": 1540,
+    "dateDisplay": "c. AD 1491–1556",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "jesuit-ihs",
+    "categories": [
+      "Counter-Reformation"
+    ],
+    "summary": "The soldier-saint who founded the Jesuits and spearheaded the Catholic revival.",
+    "article": "A Spanish soldier convalescing from a shattered leg, **Ignatius of Loyola** turned from worldly ambition to Christ and forged his conversion into a method: the **Spiritual Exercises**, a disciplined retreat still used today. In 1540 he founded the **Society of Jesus** — the **Jesuits** — a new kind of order, mobile and highly trained, vowed in special obedience to the pope.\n\nThe Jesuits became the shock troops of the **Catholic (Counter-)Reformation**: founding schools and universities across Europe, sending missionaries like Francis Xavier to India, Japan, and China, and winning back much of central Europe for Rome. Their emblem, the **IHS** monogram of Jesus wreathed in rays, marks Ignatius here — the Catholic renewal answering the Protestant challenge with learning, discipline, and zeal.",
+    "scriptureRefs": [],
+    "readingPointer": "His Jesuits led the Catholic Reformation in education and worldwide mission.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "the-council-of-trent",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Rome (the Jesuit mother house)",
+      "lat": 41.89,
+      "lng": 12.48
+    }
+  },
+  {
+    "id": "thomas-cranmer",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Thomas Cranmer",
+    "yearStart": 1549,
+    "dateDisplay": "AD 1489–1556",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "cranmer-hand",
+    "categories": [
+      "Reformation"
+    ],
+    "summary": "Archbishop of Canterbury, author of the Book of Common Prayer, martyr.",
+    "article": "**Thomas Cranmer**, Archbishop of Canterbury under Henry VIII and Edward VI, gave the English Reformation its enduring voice. His **Book of Common Prayer** (1549, revised 1552) rendered the Church's worship in English of unmatched beauty and rhythm — \"dearly beloved,\" \"till death us do part,\" \"ashes to ashes\" — and shaped Anglican devotion for centuries.\n\nWhen the Catholic **Mary I** came to the throne, Cranmer was tried for heresy and, under pressure, signed recantations. But at the stake in 1556 he repudiated them, and — declaring that the hand which had written the recantations should burn first — thrust his **right hand into the flames**. That act, his emblem here, redeemed his wavering in the eyes of the Reformation he had served.",
+    "scriptureRefs": [],
+    "readingPointer": "His Book of Common Prayer (a separate node) shaped English worship and prose.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "the-english-reformation",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Canterbury",
+      "lat": 51.28,
+      "lng": 1.08
+    }
+  },
+  {
+    "id": "the-book-of-common-prayer",
+    "type": "text",
+    "layers": [
+      "church"
+    ],
+    "title": "The Book of Common Prayer",
+    "yearStart": 1549,
+    "dateDisplay": "AD 1549 (revised 1552, 1662)",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "common-prayer",
+    "categories": [
+      "Reformation",
+      "Devotion"
+    ],
+    "summary": "The English liturgy that shaped Anglican worship — and the English language.",
+    "article": "**The Book of Common Prayer**, largely the work of **Cranmer**, gathered the Church's daily prayer, communion, baptism, marriage, and burial into a single English book that a whole people could pray together — \"common\" prayer in the common tongue. Its cadences became part of the English language itself, echoing through literature and speech far beyond the church.\n\nRevised in 1552 and, definitively, in **1662**, it remained the worship of the Church of England and the whole Anglican Communion for centuries, and its phrasing seeded countless later liturgies. As a text it appears here as a codex — the Reformation's conviction that worship, like Scripture, belongs to the people in words they understand.",
+    "scriptureRefs": [],
+    "readingPointer": "\"Dearly beloved…\" — its cadences shaped English worship and the language.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": []
+  },
+  {
+    "id": "the-council-of-trent",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Council of Trent",
+    "yearStart": 1550,
+    "dateDisplay": "AD 1545–1563",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "council-assembly",
+    "categories": [
+      "Councils",
+      "Counter-Reformation"
+    ],
+    "summary": "Rome's answer to the Reformation — Catholic doctrine defined and abuses reformed.",
+    "article": "The **Council of Trent**, meeting in three sessions between 1545 and 1563, was the Catholic Church's great response to the Reformation. Against the Protestants it firmly defined its doctrine: justification by faith **and works**, Scripture **and tradition** as authorities, the seven sacraments, transubstantiation, and the wider Old Testament canon including the deuterocanon — hardening the lines the reformers had drawn.\n\nBut Trent also **reformed** the Church from within: it curbed the abuses (like the sale of indulgences) that had sparked the crisis, required bishops to reside in their dioceses, and founded **seminaries** to train clergy. The Catholicism that emerged — disciplined, confident, and missionary — would endure essentially unchanged until the Second Vatican Council four centuries later.",
+    "scriptureRefs": [],
+    "readingPointer": "Trent set Catholic doctrine and reform for four centuries, until Vatican II.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "martin-luther",
+        "type": "opposed"
+      }
+    ],
+    "location": {
+      "name": "Trent (Trento)",
+      "lat": 46.07,
+      "lng": 11.12
+    }
+  },
+  {
+    "id": "the-peace-of-augsburg",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Peace of Augsburg",
+    "yearStart": 1555,
+    "dateDisplay": "AD 1555",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "augsburg-peace",
+    "categories": [
+      "Church & Empire"
+    ],
+    "summary": "Each prince chooses his realm's religion — a fragile settlement in the Empire.",
+    "article": "By 1555 the religious division of Germany could not be undone by war, and the **Peace of Augsburg** accepted it: each prince would decide whether his territory was **Catholic or Lutheran**, a principle later summed up as *cuius regio, eius religio* — \"whose realm, his religion.\" Subjects who disagreed could emigrate.\n\nIt brought a generation of uneasy quiet, but it was narrow and brittle: it recognized only Catholics and Lutherans, leaving out the fast-growing **Calvinists**, and it froze grievances rather than resolving them. Those unresolved tensions, and the exclusion of the Reformed, would eventually explode into the catastrophe of the **Thirty Years' War**. The Peace of Augsburg was a truce, not a reconciliation.",
+    "scriptureRefs": [],
+    "readingPointer": "\"Whose realm, his religion\" — a truce that left out the Calvinists and could not hold.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Augsburg",
+      "lat": 48.37,
+      "lng": 10.9
+    }
+  },
+  {
+    "id": "john-knox",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "John Knox",
+    "yearStart": 1560,
+    "dateDisplay": "c. AD 1514–1572",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "knox-trumpet",
+    "categories": [
+      "Reformation"
+    ],
+    "summary": "The thundering reformer of Scotland and father of Presbyterianism.",
+    "article": "**John Knox** brought the Reformation to **Scotland** with the force of a trumpet blast. Formed in Calvin's **Geneva**, which he called \"the most perfect school of Christ,\" he returned home to lead the Scottish Reformation of **1560**, when Parliament abolished papal authority and adopted a Reformed confession.\n\nKnox shaped the **Presbyterian** order of church government — congregations led by elders rather than bishops — that spread through Scotland and, with the Scots and Scots-Irish, across the world. Fearless and fierce, he famously thundered against the Catholic **Mary, Queen of Scots**, and titled one tract *The First Blast of the Trumpet Against the Monstrous Regiment of Women* — for which the trumpet is his emblem, and which later rulers, Protestant queens included, never forgave.",
+    "scriptureRefs": [],
+    "readingPointer": "He founded Scottish Presbyterianism — church government by elders, not bishops.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Edinburgh",
+      "lat": 55.95,
+      "lng": -3.19
+    }
+  },
+  {
+    "id": "teresa-of-avila",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Teresa of Ávila",
+    "yearStart": 1570,
+    "dateDisplay": "AD 1515–1582",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "teresa-heart",
+    "categories": [
+      "Counter-Reformation",
+      "Mysticism"
+    ],
+    "summary": "Spanish mystic and reformer — the interior depth of the Catholic revival.",
+    "article": "**Teresa of Ávila** gave the Catholic Reformation its inward, contemplative depth. A Carmelite nun, she reformed her order into the stricter **Discalced (\"barefoot\") Carmelites**, founding houses of prayer across Spain against fierce opposition — a woman leading reform in an age that gave women little room.\n\nHer writings on prayer — *The Interior Castle* and *The Way of Perfection* — are classics of Christian mysticism, mapping the soul's ascent to union with God. She described a vision in which an angel pierced her heart with a golden arrow (her **transverberation**, the emblem here), leaving her aflame with the love of God. Practical and joyful as well as mystical, she was in 1970 named — with Catherine of Siena — one of the first women **Doctors of the Church**.",
+    "scriptureRefs": [],
+    "readingPointer": "Her Interior Castle maps the soul's ascent to union with God.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Ávila",
+      "lat": 40.66,
+      "lng": -4.7
+    }
+  },
+  {
+    "id": "st-bartholomews-day-massacre",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "St Bartholomew's Day Massacre",
+    "yearStart": 1572,
+    "dateDisplay": "AD 1572",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "bartholomew-massacre",
+    "categories": [
+      "Wars of Religion"
+    ],
+    "summary": "The slaughter of French Protestants — the horror of the wars of religion.",
+    "article": "In the early hours of **24 August 1572**, on the feast of St Bartholomew, the Catholic authorities in **Paris** unleashed a slaughter of the **Huguenots** — French Protestants gathered in the city for a royal wedding meant to seal peace. The killing spread from Paris across France for weeks; estimates of the dead run from several thousand to tens of thousands.\n\nThe massacre is one of the darkest episodes of the **French Wars of Religion**, and a stark witness that the age of the Reformation was also an age of appalling religious violence, with cruelty on every side. It hardened Protestant fears and deepened the hatreds that would drive Europe toward a still greater catastrophe. This entry records it plainly, as part of the honest reckoning the whole timeline attempts.",
+    "scriptureRefs": [],
+    "readingPointer": "One of the darkest episodes of the French Wars of Religion.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Paris",
+      "lat": 48.85,
+      "lng": 2.35
+    }
+  },
+  {
+    "id": "the-thirty-years-war",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Thirty Years' War",
+    "yearStart": 1630,
+    "dateDisplay": "AD 1618–1648",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "thirty-years-swords",
+    "categories": [
+      "Wars of Religion"
+    ],
+    "summary": "The devastating war that ended the age of religious wars in Europe.",
+    "article": "Beginning in Bohemia in **1618** (with the famous \"Defenestration of Prague\"), the **Thirty Years' War** engulfed central Europe for a generation. It started as a struggle between Catholic and Protestant powers within the Empire and grew into a continental war of the great states, fought largely on German soil. Armies, famine, and plague laid the land waste: some regions lost a **third or more of their people** — one of the worst catastrophes in European history.\n\nBy its end the war had burned out the will to fight over religion. It was closed by the **Peace of Westphalia (1648)**, which recognized Catholic, Lutheran, and now Calvinist alike and left the confessional map of Europe essentially as it remains. After Westphalia, Europe's great wars would be fought for empire and nation, not for the faith — the end of the age this timeline has traced from Christendom's rise.",
+    "scriptureRefs": [],
+    "readingPointer": "Its close at Westphalia (1648) ended Europe's age of religious wars.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Prague (the Defenestration) & central Europe",
+      "lat": 50.08,
+      "lng": 14.44
+    }
+  }
+]

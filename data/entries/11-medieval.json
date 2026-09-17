@@ -1,0 +1,728 @@
+[
+  {
+    "id": "benedict-of-nursia",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Benedict of Nursia",
+    "yearStart": 530,
+    "dateDisplay": "c. AD 480–547",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "benedict-raven",
+    "categories": [
+      "Monasticism"
+    ],
+    "summary": "Father of Western monasticism, whose Rule ordered the life of the medieval Church.",
+    "article": "**Benedict** gathered monks at **Monte Cassino** and wrote a **Rule** so wise and humane that it became the pattern for Western monastic life for a thousand years. Balancing prayer and work — *ora et labora* — under an abbot, with vows of stability, obedience, and conversion of life, it was a \"school for the Lord's service\" marked by moderation rather than heroic extremes.\n\nMonasteries following his Rule became the engines of medieval Europe: preserving books, clearing land, schooling the young, and keeping learning alive through the centuries after Rome's fall. Later legend gave him a raven that carried off poisoned bread meant to kill him — the emblem here — but his enduring monument is the Rule itself.",
+    "scriptureRefs": [],
+    "readingPointer": "The Rule of St Benedict shaped Western monasticism — and much of medieval culture.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Monte Cassino",
+      "lat": 41.49,
+      "lng": 13.81
+    }
+  },
+  {
+    "id": "gregory-the-great",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Gregory the Great",
+    "yearStart": 595,
+    "dateDisplay": "pope AD 590–604",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "papal-tiara",
+    "categories": [
+      "Papacy"
+    ],
+    "summary": "The pope who shaped the medieval papacy and sent the mission that converted England.",
+    "article": "**Gregory I**, a Roman monk who became pope in 590, did more than anyone to shape the **medieval papacy**. Styling himself \"servant of the servants of God,\" he fed Rome through famine and plague, negotiated with the Lombards, reformed the liturgy, and wrote the *Pastoral Rule* on the care of souls that guided bishops for centuries.\n\nHe launched the **mission to England** in 596, sending Augustine of Canterbury to convert the Anglo-Saxons — one of the great turning points in the Christianizing of Europe. Reckoned the last of the four Latin **Doctors of the Church** and the first of the medieval popes, Gregory stands at the hinge between the ancient and medieval worlds. The dove at his ear, in later art, signified the Spirit's inspiration.",
+    "scriptureRefs": [],
+    "readingPointer": "His mission of 596 began the conversion of Anglo-Saxon England.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "benedict-of-nursia",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Rome",
+      "lat": 41.89,
+      "lng": 12.48
+    }
+  },
+  {
+    "id": "the-rise-of-islam",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Rise of Islam",
+    "yearStart": 622,
+    "dateDisplay": "from AD 622 (the Hijra)",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "islam-crescent",
+    "categories": [
+      "Church & the World"
+    ],
+    "summary": "The new faith whose conquests transformed the map of the Christian world.",
+    "article": "Within a century of the **Hijra** (Muhammad's emigration to Medina in 622, the start of the Muslim calendar), the armies of **Islam** had swept across the Christian heartlands of the East and South. Syria, Egypt, and North Africa — the homes of Antioch, Alexandria, and Carthage, of Athanasius and Augustine — passed under Muslim rule, and much of their Christian population would slowly become minorities.\n\nThis entry is historical context, not a claim about Islam itself: it marks how the Christian world was reshaped. Three of the five ancient patriarchates now lay outside Christendom; the Byzantine East was thrown onto the defensive; and the Latin West, cut off and turned inward, developed on its own — the world in which the medieval Church took form.",
+    "scriptureRefs": [],
+    "readingPointer": "By c. 750 three of the five ancient patriarchates lay under Muslim rule.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Mecca",
+      "lat": 21.42,
+      "lng": 39.83
+    }
+  },
+  {
+    "id": "second-council-of-nicaea",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "Second Council of Nicaea",
+    "yearStart": 787,
+    "dateDisplay": "AD 787",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "council-assembly",
+    "categories": [
+      "Councils",
+      "Doctrine"
+    ],
+    "summary": "The seventh ecumenical council — the veneration of icons restored.",
+    "article": "For much of the 8th century the Eastern church was torn by **iconoclasm**: emperors, perhaps stung by Muslim charges of idolatry, ordered the destruction of holy images, while monks and much of the populace defended them. The **Second Council of Nicaea (787)** settled the matter for the church, restoring the **veneration of icons** — and carefully distinguishing the honour (*dulia*) given to an image, which passes to the one it represents, from the **worship** (*latria*) due to God alone.\n\nReckoned the **seventh and last of the ecumenical councils** recognized in common by East and West, it completes the great conciliar age that began at Nicaea I. Icons remain central to Orthodox worship to this day.",
+    "scriptureRefs": [],
+    "readingPointer": "The last of the seven ecumenical councils East and West hold in common.",
+    "sources": [
+      "ODCC",
+      "Chadwick, The Early Church"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Nicaea (modern İznik)",
+      "lat": 40.43,
+      "lng": 29.72
+    }
+  },
+  {
+    "id": "charlemagne",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Charlemagne",
+    "yearStart": 800,
+    "dateDisplay": "crowned emperor AD 800",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "imperial-crown",
+    "categories": [
+      "Church & Empire"
+    ],
+    "summary": "The Frankish king crowned Roman emperor — the medieval union of throne and altar.",
+    "article": "On **Christmas Day 800**, Pope Leo III crowned the Frankish king **Charlemagne** \"Emperor of the Romans\" in St Peter's — reviving a Western empire that had been gone for three centuries and binding it to the Church. It was a fateful act: it asserted that the pope could make an emperor, and it set the pattern of medieval **Christendom**, in which throne and altar were meant to uphold one another (and would often struggle for mastery).\n\nCharlemagne pressed the conversion of the Saxons (sometimes by the sword), reformed the clergy, standardized worship and the Latin Bible, and gathered scholars like **Alcuin** for the **Carolingian Renaissance** — a revival of learning that copied and preserved much of the classical and Christian heritage.",
+    "scriptureRefs": [],
+    "readingPointer": "His coronation in 800 revived the Western empire and defined medieval Christendom.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Aachen",
+      "lat": 50.78,
+      "lng": 6.08
+    }
+  },
+  {
+    "id": "the-investiture-controversy",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Investiture Controversy",
+    "yearStart": 1085,
+    "dateDisplay": "c. AD 1075–1122",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "investiture-clash",
+    "categories": [
+      "Church & Empire",
+      "Papacy"
+    ],
+    "summary": "The great struggle over who appoints bishops — pope or king.",
+    "article": "Who makes a bishop — the Church or the crown? The **Investiture Controversy** was the fiercest round of that long question. The reforming pope **Gregory VII** (Hildebrand) forbade kings to \"invest\" bishops with the symbols of their office and asserted the papacy's supremacy even over emperors. When **Henry IV** defied him, Gregory excommunicated him — and in the winter of 1077 the emperor stood three days barefoot in the snow at **Canossa**, begging absolution.\n\nThe drama swung back and forth for decades, ending in the compromise of the **Concordat of Worms (1122)**. Its deeper result was a papacy grown vastly more powerful and independent — the reformed, centralized medieval Church that would reach its height in the centuries to follow.",
+    "scriptureRefs": [],
+    "readingPointer": "Henry IV's penance at Canossa (1077) became the emblem of pope over emperor.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Canossa",
+      "lat": 44.57,
+      "lng": 10.41
+    }
+  },
+  {
+    "id": "anselm-of-canterbury",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Anselm of Canterbury",
+    "yearStart": 1095,
+    "dateDisplay": "c. AD 1033–1109",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "anselm-fides",
+    "categories": [
+      "Theology",
+      "Scholasticism"
+    ],
+    "summary": "The father of scholasticism — \"faith seeking understanding.\"",
+    "article": "**Anselm**, monk and archbishop of Canterbury, reopened the marriage of faith and reason that would define medieval theology. His motto, *fides quaerens intellectum* — \"faith seeking understanding\" — meant not that reason precedes belief, but that the believer longs to understand what he already holds: \"I believe in order that I may understand.\"\n\nIn the *Proslogion* he framed the famous **ontological argument** for God's existence (that than which nothing greater can be conceived must exist), and in *Cur Deus Homo* (\"Why God Became Man\") he gave the West its influential **satisfaction** account of the atonement. As archbishop he also stood against the king in the English chapter of the investiture struggle. He is reckoned the first great **scholastic**.",
+    "scriptureRefs": [],
+    "readingPointer": "\"Faith seeking understanding\" — his motto framed all of medieval theology.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "thomas-aquinas",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Canterbury",
+      "lat": 51.28,
+      "lng": 1.08
+    }
+  },
+  {
+    "id": "the-first-crusade",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Crusades",
+    "yearStart": 1096,
+    "dateDisplay": "from AD 1095 (called at Clermont)",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "crusade-cross",
+    "categories": [
+      "Church & the World"
+    ],
+    "summary": "The armed pilgrimages to the Holy Land — and their long, bitter legacy.",
+    "article": "In 1095, at **Clermont**, Pope **Urban II** called Western knights to recover Jerusalem and aid the Eastern Christians, promising spiritual reward; the crowd answered *Deus vult*, \"God wills it.\" The **First Crusade** took Jerusalem in 1099 amid terrible slaughter, and further crusades followed for two centuries.\n\nThe Crusades are among the most fraught episodes in Christian history. They opened trade and ideas between East and West, but they also left a long, dark legacy: massacres of Muslims and of Jews in the Rhineland, the sack of Christian **Constantinople** by crusaders in 1204 (which deepened the East–West breach), and a bitterness between faiths that endures. This entry records them plainly, neither glorifying nor erasing.",
+    "scriptureRefs": [],
+    "readingPointer": "The 1204 sack of Constantinople by crusaders hardened the split between East and West.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Jerusalem",
+      "lat": 31.78,
+      "lng": 35.23
+    }
+  },
+  {
+    "id": "bernard-of-clairvaux",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Bernard of Clairvaux",
+    "yearStart": 1125,
+    "dateDisplay": "c. AD 1090–1153",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "three-mitres",
+    "categories": [
+      "Monasticism",
+      "Theology"
+    ],
+    "summary": "The great Cistercian abbot and mystic, the conscience of his age.",
+    "article": "**Bernard**, abbot of **Clairvaux**, was the most influential churchman of the 12th century — a reformer, mystic, and preacher of such sweetness that he was called the *doctor mellifluus*, \"honey-tongued.\" Under him the austere **Cistercian** reform of Benedictine life spread across Europe.\n\nHe advised popes and kings, opposed the rationalism of Abelard, championed devotion to **Mary** and the humanity of Christ, and — for good and ill — preached the disastrous **Second Crusade**. Repeatedly offered bishoprics, he refused them all to stay a monk; the three declined mitres are his emblem here. His sermons on the Song of Songs became a classic of Christian mysticism, seeking the soul's union with God in love.",
+    "scriptureRefs": [],
+    "readingPointer": "His sermons on the Song of Songs are a summit of medieval mysticism.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "hildegard-of-bingen",
+        "type": "contemporary"
+      }
+    ],
+    "location": {
+      "name": "Clairvaux",
+      "lat": 48.16,
+      "lng": 4.79
+    }
+  },
+  {
+    "id": "hildegard-of-bingen",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Hildegard of Bingen",
+    "yearStart": 1150,
+    "dateDisplay": "c. AD 1098–1179",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "hildegard-feather",
+    "categories": [
+      "Monasticism",
+      "Mysticism"
+    ],
+    "summary": "Benedictine abbess, visionary, composer, and one of the great minds of her age.",
+    "article": "**Hildegard**, abbess of a Benedictine community on the Rhine, was one of the most remarkable figures of the Middle Ages: a **visionary** who recorded her visions of the \"living Light\" in *Scivias*, a **composer** of soaring liturgical music, a writer on medicine and the natural world, a preacher who toured and admonished bishops, and a correspondent of popes and emperors — all at a time when women rarely wrote at all.\n\nCalling herself \"a feather on the breath of God,\" she credited everything to grace rather than her own learning. Long venerated, she was named a **Doctor of the Church** in 2012 — one of only four women so honoured. Her feather is the emblem here.",
+    "scriptureRefs": [],
+    "readingPointer": "A visionary, composer, and healer — named a Doctor of the Church in 2012.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Bingen am Rhein",
+      "lat": 49.97,
+      "lng": 7.9
+    }
+  },
+  {
+    "id": "francis-of-assisi",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Francis of Assisi",
+    "yearStart": 1210,
+    "dateDisplay": "c. AD 1181–1226",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "francis-birds",
+    "categories": [
+      "Monasticism",
+      "Friars"
+    ],
+    "summary": "The merchant's son who wedded \"Lady Poverty\" and founded the Franciscans.",
+    "article": "**Francis** of Assisi renounced his wealthy father's inheritance — famously stripping off his clothes in the town square — to live in utter poverty in imitation of Christ. His joyful simplicity drew followers, and the **Franciscan** friars he founded took the gospel out of the cloister and into the towns, begging and preaching among the poor.\n\nHe loved all creation as kin, preaching (tradition says) even to the birds and composing the **Canticle of the Sun** to \"Brother Sun\" and \"Sister Moon.\" In 1224 he was said to receive the **stigmata**, the wounds of Christ, in his own body. His movement helped renew a wealthy, worldly Church from below — a reform that stayed within it rather than breaking away.",
+    "scriptureRefs": [],
+    "readingPointer": "His Canticle of the Sun praises God through \"Brother Sun\" and \"Sister Moon.\"",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "dominic",
+        "type": "contemporary"
+      }
+    ],
+    "location": {
+      "name": "Assisi",
+      "lat": 43.07,
+      "lng": 12.62
+    }
+  },
+  {
+    "id": "dominic",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Dominic",
+    "yearStart": 1216,
+    "dateDisplay": "c. AD 1170–1221",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "dominic-star",
+    "categories": [
+      "Friars"
+    ],
+    "summary": "Founder of the Order of Preachers — the friars of study and the word.",
+    "article": "Where Francis answered the age with poverty, **Dominic** answered it with **preaching and learning**. Confronting the **Cathar** movement in southern France — which the Church also met with the brutal Albigensian Crusade — Dominic concluded that error was best countered not by force or wealth but by well-trained preachers living the poverty they proclaimed.\n\nHis **Order of Preachers** (the **Dominicans**) became the intellectual shock troops of the medieval Church, filling the new universities and producing theologians like Thomas Aquinas. A play on the order's name, *Domini canes* — \"hounds of the Lord\" — gave them the emblem of a dog with a torch. Both the Dominicans and the Franciscans reshaped medieval Christianity from within.",
+    "scriptureRefs": [],
+    "readingPointer": "His Dominicans became the medieval Church's order of scholars and preachers.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Bologna",
+      "lat": 44.49,
+      "lng": 11.34
+    }
+  },
+  {
+    "id": "thomas-aquinas",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Thomas Aquinas",
+    "yearStart": 1270,
+    "dateDisplay": "c. AD 1225–1274",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "aquinas-sun",
+    "categories": [
+      "Theology",
+      "Scholasticism"
+    ],
+    "summary": "The summit of scholasticism — who wedded Aristotle to Christian faith.",
+    "article": "**Thomas Aquinas**, a Dominican friar and the greatest of the **scholastic** theologians, undertook the vast task of showing that faith and reason are friends, not rivals. In his **Summa Theologiae** he set out the whole of Christian doctrine with systematic care, drawing boldly on the newly recovered philosophy of **Aristotle** to argue that grace perfects nature rather than destroying it.\n\nHe offered the \"Five Ways\" to reason toward God, articulated **transubstantiation**, and wrote Eucharistic hymns still sung. Called \"the Angelic Doctor,\" and once mocked as \"the dumb ox\" for his silent bulk, he became after his death the most authoritative theologian of the Roman Catholic Church. Late in life a mystical experience left him calling his writings \"so much straw\"; he laid down his pen and soon died.",
+    "scriptureRefs": [],
+    "readingPointer": "His Summa Theologiae remains the great monument of medieval theology.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "dominic",
+        "type": "teacher-to-disciple"
+      }
+    ],
+    "location": {
+      "name": "Naples",
+      "lat": 40.85,
+      "lng": 14.27
+    }
+  },
+  {
+    "id": "the-avignon-papacy",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Avignon Papacy",
+    "yearStart": 1309,
+    "dateDisplay": "AD 1309–1377",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "avignon-tiara",
+    "categories": [
+      "Papacy"
+    ],
+    "summary": "The seventy years the popes reigned from Avignon, not Rome.",
+    "article": "For most of the 14th century the popes lived not in Rome but at **Avignon**, on the edge of France, in a splendid fortified palace and under heavy French influence. Seven popes reigned there across some seventy years — a period Petrarch bitterly called the **\"Babylonian Captivity\"** of the Church.\n\nGoverning ably but from afar, the Avignon papacy grew rich and bureaucratic while critics charged it with worldliness and neglect of Rome. Calls to return grew louder — pressed, among others, by **Catherine of Siena** — until Gregory XI at last brought the papacy home in 1377. But his death the next year plunged the Church into something far worse: the Western Schism of rival popes.",
+    "scriptureRefs": [],
+    "readingPointer": "Petrarch's \"Babylonian Captivity\" — seventy years of popes at Avignon.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Avignon",
+      "lat": 43.95,
+      "lng": 4.81
+    }
+  },
+  {
+    "id": "the-black-death",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Black Death",
+    "yearStart": 1348,
+    "dateDisplay": "AD 1347–1351",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "plague-skull",
+    "categories": [
+      "Church & the World"
+    ],
+    "summary": "The plague that killed a third of Europe — and shook its faith.",
+    "article": "Between 1347 and 1351 the **Black Death** swept across Europe, killing perhaps a **third of its people** in a few horrifying years. No institution was untouched — clergy who ministered to the dying died in great numbers, and the Church struggled to explain a catastrophe that fell on saint and sinner alike.\n\nThe spiritual aftershocks were profound: waves of **flagellants** scourging themselves to appease God's wrath, outbursts of persecution (Jews were savagely and falsely blamed), a darkening late-medieval piety obsessed with death and judgment (the *danse macabre*), and a deepened lay hunger for a more personal, inward faith. The plague did not cause the Reformation, but it helped make the world — anxious, questioning, and disillusioned with a failing clergy — in which it could come.",
+    "scriptureRefs": [],
+    "readingPointer": "Its spiritual aftershocks reshaped late-medieval piety and anticlericalism.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": []
+  },
+  {
+    "id": "catherine-of-siena",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Catherine of Siena",
+    "yearStart": 1370,
+    "dateDisplay": "c. AD 1347–1380",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "catherine-ring",
+    "categories": [
+      "Mysticism"
+    ],
+    "summary": "The mystic whose letters called the pope back from Avignon to Rome.",
+    "article": "**Catherine**, a young woman of Siena who became a Dominican tertiary, joined intense mystical experience to fearless public action. She reported a **mystical marriage** to Christ and, in her *Dialogue*, some of the most vivid mystical writing of the age — while also nursing plague victims and dictating a torrent of **letters** to the powerful.\n\nHer boldest campaign was to end the Avignon exile: she wrote and travelled to urge **Pope Gregory XI** to return the papacy to Rome, which he did in 1377. When the Western Schism followed, she spent herself trying to heal it, and died worn out at thirty-three. Long revered, she was in 1970 named — with Teresa of Ávila — one of the first women **Doctors of the Church**.",
+    "scriptureRefs": [],
+    "readingPointer": "Her letters helped bring the papacy back from Avignon to Rome in 1377.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "the-avignon-papacy",
+        "type": "opposed"
+      }
+    ],
+    "location": {
+      "name": "Siena",
+      "lat": 43.32,
+      "lng": 11.33
+    }
+  },
+  {
+    "id": "the-western-schism",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "The Western Schism",
+    "yearStart": 1378,
+    "dateDisplay": "AD 1378–1417",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "schism-two-tiaras",
+    "categories": [
+      "Papacy"
+    ],
+    "summary": "The forty years the Church had two — then three — rival popes.",
+    "article": "In 1378 a disputed election split the papacy: one pope in **Rome**, another back in **Avignon**, each with his own cardinals, and all of Western Christendom forced to choose. Saints and nations lined up on opposing sides; a council's attempt to depose both in 1409 only produced a **third** claimant. For nearly forty years the Church could not say for certain who its head was.\n\nThe scandal was finally healed by the **Council of Constance (1414–1418)**, which secured the resignation or deposition of all three and elected a single pope. Constance also gave voice to **conciliarism** — the idea that a general council stands above the pope — and, less nobly, condemned Wycliffe and burned Jan Hus. The schism gravely wounded the papacy's prestige on the eve of the Reformation.",
+    "scriptureRefs": [],
+    "readingPointer": "Healed at the Council of Constance (1417), which also condemned Hus and Wycliffe.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Rome & Avignon",
+      "lat": 41.89,
+      "lng": 12.48
+    }
+  },
+  {
+    "id": "john-wycliffe",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "John Wycliffe",
+    "yearStart": 1382,
+    "dateDisplay": "c. AD 1330–1384",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "wycliffe-star",
+    "categories": [
+      "Pre-Reformation"
+    ],
+    "summary": "The Oxford theologian called the \"morning star of the Reformation.\"",
+    "article": "**John Wycliffe**, an Oxford theologian, anticipated the Reformation by more than a century. He set **Scripture above church tradition and the pope**, attacked clerical wealth and corruption, denied **transubstantiation**, and taught that the true Church is the company of the elect, not the visible hierarchy. He inspired the first complete English **Bible** (the *Wycliffe Bible*) so that ordinary people could read it, and sent out poor preachers, the **Lollards**, to spread his teaching.\n\nProtected in life by powerful patrons, he died in his bed in 1384 — but the Council of Constance condemned him as a heretic, and his bones were later dug up and burned. His ideas passed to Bohemia and Jan Hus, and through them toward Luther; he is remembered as the **\"morning star of the Reformation.\"**",
+    "scriptureRefs": [],
+    "readingPointer": "His English Bible and his stand on Scripture make him a forerunner of Tyndale and Luther.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "jan-hus",
+        "type": "influenced"
+      },
+      {
+        "targetId": "tyndale-new-testament",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Oxford",
+      "lat": 51.75,
+      "lng": -1.26
+    }
+  },
+  {
+    "id": "jan-hus",
+    "type": "figure",
+    "layers": [
+      "church"
+    ],
+    "title": "Jan Hus",
+    "yearStart": 1415,
+    "dateDisplay": "c. AD 1372–1415",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "hus-goose",
+    "categories": [
+      "Pre-Reformation",
+      "Martyrs"
+    ],
+    "summary": "The Czech reformer burned at Constance — a martyr who lit the way to Luther.",
+    "article": "**Jan Hus**, a preacher and rector of the university at **Prague**, took up Wycliffe's ideas and thundered against indulgences, clerical corruption, and abuses of papal power, calling the Church back to Scripture and to Christ as its only head. His preaching made him a national hero in Bohemia.\n\nSummoned to the **Council of Constance** under an imperial **safe-conduct**, he was instead arrested, condemned, and **burned at the stake in 1415** — the safe-conduct dishonoured. His name means \"goose\" in Czech, and he is said to have foretold that though they cooked this goose, a swan would come whom they could not silence — words Luther's followers later applied to Luther. The Hussite movement he left behind foreshadowed the Reformation by a century.",
+    "scriptureRefs": [],
+    "readingPointer": "Burned at Constance in 1415 despite a safe-conduct — Luther later claimed him.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": [
+      {
+        "targetId": "martin-luther",
+        "type": "influenced"
+      }
+    ],
+    "location": {
+      "name": "Prague",
+      "lat": 50.08,
+      "lng": 14.44
+    }
+  },
+  {
+    "id": "the-imitation-of-christ",
+    "type": "text",
+    "layers": [
+      "church"
+    ],
+    "title": "The Imitation of Christ",
+    "yearStart": 1420,
+    "dateDisplay": "c. AD 1418–1427",
+    "certainty": "attested",
+    "registers": [
+      "history",
+      "tradition"
+    ],
+    "symbol": "imitatio-steps",
+    "categories": [
+      "Devotion",
+      "Mysticism"
+    ],
+    "summary": "The late-medieval devotional classic — inward discipleship of Christ.",
+    "article": "**The Imitation of Christ** is, after the Bible, among the most widely read of all Christian books. A small manual of interior devotion, it turns the reader away from learned disputation toward humble, practical following of Christ: \"I would rather feel contrition than know how to define it.\"\n\nIt grew out of the **Devotio Moderna**, the \"modern devotion\" of the Brethren of the Common Life in the Low Countries, and is traditionally ascribed to **Thomas à Kempis**. Its stress on a heartfelt, personal, inward faith — over ceremony and speculation — nourished countless Christians across the coming divisions, read by Catholics and Protestants alike. As a text it appears here as a codex, the quiet devotional counterpoint to the era's councils and controversies.",
+    "scriptureRefs": [],
+    "readingPointer": "After the Bible, one of the most widely read Christian devotional books ever written.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": []
+  },
+  {
+    "id": "fall-of-constantinople",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "Fall of Constantinople",
+    "yearStart": 1453,
+    "dateDisplay": "AD 1453",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "constantinople-dome",
+    "categories": [
+      "Church & the World"
+    ],
+    "summary": "The end of the Byzantine Empire — and of the medieval Christian East.",
+    "article": "In **1453** the Ottoman sultan **Mehmed II** breached the ancient walls of **Constantinople**, ending the thousand-year **Byzantine Empire** — the last living continuation of the Roman world and the heart of Orthodox Christianity. The great church of **Hagia Sophia**, for nine centuries the grandest in Christendom, became a mosque.\n\nThe consequences rippled outward. Greek scholars fled west with their manuscripts, feeding the **Renaissance** and the new study of the Bible in its original languages that would shape the Reformation. The leadership of Orthodoxy shifted north to Russia, whose churchmen began to call **Moscow** the \"Third Rome.\" The fall closes the medieval age — the East under Islam, the West on the eve of its own great rupture.",
+    "scriptureRefs": [],
+    "readingPointer": "Greek scholars fleeing the fall helped spark the biblical scholarship of the Reformation.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity"
+    ],
+    "relationships": [],
+    "location": {
+      "name": "Constantinople (modern Istanbul)",
+      "lat": 41.01,
+      "lng": 28.98
+    }
+  }
+]

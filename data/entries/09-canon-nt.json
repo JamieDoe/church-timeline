@@ -1,0 +1,630 @@
+[
+  {
+    "id": "the-septuagint",
+    "type": "text",
+    "layers": [
+      "scripture",
+      "church"
+    ],
+    "title": "The Septuagint (LXX)",
+    "yearStart": -260,
+    "dateDisplay": "c. 3rd–2nd c. BC",
+    "certainty": "attested",
+    "registers": [
+      "tradition",
+      "history"
+    ],
+    "symbol": "septuagint-scroll",
+    "categories": [
+      "Canon",
+      "Scripture"
+    ],
+    "summary": "The Greek translation of the Hebrew Scriptures — the Bible of the early Church.",
+    "article": "The **Septuagint** is the ancient Greek translation of the Hebrew Scriptures, made for Greek-speaking Jews in Alexandria beginning in the 3rd century BC. Its name (Latin *septuaginta*, \"seventy,\" abbreviated **LXX**) comes from the legend in the *Letter of Aristeas* that seventy-two translators produced the Torah in seventy-two days.\n\n*Why it matters:* the Septuagint was the Bible most of the New Testament writers quoted, and it became the Old Testament of the early Greek-speaking Church. Because it circulated with the extra books later called **deuterocanonical**, it stands at the head of the difference between the Jewish/Protestant and the Catholic/Orthodox Old Testaments — the fault line first noted at the Tanakh node, to which this one is tethered.\n\nThe translation is well attested historically; the pious legend of the seventy is tradition, and the article keeps the two apart.",
+    "scriptureRefs": [],
+    "readingPointer": "Many NT quotations of the OT follow the Septuagint's wording rather than the Hebrew.",
+    "sources": [
+      "ODCC",
+      "F. F. Bruce (via ODCC/NIV Study Bible)",
+      "NIV Study Bible"
+    ],
+    "relationships": [
+      {
+        "targetId": "the-tanakh",
+        "type": "describes"
+      }
+    ],
+    "traditions": {
+      "protestant": "Values the LXX historically but follows the shorter Hebrew canon.",
+      "catholic": "Received the deuterocanonical books that came through the LXX as Scripture.",
+      "orthodox": "Treats the Septuagint itself as the authoritative Old Testament text."
+    }
+  },
+  {
+    "id": "the-pauline-epistles",
+    "type": "text",
+    "layers": [
+      "scripture"
+    ],
+    "title": "The Letters of Paul",
+    "yearStart": 54,
+    "dateDisplay": "c. AD 48–64 · earliest NT writings",
+    "certainty": "attested",
+    "registers": [
+      "scripture",
+      "history"
+    ],
+    "symbol": "scroll-sword",
+    "categories": [
+      "Epistles",
+      "Scripture"
+    ],
+    "summary": "Thirteen letters bearing Paul's name — and the earliest Christian writings we possess.",
+    "article": "The thirteen letters attributed to **Paul** are, by consensus, the **earliest writings in the New Testament** — earlier than the Gospels. Written to churches and individuals around the Mediterranean, they work out the meaning of Christ's death and resurrection, the place of the law, and the shape of the new community.\n\n*Historical register:* scholars distinguish degrees of certainty. **Seven are undisputed** — Romans, 1–2 Corinthians, Galatians, Philippians, 1 Thessalonians, and Philemon — among the most securely authored texts of antiquity, written c. AD 48–58. **1 Thessalonians (c. AD 50)** is likely the oldest book in the New Testament, and this node sits near there. Ephesians, Colossians, and 2 Thessalonians are debated (\"Deutero-Pauline\"), and the **Pastoral Epistles** (1–2 Timothy, Titus) are widely thought by critical scholars to be later works written in Paul's name — a common and not-necessarily-dishonest practice in the ancient world. Traditional interpreters defend Paul's authorship of all thirteen.\n\nHebrews, though once grouped with Paul, is anonymous and treated with the general epistles. The tether runs back to Paul himself.",
+    "scriptureRefs": [
+      "Romans 8",
+      "1 Corinthians 13",
+      "Galatians 2",
+      "Philippians 2"
+    ],
+    "readingPointer": "Start with Romans and 1 Corinthians (undisputed), then Philemon — the shortest.",
+    "sources": [
+      "ESV Study Bible",
+      "ODCC",
+      "NIV Study Bible"
+    ],
+    "relationships": [
+      {
+        "targetId": "paul",
+        "type": "describes"
+      }
+    ]
+  },
+  {
+    "id": "book-mark",
+    "type": "text",
+    "layers": [
+      "scripture"
+    ],
+    "title": "The Gospel of Mark",
+    "yearStart": 68,
+    "dateDisplay": "c. AD 65–70 · traditionally Mark, from Peter",
+    "certainty": "contested",
+    "registers": [
+      "scripture",
+      "tradition",
+      "history"
+    ],
+    "symbol": "winged-lion",
+    "categories": [
+      "Gospels",
+      "Scripture"
+    ],
+    "summary": "The shortest, most urgent Gospel — most likely the first to be written.",
+    "article": "*Mark* is the shortest and most fast-paced Gospel, driving from Jesus' baptism to the empty tomb with the repeated word \"immediately.\" It bears the lion of the four living creatures.\n\n*Traditional register:* early tradition (Papias, c. AD 130) names **Mark** as its author, recording the preaching of **Peter** — which is why Peter's Gospel wears Mark's name.\n\n*Historical register:* the Gospels are formally anonymous; the names come from 2nd-century tradition. Most scholars hold **Markan priority** — that Mark was written first, about **AD 65–70** (around the Jewish revolt), and used as a source by Matthew and Luke. This is the mainstream solution to the \"Synoptic Problem,\" alongside the hypothesis of a lost sayings source, **Q**.\n\nThe tradition and the critical view agree closely here on date; the authorship is where they differ, and both are set out.",
+    "scriptureRefs": [
+      "Mark 1",
+      "Mark 8",
+      "Mark 15"
+    ],
+    "readingPointer": "Read it in one sitting: Mark 1–16.",
+    "sources": [
+      "ESV Study Bible",
+      "ODCC",
+      "NIV Study Bible"
+    ],
+    "relationships": [
+      {
+        "targetId": "jesus",
+        "type": "describes"
+      }
+    ]
+  },
+  {
+    "id": "book-matthew",
+    "type": "text",
+    "layers": [
+      "scripture"
+    ],
+    "title": "The Gospel of Matthew",
+    "yearStart": 85,
+    "dateDisplay": "c. AD 80–90 · traditionally Matthew",
+    "certainty": "contested",
+    "registers": [
+      "scripture",
+      "tradition",
+      "history"
+    ],
+    "symbol": "winged-man",
+    "categories": [
+      "Gospels",
+      "Scripture"
+    ],
+    "summary": "The Gospel for Israel — Jesus as the promised Messiah and new Moses.",
+    "article": "*Matthew* presents Jesus to a Jewish-Christian audience as the fulfilment of the Law and the Prophets — opening with the genealogy that anchors the gold thread of promise, and gathering his teaching into five great discourses, including the Sermon on the Mount. Its emblem is the winged man of the four living creatures, for its opening human genealogy.\n\n*Traditional register:* ascribed to **Matthew** the tax collector, one of the Twelve.\n\n*Historical register:* most scholars date Matthew to about **AD 80–90** and see it drawing on Mark and the sayings source Q, written by an anonymous Jewish-Christian author who used Matthew's name. Its heightened conflict with \"the scribes and Pharisees\" fits the period after the temple's fall, when church and synagogue were parting.\n\nAuthorship is genuinely debated; the entry marks it rather than deciding it.",
+    "scriptureRefs": [
+      "Matthew 1",
+      "Matthew 5",
+      "Matthew 28"
+    ],
+    "readingPointer": "Read the Sermon on the Mount: Matthew 5–7.",
+    "sources": [
+      "ESV Study Bible",
+      "ODCC",
+      "NIV Study Bible"
+    ],
+    "relationships": [
+      {
+        "targetId": "jesus",
+        "type": "describes"
+      }
+    ]
+  },
+  {
+    "id": "book-luke",
+    "type": "text",
+    "layers": [
+      "scripture"
+    ],
+    "title": "The Gospel of Luke",
+    "yearStart": 83,
+    "dateDisplay": "c. AD 80–90 · traditionally Luke",
+    "certainty": "contested",
+    "registers": [
+      "scripture",
+      "tradition",
+      "history"
+    ],
+    "symbol": "ox",
+    "categories": [
+      "Gospels",
+      "Scripture"
+    ],
+    "summary": "The Gospel for the world — an ordered account, rich in mercy for the outsider.",
+    "article": "*Luke* is the first volume of a two-part work (with Acts), written in polished Greek and dedicated to \"most excellent Theophilus\" as an \"orderly account.\" It gives us the parables of the Good Samaritan and the Prodigal Son, and a special tenderness toward the poor, women, and outsiders. Its emblem is the sacrificial ox.\n\n*Traditional register:* ascribed to **Luke**, the physician and companion of Paul.\n\n*Historical register:* usually dated **c. AD 80–90**, drawing on Mark and Q along with material unique to Luke. The tradition that its author travelled with Paul is defended by some and doubted by others; the case is closely tied to the authorship of Acts.\n\nThe node sits with the other later Gospels, tethered to the Christ it recounts.",
+    "scriptureRefs": [
+      "Luke 1",
+      "Luke 15",
+      "Luke 24"
+    ],
+    "readingPointer": "Read the parables of mercy: Luke 15.",
+    "sources": [
+      "ESV Study Bible",
+      "ODCC",
+      "NIV Study Bible"
+    ],
+    "relationships": [
+      {
+        "targetId": "jesus",
+        "type": "describes"
+      }
+    ]
+  },
+  {
+    "id": "book-acts",
+    "type": "text",
+    "layers": [
+      "scripture"
+    ],
+    "title": "The Acts of the Apostles",
+    "yearStart": 88,
+    "dateDisplay": "c. AD 80–90 (some argue c. 62)",
+    "certainty": "contested",
+    "registers": [
+      "scripture",
+      "tradition",
+      "history"
+    ],
+    "symbol": "acts-tongues",
+    "categories": [
+      "History",
+      "Scripture"
+    ],
+    "summary": "The story of the early Church, from Pentecost to Paul in Rome.",
+    "article": "*Acts* is Luke's second volume: the birth of the Church at **Pentecost**, its spread from Jerusalem to Judea, Samaria, and \"to the ends of the earth,\" the conversion of Paul, and the mission that carries the gospel to Rome. Almost everything the timeline shows of the apostolic age is drawn from it.\n\n*Traditional register:* written by **Luke**, companion of Paul; the so-called \"we passages\" read like an eyewitness travel diary.\n\n*Historical register:* most scholars date Acts to **c. AD 80–90**, with the Gospel of Luke. A minority argue for an earlier date (c. 62), since Acts ends with Paul still alive under house arrest in Rome, before his death. Its speeches follow the conventions of ancient historiography.\n\nThe node is tethered to Pentecost, where its story begins.",
+    "scriptureRefs": [
+      "Acts 1",
+      "Acts 2",
+      "Acts 9"
+    ],
+    "readingPointer": "Read it: Acts 1–2 (Pentecost), then follow the mission outward.",
+    "sources": [
+      "ESV Study Bible",
+      "ODCC",
+      "NIV Study Bible"
+    ],
+    "relationships": [
+      {
+        "targetId": "pentecost",
+        "type": "describes"
+      }
+    ]
+  },
+  {
+    "id": "book-john",
+    "type": "text",
+    "layers": [
+      "scripture"
+    ],
+    "title": "The Gospel of John",
+    "yearStart": 95,
+    "dateDisplay": "c. AD 90–100 · traditionally John",
+    "certainty": "contested",
+    "registers": [
+      "scripture",
+      "tradition",
+      "history"
+    ],
+    "symbol": "eagle",
+    "categories": [
+      "Gospels",
+      "Scripture"
+    ],
+    "summary": "The soaring Gospel — \"In the beginning was the Word.\"",
+    "article": "*John* stands apart from the other three Gospels: meditative, symbolic, and high in its Christology, opening with the eternal Word and organized around seven signs and seven \"I am\" sayings. Its emblem is the eagle, for the soaring prologue.\n\n*Traditional register:* ascribed to **John**, the beloved disciple, son of Zebedee.\n\n*Historical register:* usually dated latest of the four, **c. AD 90–100**. Its authorship is much debated — the \"beloved disciple,\" a Johannine school, or a later editor; the differences from the Synoptics (in chronology, style, and content) are long recognized. The papyrus fragment **P52**, a scrap of John dated to the early 2nd century, is among the oldest surviving pieces of any New Testament text — placing the Gospel firmly in the 1st century.\n\nThe tether runs back to Christ; the authorship debate is laid out, not resolved.",
+    "scriptureRefs": [
+      "John 1",
+      "John 11",
+      "John 20"
+    ],
+    "readingPointer": "Read the prologue: John 1:1–18.",
+    "sources": [
+      "ESV Study Bible",
+      "ODCC",
+      "NIV Study Bible"
+    ],
+    "relationships": [
+      {
+        "targetId": "jesus",
+        "type": "describes"
+      }
+    ]
+  },
+  {
+    "id": "the-general-epistles",
+    "type": "text",
+    "layers": [
+      "scripture"
+    ],
+    "title": "Hebrews & the General Epistles",
+    "yearStart": 92,
+    "dateDisplay": "c. AD 60–100",
+    "certainty": "contested",
+    "registers": [
+      "scripture",
+      "tradition",
+      "history"
+    ],
+    "symbol": "epistles-bundle",
+    "categories": [
+      "Epistles",
+      "Scripture"
+    ],
+    "summary": "The letters not from Paul — Hebrews, James, Peter, John, and Jude.",
+    "article": "Beyond Paul's letters stand the **General (\"Catholic\") Epistles** — addressed broadly to the Church — together with **Hebrews**. They range from the sustained argument of Hebrews (Christ as the great high priest) to James on faith and works, 1 Peter on suffering, the letters of John on love and truth, and short, sharp Jude.\n\n*Historical register:* **Hebrews is anonymous** — early attempts to credit Paul were doubted even in antiquity, and its authorship remains unknown. Several of these letters were among the **antilegomena**, the \"spoken-against\" books whose place in the canon was long uncertain — especially **2 Peter** (widely regarded by critical scholars as the latest book of the New Testament, written pseudonymously), along with James, Jude, 2–3 John, and Hebrews itself.\n\nThat these very books were debated is part of the honest story of how the canon took shape — taken up in the canon-formation nodes nearby. The tether runs to Peter as a representative pillar.",
+    "scriptureRefs": [
+      "Hebrews 11",
+      "James 2",
+      "1 Peter 2",
+      "1 John 4"
+    ],
+    "readingPointer": "Read it: Hebrews 11 (faith), James 1–2, and 1 John 4.",
+    "sources": [
+      "ESV Study Bible",
+      "ODCC",
+      "NIV Study Bible"
+    ],
+    "relationships": [
+      {
+        "targetId": "peter",
+        "type": "describes"
+      }
+    ]
+  },
+  {
+    "id": "book-revelation",
+    "type": "text",
+    "layers": [
+      "scripture"
+    ],
+    "title": "Revelation",
+    "yearStart": 96,
+    "dateDisplay": "c. AD 95 (Domitian)",
+    "certainty": "contested",
+    "registers": [
+      "scripture",
+      "tradition",
+      "history"
+    ],
+    "symbol": "alpha-omega",
+    "categories": [
+      "Apocalypse",
+      "Scripture"
+    ],
+    "summary": "The apocalypse of John — visions of judgment, the Lamb, and the new creation.",
+    "article": "*Revelation* (the Apocalypse) closes the New Testament with the visions of **John on the island of Patmos**: letters to seven churches, the throne of God, the Lamb who was slain, the seals, trumpets, and bowls, the fall of \"Babylon,\" and at last a new heaven and new earth. Its keynote is Christ as the **Alpha and the Omega**, the beginning and the end.\n\n*Historical register:* most scholars date it to **c. AD 95**, under the emperor Domitian, reading its \"Babylon\" as Rome and its beast as the imperial cult pressing on the churches of Asia. Whether its author John is the apostle, the evangelist, or another John of Patmos is debated — the Greek differs markedly from the Fourth Gospel. Revelation was itself one of the last books to be universally accepted into the canon, especially in the East.\n\nThe genre is apocalyptic, a symbolic literature of crisis and hope; the tether runs to John.",
+    "scriptureRefs": [
+      "Revelation 1",
+      "Revelation 5",
+      "Revelation 21"
+    ],
+    "readingPointer": "Read it: Revelation 1, 5, and 21–22.",
+    "sources": [
+      "ESV Study Bible",
+      "ODCC",
+      "NIV Study Bible"
+    ],
+    "relationships": [
+      {
+        "targetId": "john",
+        "type": "describes"
+      }
+    ]
+  },
+  {
+    "id": "the-new-testament-canon",
+    "type": "text",
+    "layers": [
+      "scripture",
+      "church"
+    ],
+    "title": "The New Testament Canon",
+    "yearStart": 250,
+    "dateDisplay": "recognized 2nd–4th c. AD",
+    "certainty": "attested",
+    "registers": [
+      "tradition",
+      "history"
+    ],
+    "symbol": "gospel-cross",
+    "categories": [
+      "Canon",
+      "Scripture"
+    ],
+    "summary": "How the twenty-seven books came to be recognized as Scripture.",
+    "article": "The New Testament's **27 books** were not decreed by any single council out of nothing; they were **recognized** over roughly three centuries of use. Churches read the Gospels and Paul's letters as authoritative from early on, but the edges of the collection stayed unsettled — some books were disputed (**Hebrews, James, 2 Peter, 2–3 John, Jude, Revelation**), and a few other early writings (the *Didache*, *Shepherd of Hermas*, *1 Clement*) were valued and read but ultimately not included.\n\n*Historical register:* the pressure to define the canon grew when **Marcion** (c. AD 144) proposed a drastically cut list, and as gnostic gospels circulated. The rough criteria were apostolic origin, wide use, and consistency with the rule of faith. The specific milestones — the Muratorian list, Athanasius' letter of 367, and the North African councils — appear as their own nodes along this stretch of the timeline.\n\nThe process is well attested; the exact moment the canon \"closed\" is not a single datable event, and the entry says so.",
+    "scriptureRefs": [
+      "2 Timothy 3:16",
+      "2 Peter 3:15-16"
+    ],
+    "readingPointer": "The disputed books (Hebrews, James, 2 Peter, Revelation) are where the canon's edges were tested.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity",
+      "Chadwick, The Early Church"
+    ],
+    "relationships": []
+  },
+  {
+    "id": "the-muratorian-fragment",
+    "type": "text",
+    "layers": [
+      "church"
+    ],
+    "title": "The Muratorian Fragment",
+    "yearStart": 180,
+    "dateDisplay": "c. AD 170–200 (some argue 4th c.)",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "torn-fragment",
+    "categories": [
+      "Canon"
+    ],
+    "summary": "The oldest known list of New Testament books.",
+    "article": "The **Muratorian Fragment** is a damaged 7th-century Latin manuscript preserving what is usually taken to be the **oldest known list of New Testament books**, its original composed in Rome around **AD 170–200** (a minority of scholars argue for a 4th-century date).\n\n*What it shows:* the list already includes the four Gospels, Acts, Paul's letters, and most of the rest — but its edges are revealing. It omits **Hebrews, James, and 1–2 Peter**; it includes the **Wisdom of Solomon**; and it lists the **Apocalypse of Peter** while noting that some will not have it read in church. It is direct evidence that the core of the canon was settled early while its boundaries were still being negotiated — exactly the picture the New Testament canon node describes.\n\nThe fragment is a real, if broken, historical witness; its dating is the debated part.",
+    "scriptureRefs": [],
+    "readingPointer": "Its omissions (Hebrews, James, Peter) map the canon's unsettled edges around AD 180.",
+    "sources": [
+      "ODCC",
+      "Chadwick, The Early Church"
+    ],
+    "relationships": []
+  },
+  {
+    "id": "athanasius-367",
+    "type": "text",
+    "layers": [
+      "scripture",
+      "church"
+    ],
+    "title": "Athanasius' Festal Letter",
+    "yearStart": 367,
+    "dateDisplay": "AD 367",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "festal-letter",
+    "categories": [
+      "Canon"
+    ],
+    "summary": "The first list of exactly the twenty-seven New Testament books.",
+    "article": "In his **39th Festal Letter of AD 367**, Athanasius, bishop of Alexandria, listed the books to be read as Scripture — and gave the **first known list of exactly the twenty-seven New Testament books** we now have, no more and no fewer, calling them the \"springs of salvation.\"\n\n*Why it matters:* it is the earliest surviving statement of the New Testament canon in its final form. Athanasius also distinguished these canonical books from others that were useful for reading but not Scripture — an early, careful sorting rather than a sudden decree. His authority as the great champion of Nicene orthodoxy gave the list weight across the Church.\n\nThe letter is securely dated and preserved; its significance is a matter of plain historical record.",
+    "scriptureRefs": [],
+    "readingPointer": "367 is the first time the 27-book New Testament appears as a closed list.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity"
+    ],
+    "relationships": []
+  },
+  {
+    "id": "councils-of-hippo-carthage",
+    "type": "event",
+    "layers": [
+      "church"
+    ],
+    "title": "Councils of Hippo & Carthage",
+    "yearStart": 397,
+    "dateDisplay": "AD 393 & 397",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "canon-ratified",
+    "categories": [
+      "Canon",
+      "Councils"
+    ],
+    "summary": "The North African councils that ratified the biblical canon in the West.",
+    "article": "The regional **Councils of Hippo (393)** and **Carthage (397, reaffirmed 419)**, in the orbit of **Augustine**, listed the books to be received as canonical Scripture — both Old and New Testaments — and are the first councils known to have formally ratified the canon in the Western Church.\n\n*What they settled:* their New Testament matched Athanasius' 27. Their Old Testament followed the wider **Septuagint-based** list, including the deuterocanonical books — which is why the Western Church would carry those books until the Reformation reopened the question.\n\nThese were not the moment the canon was \"invented\"; they ratified what was already in wide use. But they mark the point at which the Western Church's Bible was, in effect, fixed — and they set up the later Catholic/Protestant divide over the deuterocanon.",
+    "scriptureRefs": [],
+    "readingPointer": "Hippo and Carthage ratify in the West what Athanasius had listed in the East.",
+    "sources": [
+      "ODCC",
+      "González, The Story of Christianity",
+      "Chadwick, The Early Church"
+    ],
+    "relationships": []
+  },
+  {
+    "id": "the-vulgate",
+    "type": "text",
+    "layers": [
+      "scripture",
+      "church"
+    ],
+    "title": "The Vulgate",
+    "yearStart": 400,
+    "dateDisplay": "c. AD 382–405 (Jerome)",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "vulgate-codex",
+    "categories": [
+      "Canon",
+      "Translation"
+    ],
+    "summary": "Jerome's Latin Bible — the standard Scripture of the Western Church for a thousand years.",
+    "article": "The **Vulgate** is the Latin Bible produced largely by **Jerome**, commissioned by Pope Damasus, between about AD 382 and 405. Jerome revised the existing Latin Gospels and, controversially, translated much of the Old Testament afresh **from the Hebrew** rather than the Greek Septuagint — insisting on the *Hebraica veritas*, the \"Hebrew truth.\"\n\n*Why it matters:* the Vulgate became the standard Bible of the Western Church for over a millennium — the text behind medieval theology, liturgy, and art, and the base from which many later European translations worked. Jerome's own doubts about the deuterocanonical books (which he translated but rated below the Hebrew canon) would be quoted by both sides at the Reformation.\n\nThe translation and its dominance are securely documented history.",
+    "scriptureRefs": [],
+    "readingPointer": "\"Vulgate\" means the \"common\" edition — the Bible of the Latin West for a thousand years.",
+    "sources": [
+      "ODCC",
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity"
+    ],
+    "relationships": []
+  },
+  {
+    "id": "the-masoretic-text",
+    "type": "text",
+    "layers": [
+      "scripture",
+      "church"
+    ],
+    "title": "The Masoretic Text",
+    "yearStart": 900,
+    "dateDisplay": "Masoretes, c. 7th–10th c. AD",
+    "certainty": "attested",
+    "registers": [
+      "tradition",
+      "history"
+    ],
+    "symbol": "masoretic-points",
+    "categories": [
+      "Canon",
+      "Translation"
+    ],
+    "summary": "The authoritative Hebrew Bible, fixed with vowel points by the Masoretes.",
+    "article": "The **Masoretic Text** is the authoritative Hebrew text of the Jewish Scriptures, fixed by the **Masoretes** — generations of Jewish scribes working from roughly the 7th to the 10th century AD. To a consonant-only text transmitted with extraordinary care, they added **vowel points** and cantillation marks, along with detailed notes (the *masorah*) to guard the reading.\n\n*Why it matters:* the great codices — the **Aleppo Codex** and the **Leningrad Codex** (c. AD 1008) — are the basis of nearly every modern Old Testament translation from the Hebrew. The **Dead Sea Scrolls**, a thousand years older, later confirmed how faithfully the consonantal text had been preserved, while also showing that other text-forms once circulated alongside it.\n\nThe scribal achievement is well attested; this node marks the tradition that stabilized the Hebrew Bible we read today.",
+    "scriptureRefs": [],
+    "readingPointer": "The Aleppo and Leningrad codices behind modern Old Testaments come from this tradition.",
+    "sources": [
+      "ODCC",
+      "NIV Study Bible"
+    ],
+    "relationships": []
+  },
+  {
+    "id": "luther-bible",
+    "type": "text",
+    "layers": [
+      "scripture",
+      "church"
+    ],
+    "title": "The Luther Bible",
+    "yearStart": 1522,
+    "dateDisplay": "NT 1522 · complete Bible 1534",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "luther-rose",
+    "categories": [
+      "Translation",
+      "Reformation"
+    ],
+    "summary": "Luther's German Bible — Scripture in the language of the people, and a milestone of the language itself.",
+    "article": "**Martin Luther** translated the New Testament into German from the Greek in **1522** (while in hiding at the Wartburg), and, with collaborators, the complete Bible by **1534**. Its aim was that the ploughman and the milkmaid should read Scripture in their own tongue.\n\n*Why it matters:* the Luther Bible shaped the modern **German language** as profoundly as the King James Version later shaped English. It also embodied a Reformation conviction about the canon: Luther grouped the **deuterocanonical books separately as \"Apocrypha\"** — \"useful and good to read\" but not equal to Scripture — and voiced reservations even about James and Revelation, though he kept them. This editorial choice is a large part of why Protestant Bibles carry a shorter Old Testament.\n\nThe translation and its influence are firmly documented; it sits just after the Luther figure on the timeline.",
+    "scriptureRefs": [],
+    "readingPointer": "Luther's separation of the Apocrypha helped fix the shorter Protestant Old Testament.",
+    "sources": [
+      "MacCulloch, A History of Christianity",
+      "González, The Story of Christianity",
+      "ODCC"
+    ],
+    "relationships": []
+  },
+  {
+    "id": "tyndale-new-testament",
+    "type": "text",
+    "layers": [
+      "scripture",
+      "church"
+    ],
+    "title": "Tyndale's New Testament",
+    "yearStart": 1526,
+    "dateDisplay": "1526 (printed)",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "tyndale-flame",
+    "categories": [
+      "Translation",
+      "Reformation"
+    ],
+    "summary": "The first English New Testament from the Greek — and the seedbed of the King James Bible.",
+    "article": "**William Tyndale** produced the first printed **English New Testament translated from the Greek**, in 1526, working in exile because English Scripture was forbidden at home. He went on to translate much of the Old Testament from the Hebrew before he was betrayed, strangled, and burned as a heretic in 1536 — his reported last words a prayer that the king of England's eyes would be opened.\n\n*Why it matters:* Tyndale's English was so vivid and durable that it became the foundation of nearly every English Bible that followed. An estimated **~80% of the King James New Testament is essentially Tyndale's wording** — phrases like \"let there be light,\" \"the powers that be,\" and \"the salt of the earth\" are his.\n\nHis work and his martyrdom are securely attested; the flame in the emblem marks how it ended.",
+    "scriptureRefs": [],
+    "readingPointer": "Much of the King James New Testament you know is, word for word, Tyndale's.",
+    "sources": [
+      "MacCulloch, A History of Christianity",
+      "ODCC"
+    ],
+    "relationships": []
+  },
+  {
+    "id": "king-james-version",
+    "type": "text",
+    "layers": [
+      "scripture",
+      "church"
+    ],
+    "title": "The King James Version",
+    "yearStart": 1611,
+    "dateDisplay": "1611 (Authorized Version)",
+    "certainty": "attested",
+    "registers": [
+      "history"
+    ],
+    "symbol": "kjv-crown",
+    "categories": [
+      "Translation",
+      "Reformation"
+    ],
+    "summary": "The 1611 Authorized Version — the most influential English Bible.",
+    "article": "The **King James (Authorized) Version** of **1611** was commissioned by **King James I** and produced by some forty-seven translators working in companies. It was not made from scratch but built on a century of English translation — above all **Tyndale** — smoothing the whole into a text meant to be read aloud.\n\n*Why it matters:* the KJV became the standard English Bible for three centuries and one of the most influential books in the language, its cadences woven into English literature, speech, and worship. Its Old Testament followed the Hebrew (Masoretic) canon; the 1611 edition also printed the **Apocrypha** in a section between the Testaments, as Protestant Bibles then commonly did, before later printings dropped it.\n\nThe most celebrated of English Bibles, it sits at the far right of the timeline — the end of this batch's long arc from the Septuagint to the printed English page.",
+    "scriptureRefs": [],
+    "readingPointer": "The 1611 KJV originally included the Apocrypha between the Testaments.",
+    "sources": [
+      "MacCulloch, A History of Christianity",
+      "ODCC"
+    ],
+    "relationships": []
+  }
+]

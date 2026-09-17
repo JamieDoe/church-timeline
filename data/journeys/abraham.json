@@ -1,0 +1,16 @@
+{
+  "id": "abrahams-journey",
+  "title": "The Journey of Abraham",
+  "entryId": "call-of-abraham",
+  "certainty": "traditional",
+  "note": "The traditional route of Abraham's migration (Genesis 11–13). Ur and Haran are located by tradition and scholarly proposal; the biblical text gives the stages, not a surveyed road.",
+  "points": [
+    { "placeName": "Ur of the Chaldees", "lat": 30.96, "lng": 46.1, "note": "Abraham's traditional birthplace, in southern Mesopotamia (its identification is debated)." },
+    { "placeName": "Haran", "lat": 36.86, "lng": 39.03, "note": "Where Terah's family settled, and Abraham received the call to go on (Gen 12:1)." },
+    { "placeName": "Shechem", "lat": 32.21, "lng": 35.28, "note": "His first altar in Canaan (Gen 12:6–7)." },
+    { "placeName": "Bethel", "lat": 31.93, "lng": 35.22, "note": "He pitched his tent and called on the name of the LORD (Gen 12:8)." },
+    { "placeName": "Hebron", "lat": 31.53, "lng": 35.1, "note": "Settled by the oaks of Mamre; the cave of Machpelah became the family burial place." },
+    { "placeName": "Goshen, Egypt", "lat": 30.8, "lng": 31.8, "note": "He went down to Egypt in a famine, then returned (Gen 12:10–13:1)." },
+    { "placeName": "Hebron", "lat": 31.53, "lng": 35.1 }
+  ]
+}

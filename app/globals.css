@@ -1,26 +1,434 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@custom-variant dark (&:is(.dark *));
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-display: var(--font-eb-garamond);
+  --font-heading: var(--font-eb-garamond);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-crimson: var(--crimson);
+  --color-lapis: var(--lapis);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-layer-scripture: var(--layer-scripture);
+  --color-layer-people: var(--layer-people);
+  --color-layer-church: var(--layer-church);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* ------------------------------------------------------------------ */
+/* Fresh vellum (light): warm parchment ground, sepia ink, gold leaf. */
+/* ------------------------------------------------------------------ */
+:root {
+  --background: oklch(0.955 0.022 92);
+  --foreground: oklch(0.3 0.035 60);
+  --card: oklch(0.972 0.018 95);
+  --card-foreground: oklch(0.3 0.035 60);
+  --popover: oklch(0.972 0.018 95);
+  --popover-foreground: oklch(0.3 0.035 60);
+  --primary: oklch(0.34 0.04 55);
+  --primary-foreground: oklch(0.96 0.02 95);
+  --secondary: oklch(0.915 0.026 90);
+  --secondary-foreground: oklch(0.32 0.04 58);
+  --muted: oklch(0.915 0.024 90);
+  --muted-foreground: oklch(0.5 0.038 65);
+  --accent: oklch(0.9 0.03 88);
+  --accent-foreground: oklch(0.32 0.04 58);
+  --destructive: oklch(0.5 0.16 27);
+  --border: oklch(0.865 0.03 85);
+  --input: oklch(0.865 0.03 85);
+  --ring: oklch(0.72 0.11 85);
+  --chart-1: oklch(0.72 0.13 85);
+  --chart-2: oklch(0.45 0.1 258);
+  --chart-3: oklch(0.46 0.14 26);
+  --chart-4: oklch(0.52 0.07 60);
+  --chart-5: oklch(0.62 0.05 80);
+  --radius: 0.375rem;
+  --sidebar: oklch(0.94 0.022 92);
+  --sidebar-foreground: oklch(0.3 0.035 60);
+  --sidebar-primary: oklch(0.34 0.04 55);
+  --sidebar-primary-foreground: oklch(0.96 0.02 95);
+  --sidebar-accent: oklch(0.9 0.03 88);
+  --sidebar-accent-foreground: oklch(0.32 0.04 58);
+  --sidebar-border: oklch(0.865 0.03 85);
+  --sidebar-ring: oklch(0.72 0.11 85);
+
+  /* Manuscript palette */
+  --gold: oklch(0.68 0.125 84);
+  --gold-soft: oklch(0.8 0.09 90);
+  --crimson: oklch(0.46 0.15 26);
+  --lapis: oklch(0.44 0.105 258);
+  --ink: oklch(0.3 0.035 60);
+  --ink-soft: oklch(0.52 0.04 62);
+  --layer-scripture: oklch(0.5 0.075 65);
+  --layer-people: oklch(0.44 0.105 258);
+  --layer-church: oklch(0.46 0.15 26);
+  --vellum-shadow: oklch(0.88 0.032 85);
+  --thread-glow: oklch(0.68 0.125 84 / 35%);
+}
+
+/* ------------------------------------------------------------------- */
+/* Aged vellum (dark): candlelit parchment, not a generic dark mode.   */
+/* ------------------------------------------------------------------- */
+.dark {
+  --background: oklch(0.235 0.024 70);
+  --foreground: oklch(0.89 0.045 90);
+  --card: oklch(0.275 0.028 72);
+  --card-foreground: oklch(0.89 0.045 90);
+  --popover: oklch(0.275 0.028 72);
+  --popover-foreground: oklch(0.89 0.045 90);
+  --primary: oklch(0.85 0.07 88);
+  --primary-foreground: oklch(0.25 0.028 70);
+  --secondary: oklch(0.31 0.03 72);
+  --secondary-foreground: oklch(0.89 0.045 90);
+  --muted: oklch(0.3 0.028 72);
+  --muted-foreground: oklch(0.68 0.04 82);
+  --accent: oklch(0.33 0.032 74);
+  --accent-foreground: oklch(0.89 0.045 90);
+  --destructive: oklch(0.62 0.15 25);
+  --border: oklch(0.35 0.032 75);
+  --input: oklch(0.35 0.032 75);
+  --ring: oklch(0.75 0.11 87);
+  --chart-1: oklch(0.78 0.12 87);
+  --chart-2: oklch(0.66 0.09 255);
+  --chart-3: oklch(0.62 0.13 26);
+  --chart-4: oklch(0.6 0.06 70);
+  --chart-5: oklch(0.7 0.05 85);
+  --sidebar: oklch(0.26 0.026 71);
+  --sidebar-foreground: oklch(0.89 0.045 90);
+  --sidebar-primary: oklch(0.85 0.07 88);
+  --sidebar-primary-foreground: oklch(0.25 0.028 70);
+  --sidebar-accent: oklch(0.33 0.032 74);
+  --sidebar-accent-foreground: oklch(0.89 0.045 90);
+  --sidebar-border: oklch(0.35 0.032 75);
+  --sidebar-ring: oklch(0.75 0.11 87);
+
+  --gold: oklch(0.78 0.12 87);
+  --gold-soft: oklch(0.6 0.08 85);
+  --crimson: oklch(0.62 0.13 26);
+  --lapis: oklch(0.66 0.09 255);
+  --ink: oklch(0.89 0.045 90);
+  --ink-soft: oklch(0.66 0.04 82);
+  --layer-scripture: oklch(0.72 0.07 75);
+  --layer-people: oklch(0.66 0.09 255);
+  --layer-church: oklch(0.62 0.13 26);
+  --vellum-shadow: oklch(0.2 0.022 70);
+  --thread-glow: oklch(0.78 0.12 87 / 40%);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    /* Subtle parchment grain, restrained. */
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' seed='7'/%3E%3CfeColorMatrix values='0 0 0 0 0.45 0 0 0 0 0.38 0 0 0 0 0.26 0 0 0 0.05 0'/%3E%3C/filter%3E%3Crect width='240' height='240' filter='url(%23g)'/%3E%3C/svg%3E");
+  }
+  html {
+    @apply font-sans;
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-eb-garamond), Georgia, serif;
+    letter-spacing: 0.01em;
   }
 }
 
-body {
-  background: var(--background);
+@layer components {
+  /* Candlelit vignette for aged vellum. */
+  .dark .vignette {
+    background: radial-gradient(
+      ellipse at 50% 40%,
+      transparent 55%,
+      oklch(0.16 0.02 70 / 45%) 100%
+    );
+  }
+
+  /* Illuminated drop cap for article prose. */
+  .drop-cap > p:first-of-type::first-letter {
+    font-family: var(--font-eb-garamond), Georgia, serif;
+    float: left;
+    font-size: 3.4em;
+    line-height: 0.82;
+    padding-right: 0.09em;
+    padding-top: 0.04em;
+    color: var(--crimson);
+    font-weight: 600;
+  }
+
+  .gold-rule {
+    background: linear-gradient(
+      90deg,
+      transparent,
+      var(--gold) 20%,
+      var(--gold) 80%,
+      transparent
+    );
+    height: 1px;
+  }
+
+  /* ---- Bible reader: one structured source, two layouts ---- */
+  .bible-prose {
+    font-family: var(--font-eb-garamond), Georgia, serif;
+    font-size: 1.2rem;
+    line-height: 1.7;
+    color: var(--foreground);
+    max-width: 44rem;
+  }
+  /* Reader's layout: a physical reader's-Bible measure (~66 characters) and
+     more generous leading; paragraphs indent like a printed book. */
+  .bible-prose.readers {
+    font-size: 1.25rem;
+    line-height: 1.9;
+    max-width: 34rem;
+  }
+  .bible-prose .reader-para + .reader-para {
+    margin-top: 0.85em;
+  }
+  .bible-prose.readers .reader-para + .reader-para {
+    margin-top: 0;
+    text-indent: 1.4em;
+  }
+  .bible-prose .poetry-line {
+    line-height: 1.5;
+    margin-top: 0.1em;
+  }
+  .bible-prose .section-heading {
+    font-family: var(--font-eb-garamond), Georgia, serif;
+    font-weight: 600;
+    font-size: 1.05rem;
+    letter-spacing: 0.01em;
+    margin: 1.5em 0 0.5em;
+  }
+  .bible-prose .psalm-title {
+    font-style: italic;
+    text-align: center;
+    color: var(--muted-foreground);
+    font-size: 0.92em;
+    margin: 0.4em 0 1em;
+  }
+  .verse-num {
+    font-size: 0.62em;
+    font-weight: 600;
+    color: var(--gold);
+    vertical-align: super;
+    line-height: 0;
+    margin-right: 0.15em;
+    user-select: none;
+  }
+
+  .article-prose {
+    font-family: var(--font-eb-garamond), Georgia, serif;
+    font-size: 1.15rem;
+    line-height: 1.65;
+  }
+  .article-prose p + p {
+    margin-top: 0.9em;
+  }
+  .article-prose strong {
+    color: color-mix(in oklch, var(--foreground), var(--crimson) 35%);
+    font-weight: 600;
+  }
+  .article-prose em {
+    font-style: italic;
+  }
+}
+
+/* Journey routes ink themselves on when selected (see holy-land-map). The path
+   uses pathLength="1", so the dash reveal is length-independent. */
+@keyframes route-draw {
+  from {
+    stroke-dashoffset: 1;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.route-draw {
+  stroke-dasharray: 1;
+  animation: route-draw 1.5s ease-out forwards;
+}
+
+/* ------------------------------------------------------------------ */
+/* Page transitions: content settles in on every navigation. The      */
+/* template.tsx wrapper remounts per route, so this replays each time. */
+/* ------------------------------------------------------------------ */
+@keyframes page-transition {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.page-transition {
+  animation: page-transition 420ms cubic-bezier(0.22, 0.61, 0.36, 1) both;
+}
+
+/* ------------------------------------------------------------------ */
+/* Initial illuminated loader: a one-time gilt opening on first load.  */
+/* ------------------------------------------------------------------ */
+.intro-loader {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+    radial-gradient(ellipse at 50% 45%, var(--thread-glow), transparent 60%),
+    var(--background);
+  animation: intro-veil 2.45s ease-in forwards;
+}
+.intro-seen .intro-loader {
+  display: none;
+}
+@keyframes intro-veil {
+  0%,
+  74% {
+    opacity: 1;
+    visibility: visible;
+  }
+  100% {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+.intro-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.9rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.intro-mark {
+  width: 74px;
+  height: 74px;
+  color: var(--gold);
+  filter: drop-shadow(0 0 10px var(--thread-glow));
+  animation: intro-mark 950ms 100ms cubic-bezier(0.22, 0.61, 0.36, 1) both;
+}
+@keyframes intro-mark {
+  0% {
+    opacity: 0;
+    transform: scale(0.6) rotate(-30deg);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) rotate(0);
+  }
+}
+
+.intro-title {
+  font-family: var(--font-eb-garamond), Georgia, serif;
+  font-size: clamp(1.75rem, 6vw, 2.75rem);
+  letter-spacing: 0.02em;
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  animation: intro-rise 800ms 350ms ease-out both;
+}
+@keyframes intro-rise {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.intro-rule {
+  height: 1px;
+  width: min(280px, 68vw);
+  transform-origin: center;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--gold) 20%,
+    var(--gold) 80%,
+    transparent
+  );
+  animation: intro-rule 900ms 650ms cubic-bezier(0.22, 0.61, 0.36, 1) both;
+}
+@keyframes intro-rule {
+  from {
+    opacity: 0.2;
+    transform: scaleX(0);
+  }
+  to {
+    opacity: 1;
+    transform: scaleX(1);
+  }
+}
+
+.intro-tagline {
+  font-family: var(--font-eb-garamond), Georgia, serif;
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--muted-foreground);
+  animation: intro-fade 800ms 1000ms ease-out both;
+}
+@keyframes intro-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-transition {
+    animation: none;
+  }
+  .intro-loader {
+    display: none;
+  }
 }

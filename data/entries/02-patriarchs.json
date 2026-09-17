@@ -1,0 +1,280 @@
+[
+  {
+    "id": "abraham",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Abraham",
+    "yearStart": -2000,
+    "yearEnd": -1825,
+    "dateDisplay": "c. 2000–1800 BC (traditional; historicity & dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "tent-stars",
+    "categories": ["patriarch", "line-of-promise", "covenant"],
+    "summary": "Called out of Ur with a promise of land, offspring, and blessing for all nations — the father of the covenant people.",
+    "article": "**What scripture narrates.** Abram is called to leave Ur of the Chaldeans and his father's house for a land he will be shown, with a threefold promise: a great nation, a great name, and blessing for \"all the families of the earth\" (Genesis 12:1–3). God covenants with him under the night sky — \"number the stars, if you are able… so shall your offspring be\" (Genesis 15:5) — renames him Abraham, seals the covenant with circumcision (Genesis 17), and tests him at Moriah in the binding of Isaac (Genesis 22). He buys the cave of Machpelah at Hebron as a burial place (Genesis 23), his one small holding in the land of promise.\n\n**What history can and cannot say.** No inscription or external document names Abraham. The patriarchal narratives are set broadly in the early second millennium BC, and twentieth-century scholars debated how well their customs fit that Middle Bronze Age setting; later scholarship has pressed the question of when the narratives were composed and how much earlier memory they carry. The historicity and dating of the whole patriarchal age is one of the genuinely disputed questions in the field — so Abraham's years here are a traditional reckoning inferred from scripture's own internal chronology, not an externally corroborated fact, and this entry (like the other patriarchal entries) is marked *contested*, its placement approximate.\n\n**Why he anchors the dated timeline.** Conventional Bible chronologies begin their year-estimates around Abraham, which is why this canvas's threshold between the beginnings zone and the dated axis falls here. On the line of promise he is the pivot: the thread runs on from him through Isaac and Jacob toward David, the intervening generations condensed. The New Testament opens by calling Jesus \"the son of David, the son of Abraham\" (Matthew 1:1), and Paul argues that all who share Abraham's faith are his children (Romans 4; Galatians 3).",
+    "scriptureRefs": ["Genesis 12:1–9", "Genesis 15", "Genesis 17", "Genesis 22", "Matthew 1:1", "Romans 4"],
+    "readingPointer": "His story is told in Genesis 12–25.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 12–25 and introduction to the Pentateuch",
+      "The Oxford Dictionary of the Christian Church, \"Abraham\"",
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years"
+    ],
+    "relationships": [{ "targetId": "isaac", "type": "line-of-promise" }],
+    "location": { "name": "Hebron (Machpelah, traditional burial site)", "lat": 31.53, "lng": 35.1 }
+  },
+  {
+    "id": "call-of-abraham",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Call of Abraham",
+    "yearStart": -1990,
+    "dateDisplay": "traditionally c. 1990 BC (patriarchal dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "call-road",
+    "categories": ["patriarch", "covenant"],
+    "summary": "\"Go from your country… to the land that I will show you\" — the call that narrows the whole story to one family, for the sake of all nations.",
+    "article": "**What scripture narrates.** \"Now the LORD said to Abram, 'Go from your country and your kindred and your father's house to the land that I will show you'\" (Genesis 12:1). With the command comes a threefold promise — a great nation, a great name, and, through him, blessing for \"all the families of the earth\" (12:2–3). Abram, seventy-five, leaves Haran with Sarai and Lot, journeys into Canaan, and builds altars at Shechem and Bethel (12:4–8). The call is the hinge of Genesis: after eleven chapters in which humanity scatters from God, ending at Babel, the story narrows to one family through whom the scattered nations are to be gathered and blessed.\n\n**Register and history.** No external source records the call or the migration, and the event carries the same debated dating as Abraham himself. What scripture presents is a theological beginning — election and promise — not a datable civic event; its position here is approximate and marked *contested*.\n\n**Its long echo.** Paul makes the promise that \"all the families of the earth\" would be blessed the seed of the gospel to the Gentiles: \"the Scripture… preached the gospel beforehand to Abraham\" (Galatians 3:8). The call is where both the line of promise and the mission to the nations begin.",
+    "scriptureRefs": ["Genesis 12:1–9", "Genesis 15:6", "Galatians 3:6–9", "Hebrews 11:8"],
+    "readingPointer": "Read the call in Genesis 12.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 12",
+      "The Oxford Dictionary of the Christian Church, \"Abraham\""
+    ],
+    "location": { "name": "Shechem (first altar in Canaan)", "lat": 32.21, "lng": 35.28 }
+  },
+  {
+    "id": "sarah",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Sarah",
+    "yearStart": -1990,
+    "yearEnd": -1830,
+    "dateDisplay": "c. 1990–1830 BC (traditional reckoning; dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "cradle",
+    "categories": ["matriarch", "covenant"],
+    "summary": "Wife of Abraham and first of the matriarchs, who laughed at the promise of a son and bore Isaac in her old age.",
+    "article": "**What scripture narrates.** Sarai, Abram's wife, is barren into old age, and twice her beauty puts her at risk in foreign courts (Genesis 12; 20). When the LORD promises a son, she laughs behind the tent door — \"After I am worn out, and my lord is old, shall I have pleasure?\" (Genesis 18:12) — and is gently answered: \"Is anything too hard for the LORD?\" Renamed Sarah, \"princess,\" in the covenant of Genesis 17, she bears Isaac in her old age and names him for the laughter (Isaac means \"he laughs\"); earlier, despairing of children, she had given Abraham her servant Hagar, and now she has Hagar and Ishmael sent away (Genesis 16; 21). She dies at Hebron, where Abraham buys the cave of Machpelah to bury her (Genesis 23).\n\n**Register and dating.** Sarah shares the patriarchal narratives' debated historicity and dating (see Abraham); she carries no externally corroborated date, and this entry is marked *contested*, placed by the traditional reckoning.\n\n**Her place in the story.** She is the first of the matriarchs and, with Abraham, ancestress of the covenant people. The New Testament holds her up as a mother of faith who \"considered him faithful who had promised\" (Hebrews 11:11) and as a model of trust (1 Peter 3:6); Paul reads her as a figure of the freedom of the promise over against the slavery of the law (Galatians 4:21–31).",
+    "scriptureRefs": ["Genesis 17:15–21", "Genesis 18:1–15", "Genesis 21:1–7", "Hebrews 11:11"],
+    "readingPointer": "Her story runs through Genesis 12–23.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 12–23",
+      "The Oxford Dictionary of the Christian Church, \"Sarah\""
+    ],
+    "relationships": [{ "targetId": "abraham", "type": "contemporary" }]
+  },
+  {
+    "id": "abrahamic-covenant",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "The Abrahamic Covenant",
+    "yearStart": -1980,
+    "dateDisplay": "traditionally c. 1980 BC (patriarchal dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "tradition", "history"],
+    "symbol": "covenant-torch",
+    "categories": ["covenant"],
+    "summary": "Land, offspring, and blessing held out as sheer promise — sealed as God alone passes between the pieces, and Abraham's faith counted as righteousness.",
+    "article": "**What scripture narrates.** Twice God binds himself to Abraham. In Genesis 15, when Abram wonders how the promise can stand while he is childless, God takes him outside: \"Look toward heaven, and number the stars… So shall your offspring be\"; \"and he believed the LORD, and he counted it to him as righteousness\" (15:5–6). The covenant is then sealed in a strange night rite — animals divided, and \"a smoking fire pot and a flaming torch\" passing between the pieces (15:17), God alone binding himself to the promise. In Genesis 17 it is renewed with the sign of circumcision, the names Abram and Sarai changed to Abraham and Sarah, and the pledge of a son, Isaac.\n\n**Register.** This is a covenant between God and a family, narrated in the scriptural register — not a datable public treaty — and it shares the patriarchal setting's debated dating (marked *contested*). What it establishes theologically — land, offspring, and blessing, held out as gift — governs the rest of the Old Testament.\n\n**Its long reach.** Genesis 15:6 becomes one of the most consequential sentences in scripture: Paul builds his gospel of justification by faith upon it, arguing that Abraham was reckoned righteous by faith before he was circumcised and before the Law, so that the promise might reach all who believe (Romans 4; Galatians 3). The covenant of circumcision, in turn, frames the early church's fiercest dispute — must Gentile believers be circumcised? (Acts 15).",
+    "scriptureRefs": ["Genesis 15", "Genesis 17", "Romans 4", "Galatians 3:15–18"],
+    "readingPointer": "Read the covenant in Genesis 15 and 17.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 15 and 17",
+      "The Oxford Dictionary of the Christian Church, \"Covenant\" and \"Abraham\""
+    ]
+  },
+  {
+    "id": "isaac",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Isaac",
+    "yearStart": -1900,
+    "yearEnd": -1720,
+    "dateDisplay": "c. 1900–1720 BC (traditional; dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "isaac-well",
+    "categories": ["patriarch", "line-of-promise"],
+    "summary": "The child of promise, bound on the altar and spared — the quiet second link of the line of promise.",
+    "article": "**What scripture narrates.** Isaac is the child of promise, born to Abraham and Sarah in their old age and named for Sarah's laughter (Genesis 21). As a boy he is bound on the altar at Moriah and spared (Genesis 22 — see the Binding of Isaac). He marries Rebekah, brought from Abraham's kindred (Genesis 24); their twin sons Esau and Jacob struggle from the womb (25:22–26). In old age, his sight gone, he is deceived into giving the covenant blessing to the younger son, Jacob (Genesis 27). Isaac is the quietest of the patriarchs — much of his story is told through his father and his sons — but he re-digs the wells of Abraham and receives the promise renewed in his own name (Genesis 26).\n\n**Register and dating.** Isaac shares the patriarchal narratives' debated historicity and dating; no external source names him, and this entry is marked *contested*, placed by the traditional reckoning after Abraham.\n\n**On the line of promise.** Isaac is the second link of the gold thread — \"through Isaac shall your offspring be named\" (Genesis 21:12) — the child through whom the covenant passes to Jacob and on toward David, and, in Matthew's genealogy, to Christ.",
+    "scriptureRefs": ["Genesis 21:1–7", "Genesis 22", "Genesis 24", "Genesis 26–27"],
+    "readingPointer": "His story runs through Genesis 21–27.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 21–27",
+      "The Oxford Dictionary of the Christian Church, \"Isaac\""
+    ],
+    "relationships": [{ "targetId": "jacob", "type": "line-of-promise" }]
+  },
+  {
+    "id": "binding-of-isaac",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "The Binding of Isaac",
+    "yearStart": -1875,
+    "dateDisplay": "traditionally c. 1875 BC (patriarchal dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "tradition"],
+    "symbol": "altar-ram",
+    "categories": ["covenant", "sacrifice"],
+    "summary": "Abraham's hardest test on Mount Moriah — the knife stayed, the ram provided, \"the LORD will provide.\"",
+    "article": "**What scripture narrates.** \"Take your son, your only son Isaac, whom you love,\" God tells Abraham, \"and offer him… as a burnt offering\" on a mountain in Moriah (Genesis 22:2). Abraham sets out, the wood on Isaac's shoulder; when the boy asks where the lamb is, his father answers, \"God will provide for himself the lamb\" (22:8). At the altar, the knife raised, the angel of the LORD stops him, and a ram is found caught in a thicket to offer in Isaac's place; Abraham names the place \"The LORD will provide\" (22:14), and the promise is reaffirmed with an oath.\n\n**Two readings, held apart.** In Jewish tradition the episode is the *Akedah*, the \"binding\" — a central text of the New Year, meditated on for Abraham's faith and Isaac's willing submission. Christian reading has long seen in it a figure of God the Father offering the Son, and in the ram a picture of the substitute; Hebrews reads Abraham as trusting that God could raise the dead (Hebrews 11:17–19). This project sets those readings side by side without collapsing one into the other.\n\n**Register.** The binding is narrated in the scriptural register and shares the patriarchal setting's debated dating (marked *contested*). It is among the most searching passages of the Old Testament — and among the most troubling — a difficulty the traditions have wrestled with rather than explained away.",
+    "scriptureRefs": ["Genesis 22:1–19", "Hebrews 11:17–19", "James 2:21–23"],
+    "readingPointer": "Read the account in Genesis 22.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 22",
+      "The Oxford Dictionary of the Christian Church, \"Isaac\""
+    ]
+  },
+  {
+    "id": "rebekah",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Rebekah",
+    "yearStart": -1880,
+    "yearEnd": -1730,
+    "dateDisplay": "c. 1880–1730 BC (traditional reckoning; dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture"],
+    "symbol": "water-jar",
+    "categories": ["matriarch"],
+    "summary": "Found at the well and freely following, she steered the covenant blessing to the younger son, Jacob.",
+    "article": "**What scripture narrates.** Rebekah is found at a well in Abraham's homeland, drawing water for the servant's camels — the very sign he had prayed for — and freely leaves her family to marry Isaac, whom she has never met (Genesis 24). Barren at first, she conceives twins who \"struggled together within her,\" and receives an oracle: \"the older shall serve the younger\" (25:23). She favors Jacob, and it is she who devises the deception by which he, not Esau, receives Isaac's blessing (Genesis 27), then sends him away to her brother Laban to escape Esau's anger.\n\n**Register and dating.** Rebekah shares the patriarchal narratives' debated historicity and dating; no external source names her, and this entry is marked *contested*.\n\n**Her place in the story.** She is the second matriarch, and the one through whom — controversially — the covenant blessing is steered to Jacob, the son who will be renamed Israel. Paul cites her conceiving of the twins as an instance of God's election at work before either child had done good or ill (Romans 9:10–13).",
+    "scriptureRefs": ["Genesis 24", "Genesis 25:19–28", "Genesis 27", "Romans 9:10–13"],
+    "readingPointer": "Her story runs through Genesis 24–27.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 24–27",
+      "The Oxford Dictionary of the Christian Church, \"Rebecca\""
+    ],
+    "relationships": [{ "targetId": "isaac", "type": "contemporary" }]
+  },
+  {
+    "id": "jacob",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Jacob (Israel)",
+    "yearStart": -1840,
+    "yearEnd": -1690,
+    "dateDisplay": "c. 1840–1690 BC (traditional; dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "jacob-ladder",
+    "categories": ["patriarch", "line-of-promise"],
+    "summary": "The supplanter renamed Israel after wrestling with God — father of the twelve tribes, and the third link of the line of promise.",
+    "article": "**What scripture narrates.** Jacob — \"he grasps the heel,\" the supplanter — is born gripping his twin Esau's heel (Genesis 25:26). He buys Esau's birthright for a bowl of stew and steals his blessing (Genesis 25; 27), then flees to Laban, dreaming on the way of a ladder set up to heaven with the LORD renewing the promise above it (28:10–17). He serves Laban twenty years, marries Leah and Rachel, and fathers eleven sons and a daughter there; returning home he wrestles a mysterious man through the night at the Jabbok and is renamed Israel — \"you have striven with God and with men, and have prevailed\" (32:28). His twelfth son, Benjamin, is born as Rachel dies (35:18).\n\n**Register and dating.** Jacob shares the patriarchal narratives' debated historicity and dating (marked *contested*); the name Israel he receives becomes the name of the people and the land.\n\n**On the line of promise.** Jacob is the third link of the gold thread. His twelve sons become the twelve tribes, and it is through the fourth, Judah — not the favored Joseph — that the royal and messianic line runs: \"the scepter shall not depart from Judah\" (49:10). The thread here condenses that line from Judah down to David.",
+    "scriptureRefs": ["Genesis 25:19–34", "Genesis 27–28", "Genesis 32:22–32", "Genesis 49"],
+    "readingPointer": "His story runs from Genesis 25 through 35.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 25–35 and 49",
+      "The Oxford Dictionary of the Christian Church, \"Jacob\""
+    ],
+    "relationships": [{ "targetId": "david", "type": "line-of-promise" }]
+  },
+  {
+    "id": "leah-and-rachel",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Leah & Rachel",
+    "yearStart": -1820,
+    "yearEnd": -1700,
+    "dateDisplay": "c. 1820–1700 BC (traditional reckoning; dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture"],
+    "symbol": "twin-branches",
+    "categories": ["matriarch"],
+    "summary": "The sisters who, with their maidservants, became between them the mothers of the twelve tribes of Israel.",
+    "article": "**What scripture narrates.** Leah and Rachel are the daughters of Laban and the wives of Jacob. Jacob loves Rachel and works seven years for her, but is given Leah first by Laban's trick, then works seven more (Genesis 29). Leah, \"unloved,\" bears son after son — Reuben, Simeon, Levi, Judah, later Issachar and Zebulun — while Rachel, long barren, grieves (\"Give me children, or I shall die,\" 30:1); the two, with their maidservants Bilhah and Zilpah, become between them the mothers of the twelve tribes. Rachel at last bears Joseph, and dies giving birth to Benjamin on the road to Bethlehem (35:16–19).\n\n**Register and dating.** The sisters share the patriarchal narratives' debated historicity and dating; this joint entry is marked *contested*.\n\n**Their place in the story.** Between them — Leah the mother of Judah and Levi, the royal and priestly tribes; Rachel the mother of Joseph and Benjamin — they are matriarchs of the whole people of Israel. Rachel weeping for her children becomes, in Jeremiah and then Matthew, an image of Israel's grief (Jeremiah 31:15; Matthew 2:18).",
+    "scriptureRefs": ["Genesis 29–30", "Genesis 35:16–20", "Jeremiah 31:15", "Matthew 2:18"],
+    "readingPointer": "Their story is told in Genesis 29–35.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 29–35",
+      "The Oxford Dictionary of the Christian Church, \"Rachel\" and \"Leah\""
+    ],
+    "relationships": [{ "targetId": "jacob", "type": "contemporary" }]
+  },
+  {
+    "id": "jacob-and-the-twelve",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Jacob & the Twelve Sons",
+    "yearStart": -1810,
+    "dateDisplay": "traditionally c. 1810 BC (patriarchal dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "twelve-tribes",
+    "categories": ["patriarch", "tribes"],
+    "summary": "The twelve sons of Israel who become the twelve tribes — and the choice of Judah, not Joseph, to carry the royal line.",
+    "article": "**What scripture narrates.** From Jacob — renamed Israel — come twelve sons, by Leah and Rachel and their maidservants Bilhah and Zilpah: Reuben, Simeon, Levi, Judah, Dan, Naphtali, Gad, Asher, Issachar, Zebulun, Joseph, and Benjamin (Genesis 29–30; 35:22–26). They become the twelve tribes of Israel, the enduring structure of the people; Jacob's deathbed blessings (Genesis 49) fix each tribe's character and destiny. Two sons carry special weight: Levi, whose line becomes the priesthood, and Judah, to whom the royal promise is given — \"the scepter shall not depart from Judah… until tribute comes to him\" (49:10).\n\n**On the line of promise, and its women.** The gold thread runs not through Joseph, the favored son, but through Judah — and the genealogy Matthew traces from Judah to David runs through several women the text is careful to name: Tamar (Genesis 38), and later Rahab and Ruth. Matthew's deliberate inclusion of these women in the ancestry of the Messiah is itself striking, a point this project surfaces rather than smooths over.\n\n**Register.** The twelve-tribe structure is narrated in the scriptural register; the historical formation of Israel's tribal confederation is a separate question debated by historians. This entry shares the patriarchal setting's contested dating.",
+    "scriptureRefs": ["Genesis 29–30", "Genesis 35:22–26", "Genesis 49", "Revelation 7:4–8"],
+    "readingPointer": "Read Jacob's blessings over the tribes in Genesis 49.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 29–49",
+      "The Oxford Dictionary of the Christian Church, \"Israel\""
+    ]
+  },
+  {
+    "id": "joseph",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Joseph",
+    "yearStart": -1750,
+    "yearEnd": -1640,
+    "dateDisplay": "c. 1750–1640 BC (traditional; dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "joseph-coat",
+    "categories": ["patriarch"],
+    "summary": "The favored son sold into Egypt, who rose to save his family — \"you meant evil against me, but God meant it for good.\"",
+    "article": "**What scripture narrates.** Joseph, Rachel's firstborn and Jacob's favorite, is given a coat that marks him out and dreams that his family will bow to him (Genesis 37). His brothers, envious, sell him into Egypt, where he rises in Potiphar's house, is imprisoned on a false charge, and interprets dreams — at last Pharaoh's, foretelling seven years of plenty and seven of famine. Made overseer of Egypt, he stores grain, and when famine drives his brothers south to buy food he tests and finally forgives them: \"you meant evil against me, but God meant it for good\" (50:20). He brings his father and family down into Egypt, where they settle in Goshen — the move that sets the stage for the Exodus.\n\n**Register and dating.** Joseph shares the patriarchal narratives' debated historicity and dating (marked *contested*); no Egyptian record names him, and scholars discuss how the story reflects Egyptian settings of various periods. It is told as a sustained narrative — one of the most finished in the Old Testament.\n\n**His place in the story.** Joseph is not on the line of promise — that runs through his brother Judah — but he is its preserver: through him the covenant family survives the famine. Christian reading has often seen in the rejected-then-exalted brother who saves those who wronged him a foreshadowing of Christ, a typology this project notes as a reading, not a claim of the text itself.",
+    "scriptureRefs": ["Genesis 37", "Genesis 39–45", "Genesis 50:15–21", "Acts 7:9–16"],
+    "readingPointer": "His story is told in Genesis 37–50.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 37–50",
+      "The Oxford Dictionary of the Christian Church, \"Joseph, the Patriarch\""
+    ],
+    "relationships": [{ "targetId": "jacob", "type": "contemporary" }]
+  },
+  {
+    "id": "joseph-in-egypt",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Joseph in Egypt",
+    "yearStart": -1700,
+    "dateDisplay": "traditionally c. 1700 BC (patriarchal dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "grain-sheaves",
+    "categories": ["patriarch", "egypt"],
+    "summary": "The descent of Israel into Egypt — the covenant family preserved through famine, and the stage set for the Exodus.",
+    "article": "**What scripture narrates.** Sold into Egypt by his brothers, Joseph rises from slave to prison to the right hand of Pharaoh, and through his reading of Pharaoh's dreams Egypt stores grain against seven years of famine (Genesis 41). When the famine spreads, it drives Jacob's family down from Canaan to buy food; there Joseph reveals himself, forgives his brothers, and settles the whole household — seventy persons — in the land of Goshen (Genesis 45–47): \"God sent me before you to preserve life\" (45:5).\n\n**Why the descent matters.** The move into Egypt is the hinge between the patriarchs and the nation: the covenant family goes down as a household of seventy and, over generations, multiplies into a people — who will be enslaved, and then delivered in the Exodus. Genesis ends with Joseph's bones awaiting that deliverance: \"God will surely visit you, and you shall carry up my bones from here\" (50:25).\n\n**Register and history.** The narrative is set in Egypt but names no pharaoh, and no Egyptian source records Joseph or the family's descent; scholars debate which Egyptian period the details best fit. The event shares the patriarchal narratives' contested dating and is presented in the scriptural register — the claim that God preserves the covenant line through, and despite, human evil.",
+    "scriptureRefs": ["Genesis 41", "Genesis 45–47", "Genesis 50:22–26", "Exodus 1:1–7"],
+    "readingPointer": "Read the reconciliation in Genesis 45.",
+    "sources": [
+      "ESV Study Bible, notes on Genesis 41–50",
+      "The Oxford Dictionary of the Christian Church, \"Joseph, the Patriarch\""
+    ],
+    "location": { "name": "Goshen, Egypt (Nile delta)", "lat": 30.8, "lng": 31.8 }
+  },
+  {
+    "id": "job",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Job",
+    "yearStart": -1900,
+    "dateDisplay": "traditional setting: patriarchal era (date & historicity debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "tradition"],
+    "symbol": "job-whirlwind",
+    "categories": ["wisdom", "suffering"],
+    "summary": "The blameless man of Uz who lost everything and demanded an answer — and heard God speak from the whirlwind.",
+    "article": "**What scripture narrates.** Job is \"a blameless and upright man\" of the land of Uz, rich in flocks and family, whom God permits the Accuser to afflict — stripping away his children, wealth, and health — to test whether he fears God for nothing (Job 1–2). Through a long poem, Job and three friends argue over why the righteous suffer; the friends insist he must have sinned, Job protests his innocence and demands to plead his case with God. At last God answers out of the whirlwind — not with an explanation but with a vast vision of creation (Job 38–41) — and Job, silenced and satisfied, is restored (Job 42).\n\n**Register, dating, and historicity — all debated.** Job is among the hardest entries to place. The book names no king, no Exodus, no Law, and Job himself appears to be a non-Israelite; its setting reads as patriarchal, which is why tradition has often located him in that age — and why this canvas places him there, loosely and with the plainest caveat. But the book's date of composition is separately and widely debated (proposals range across many centuries, including the exile and after), and whether Job is a historical figure or the protagonist of a wisdom poem exploring suffering is itself a genuine question. This entry is marked *contested* on every count, and its position is a convenience, not a claim.\n\n**Why it matters.** Job is the Old Testament's great wrestling with innocent suffering and the justice of God — read across the traditions less for its history than for its refusal of easy answers. James holds up \"the steadfastness of Job\" (James 5:11); Ezekiel names him among the righteous of old (Ezekiel 14:14).",
+    "scriptureRefs": ["Job 1–2", "Job 38–42", "James 5:11", "Ezekiel 14:14"],
+    "readingPointer": "Read the frame in Job 1–2 and God's answer in Job 38–42.",
+    "sources": [
+      "ESV Study Bible, introduction to Job",
+      "The Oxford Dictionary of the Christian Church, \"Job, Book of\""
+    ]
+  }
+]

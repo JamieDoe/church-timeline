@@ -1,0 +1,1786 @@
+{
+  "_note": "Authoritative manifest of emblem ids → meaning and scriptural basis. Every entry's `symbol` must be a key here. `node` records the node form the emblem is drawn on (figure = gold medallion, event = eight-lobed seal, text = codex/scroll — the text form arrives with the biblical-books phase). `rendered: false` means the design pass has not yet drawn the glyph and it falls back to a neutral placeholder on the canvas. Keep ids consistent and each emblem tied to the entry's actual story — never generic filler.",
+  "genesis-burst": {
+    "node": "event",
+    "rendered": true,
+    "description": "Radiant burst of the first light.",
+    "basis": "Genesis 1:3, \"Let there be light\"",
+    "usedBy": [
+      "creation"
+    ]
+  },
+  "eden-tree": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The tree of the garden with fruit on the bough.",
+    "basis": "Genesis 2, the garden in Eden",
+    "usedBy": [
+      "adam"
+    ]
+  },
+  "eden-fruit": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The fruit of the tree with leaf and stem; paired with Adam's tree.",
+    "basis": "Genesis 3; Genesis 3:20, \"the mother of all living\"",
+    "usedBy": [
+      "eve"
+    ]
+  },
+  "fall-serpent": {
+    "node": "event",
+    "rendered": true,
+    "description": "The serpent coiled beside the forbidden fruit.",
+    "basis": "Genesis 3, the serpent and the tree of the knowledge of good and evil",
+    "usedBy": [
+      "the-fall"
+    ]
+  },
+  "twin-altars": {
+    "node": "event",
+    "rendered": true,
+    "description": "Two altars: one smoke rising straight, one turned aside — regard and no regard.",
+    "basis": "Genesis 4:4–5, the offerings of Abel and Cain",
+    "usedBy": [
+      "cain-and-abel"
+    ]
+  },
+  "covenant-bow": {
+    "node": "event",
+    "rendered": true,
+    "description": "The bow set in the clouds above the receding waters.",
+    "basis": "Genesis 9:13, the sign of the covenant",
+    "usedBy": [
+      "the-flood"
+    ]
+  },
+  "ark": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The ark riding the waters beneath the bow.",
+    "basis": "Genesis 6:14, the ark of gopher wood",
+    "usedBy": [
+      "noah"
+    ]
+  },
+  "babel-tower": {
+    "node": "event",
+    "rendered": true,
+    "description": "The stepped ziggurat with an unfinished top.",
+    "basis": "Genesis 11:4, the tower of Babel",
+    "usedBy": [
+      "tower-of-babel"
+    ]
+  },
+  "tent-stars": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The tent of the sojourner beneath promised stars.",
+    "basis": "Genesis 15:5, \"number the stars\"",
+    "usedBy": [
+      "abraham"
+    ]
+  },
+  "call-road": {
+    "node": "event",
+    "rendered": true,
+    "description": "A road leading out toward a promised destination.",
+    "basis": "Genesis 12:1, \"Go from your country\"",
+    "usedBy": [
+      "call-of-abraham"
+    ]
+  },
+  "covenant-torch": {
+    "node": "event",
+    "rendered": true,
+    "description": "The flaming torch passing between the divided pieces.",
+    "basis": "Genesis 15:17, the smoking fire pot and flaming torch",
+    "usedBy": [
+      "abrahamic-covenant"
+    ]
+  },
+  "cradle": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The cradle of the long-awaited, promised son.",
+    "basis": "Genesis 21:1–7, the birth of Isaac in Sarah's old age",
+    "usedBy": [
+      "sarah"
+    ]
+  },
+  "isaac-well": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The well re-dug in the land of promise.",
+    "basis": "Genesis 26:18–22, Isaac re-digs his father's wells",
+    "usedBy": [
+      "isaac"
+    ]
+  },
+  "altar-ram": {
+    "node": "event",
+    "rendered": true,
+    "description": "The altar and the ram caught in the thicket.",
+    "basis": "Genesis 22:13, the ram offered in Isaac's place",
+    "usedBy": [
+      "binding-of-isaac"
+    ]
+  },
+  "water-jar": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The water jar at the well.",
+    "basis": "Genesis 24, Rebekah draws water for the camels",
+    "usedBy": [
+      "rebekah"
+    ]
+  },
+  "jacob-ladder": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The ladder set up to heaven.",
+    "basis": "Genesis 28:12, Jacob's dream at Bethel",
+    "usedBy": [
+      "jacob"
+    ]
+  },
+  "twin-branches": {
+    "node": "figure",
+    "rendered": true,
+    "description": "Two fruitful branches from one root.",
+    "basis": "Genesis 29–30, the sisters who mother the twelve tribes",
+    "usedBy": [
+      "leah-and-rachel"
+    ]
+  },
+  "twelve-tribes": {
+    "node": "event",
+    "rendered": true,
+    "description": "Twelve stars over the people.",
+    "basis": "Genesis 35:22–26, the twelve sons of Jacob",
+    "usedBy": [
+      "jacob-and-the-twelve"
+    ]
+  },
+  "joseph-coat": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The ornate coat of many colors.",
+    "basis": "Genesis 37:3, the robe Jacob gave Joseph",
+    "usedBy": [
+      "joseph"
+    ]
+  },
+  "grain-sheaves": {
+    "node": "event",
+    "rendered": true,
+    "description": "The bound sheaf of stored grain.",
+    "basis": "Genesis 41, the grain stored against famine; Genesis 37:7, the sheaves",
+    "usedBy": [
+      "joseph-in-egypt"
+    ]
+  },
+  "job-whirlwind": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The LORD answering out of the whirlwind.",
+    "basis": "Job 38:1, \"the LORD answered Job out of the whirlwind\"",
+    "usedBy": [
+      "job",
+      "book-job"
+    ]
+  },
+  "tablets": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The two tablets of the Law.",
+    "basis": "Exodus 31:18, the tablets of stone",
+    "usedBy": [
+      "moses"
+    ]
+  },
+  "pillar-fire": {
+    "node": "event",
+    "rendered": true,
+    "description": "The pillar of cloud and fire that led Israel out.",
+    "basis": "Exodus 13:21, the pillar of cloud by day and fire by night",
+    "usedBy": [
+      "the-exodus"
+    ]
+  },
+  "passover-door": {
+    "node": "event",
+    "rendered": true,
+    "description": "The doorframe marked with the blood of the lamb.",
+    "basis": "Exodus 12:7, blood on the lintel and doorposts",
+    "usedBy": [
+      "passover"
+    ]
+  },
+  "parted-sea": {
+    "node": "event",
+    "rendered": true,
+    "description": "Walls of water with a dry path between.",
+    "basis": "Exodus 14, the crossing of the sea",
+    "usedBy": [
+      "crossing-of-the-sea"
+    ]
+  },
+  "sinai-mountain": {
+    "node": "event",
+    "rendered": true,
+    "description": "The mountain, God descending in fire above the peak.",
+    "basis": "Exodus 19, the LORD descends on Sinai in fire",
+    "usedBy": [
+      "sinai-and-the-law"
+    ]
+  },
+  "golden-calf": {
+    "node": "event",
+    "rendered": true,
+    "description": "The idol on its pedestal.",
+    "basis": "Exodus 32, the golden calf",
+    "usedBy": [
+      "golden-calf",
+      "jeroboam"
+    ],
+    "note": "Also used by Jeroboam — the same sin of Sinai repeated in the northern calf-shrines (1 Kings 12:28)."
+  },
+  "wilderness-path": {
+    "node": "event",
+    "rendered": true,
+    "description": "The long winding path through the desert.",
+    "basis": "Numbers, the forty years of wandering",
+    "usedBy": [
+      "wilderness-wanderings"
+    ]
+  },
+  "aaron-rod": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The priestly staff that budded with almond blossoms.",
+    "basis": "Numbers 17:8, Aaron's rod that budded",
+    "usedBy": [
+      "aaron"
+    ]
+  },
+  "timbrel": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The timbrel of the song at the sea.",
+    "basis": "Exodus 15:20, Miriam took a timbrel",
+    "usedBy": [
+      "miriam"
+    ]
+  },
+  "joshua-trumpet": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The trumpet before the walls of Jericho.",
+    "basis": "Joshua 6, the trumpets at Jericho",
+    "usedBy": [
+      "joshua"
+    ]
+  },
+  "grape-cluster": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The cluster of grapes carried back from the promised land.",
+    "basis": "Numbers 13:23, the grapes of the Valley of Eshcol",
+    "usedBy": [
+      "caleb"
+    ]
+  },
+  "horn-of-oil": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The horn of anointing oil.",
+    "basis": "1 Samuel 16:13, Samuel anoints David",
+    "usedBy": [
+      "samuel"
+    ]
+  },
+  "harp": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The harp of the psalmist-shepherd.",
+    "basis": "1 Samuel 16:23; the Psalms tradition",
+    "usedBy": [
+      "david"
+    ]
+  },
+  "falling-walls": {
+    "node": "event",
+    "rendered": true,
+    "description": "The walls of Jericho falling.",
+    "basis": "Joshua 6, the fall of Jericho",
+    "usedBy": [
+      "conquest-of-canaan"
+    ]
+  },
+  "judges-sword": {
+    "node": "event",
+    "rendered": true,
+    "description": "The deliverer's planted sword.",
+    "basis": "Judges, the deliverers raised up to save Israel",
+    "usedBy": [
+      "period-of-the-judges"
+    ]
+  },
+  "palm-tree": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The palm of Deborah, where she judged Israel.",
+    "basis": "Judges 4:5, the palm of Deborah",
+    "usedBy": [
+      "deborah"
+    ]
+  },
+  "gideon-torch": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The torch hidden in a jar, carried by the three hundred.",
+    "basis": "Judges 7:16, torches inside the jars",
+    "usedBy": [
+      "gideon"
+    ]
+  },
+  "broken-pillars": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The pillars of the temple Samson pulled down.",
+    "basis": "Judges 16:29–30, Samson and the pillars of Dagon's temple",
+    "usedBy": [
+      "samson"
+    ]
+  },
+  "gleaned-barley": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The gleaned barley of the loyal Moabite in Boaz's field.",
+    "basis": "Ruth 2, Ruth gleans in the field of Boaz",
+    "usedBy": [
+      "ruth"
+    ]
+  },
+  "anointing-crown": {
+    "node": "event",
+    "rendered": true,
+    "description": "The crown, and the oil poured above it.",
+    "basis": "1 Samuel 10:1, Samuel anoints Saul",
+    "usedBy": [
+      "anointing-of-saul"
+    ]
+  },
+  "saul-spear": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The king's spear, so often in his hand.",
+    "basis": "1 Samuel 18:10–11, Saul and his spear",
+    "usedBy": [
+      "saul"
+    ]
+  },
+  "judah-lion": {
+    "node": "event",
+    "rendered": true,
+    "description": "The lion of Judah.",
+    "basis": "Genesis 49:9, the lion of Judah, David's royal tribe",
+    "usedBy": [
+      "david-becomes-king"
+    ]
+  },
+  "throne": {
+    "node": "event",
+    "rendered": true,
+    "description": "The everlasting throne beneath a star.",
+    "basis": "2 Samuel 7:16, \"your throne shall be established forever\"",
+    "usedBy": [
+      "davidic-covenant"
+    ]
+  },
+  "scales": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The balance of Solomon's wise judgment.",
+    "basis": "1 Kings 3, Solomon's wisdom in judgment",
+    "usedBy": [
+      "solomon"
+    ]
+  },
+  "temple": {
+    "node": "event",
+    "rendered": true,
+    "description": "The sanctuary in Jerusalem.",
+    "basis": "1 Kings 6, Solomon builds the temple",
+    "usedBy": [
+      "solomons-temple"
+    ]
+  },
+  "torn-robe": {
+    "node": "event",
+    "rendered": true,
+    "description": "Ahijah's robe torn into twelve pieces.",
+    "basis": "1 Kings 11:30, Ahijah tears his cloak",
+    "usedBy": [
+      "kingdom-divides"
+    ]
+  },
+  "baal-idol": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The storm-god Baal, whom Ahab and Jezebel promoted.",
+    "basis": "1 Kings 18, the contest with the prophets of Baal",
+    "usedBy": [
+      "ahab"
+    ]
+  },
+  "fiery-chariot": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The chariot of fire.",
+    "basis": "2 Kings 2:11, Elijah taken up in a whirlwind",
+    "usedBy": [
+      "elijah"
+    ]
+  },
+  "mantle": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The fallen mantle of Elijah.",
+    "basis": "2 Kings 2:13, Elisha takes up the mantle",
+    "usedBy": [
+      "elisha"
+    ]
+  },
+  "plumb-line": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The plumb line held against a wall gone out of true.",
+    "basis": "Amos 7:7–8, the plumb line",
+    "usedBy": [
+      "amos"
+    ]
+  },
+  "love-heart": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The covenant love that endures unfaithfulness.",
+    "basis": "Hosea 1–3, Hosea and Gomer as a sign of God's love",
+    "usedBy": [
+      "hosea"
+    ]
+  },
+  "jonah-fish": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The great fish.",
+    "basis": "Jonah 1:17, the great fish",
+    "usedBy": [
+      "jonah"
+    ]
+  },
+  "burning-coal": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The burning coal that touched Isaiah's lips.",
+    "basis": "Isaiah 6:6–7, the seraph and the coal",
+    "usedBy": [
+      "isaiah"
+    ]
+  },
+  "plowshare": {
+    "node": "figure",
+    "rendered": true,
+    "description": "Swords beaten into a plowshare.",
+    "basis": "Micah 4:3, swords into plowshares",
+    "usedBy": [
+      "micah"
+    ]
+  },
+  "broken-city": {
+    "node": "event",
+    "rendered": true,
+    "description": "The broken city of Samaria.",
+    "basis": "2 Kings 17, the fall of Samaria",
+    "usedBy": [
+      "fall-of-samaria"
+    ]
+  },
+  "sundial": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The shadow that went back on the sundial.",
+    "basis": "2 Kings 20:11, the sign given to Hezekiah",
+    "usedBy": [
+      "hezekiah"
+    ]
+  },
+  "found-scroll": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The Book of the Law found in the temple.",
+    "basis": "2 Kings 22:8, the book found in Josiah's reign",
+    "usedBy": [
+      "josiah"
+    ]
+  },
+  "yoke": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The wooden yoke, sign of submission to Babylon.",
+    "basis": "Jeremiah 27–28, the yoke",
+    "usedBy": [
+      "jeremiah"
+    ]
+  },
+  "ezekiel-wheels": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The wheel within a wheel, full of eyes.",
+    "basis": "Ezekiel 1, the vision of the wheels",
+    "usedBy": [
+      "ezekiel"
+    ]
+  },
+  "lions-den": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The lion in the den.",
+    "basis": "Daniel 6, the lions' den",
+    "usedBy": [
+      "daniel"
+    ]
+  },
+  "burning-temple": {
+    "node": "event",
+    "rendered": true,
+    "description": "The temple in flames.",
+    "basis": "2 Kings 25:9, the burning of the temple",
+    "usedBy": [
+      "fall-of-jerusalem"
+    ]
+  },
+  "rising-temple": {
+    "node": "event",
+    "rendered": true,
+    "description": "The sun rising behind the rebuilt temple.",
+    "basis": "Ezra 3–6, the Second Temple",
+    "usedBy": [
+      "return-from-exile"
+    ]
+  },
+  "scroll-twelve": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The Book of the Twelve.",
+    "basis": "The twelve Minor Prophets",
+    "usedBy": [
+      "minor-prophets"
+    ]
+  },
+  "queen-scepter": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The golden scepter the king extended to Esther.",
+    "basis": "Esther 5:2, the king holds out the golden scepter",
+    "usedBy": [
+      "esther"
+    ]
+  },
+  "scribe-scroll": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The scribe's scroll and stylus.",
+    "basis": "Ezra 7:6, Ezra the scribe skilled in the Law",
+    "usedBy": [
+      "ezra"
+    ]
+  },
+  "wall-trowel": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The rebuilt wall and the builder's trowel.",
+    "basis": "Nehemiah 4:17, building with a weapon in hand",
+    "usedBy": [
+      "nehemiah"
+    ]
+  },
+  "chi-rho": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The Chi-Rho christogram.",
+    "basis": "The first letters of ΧΡΙΣΤΟΣ (Christ)",
+    "usedBy": [
+      "jesus"
+    ]
+  },
+  "herod-crown": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The heavy jeweled crown of the threatened king.",
+    "basis": "Matthew 2, Herod and the newborn king",
+    "usedBy": [
+      "herod-the-great"
+    ]
+  },
+  "lily": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The annunciation lily.",
+    "basis": "Luke 1:26–38, the Annunciation; traditional Marian emblem",
+    "usedBy": [
+      "mary"
+    ]
+  },
+  "carpenter-tools": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The carpenter's square and saw.",
+    "basis": "Matthew 13:55, Joseph the carpenter (tekton)",
+    "usedBy": [
+      "joseph-of-nazareth"
+    ]
+  },
+  "baptist-shell": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The baptismal scallop shell.",
+    "basis": "Matthew 3, John baptizing at the Jordan",
+    "usedBy": [
+      "john-the-baptist"
+    ]
+  },
+  "pilate-basin": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The basin and ewer for washing his hands.",
+    "basis": "Matthew 27:24, Pilate washes his hands",
+    "usedBy": [
+      "pontius-pilate"
+    ]
+  },
+  "nativity-star": {
+    "node": "event",
+    "rendered": true,
+    "description": "The star of Bethlehem over the manger.",
+    "basis": "Luke 2 & Matthew 2, the Nativity and the star",
+    "usedBy": [
+      "annunciation-nativity"
+    ]
+  },
+  "baptism-dove": {
+    "node": "event",
+    "rendered": true,
+    "description": "The dove descending, over the water.",
+    "basis": "Mark 1:10, the Spirit as a dove at Jesus' baptism",
+    "usedBy": [
+      "baptism-of-jesus"
+    ]
+  },
+  "teaching-mount": {
+    "node": "event",
+    "rendered": true,
+    "description": "The teaching on the hill.",
+    "basis": "Matthew 5–7, the Sermon on the Mount",
+    "usedBy": [
+      "public-ministry-sermon"
+    ]
+  },
+  "transfiguration-glory": {
+    "node": "event",
+    "rendered": true,
+    "description": "Glory blazing on the mountain.",
+    "basis": "Mark 9:2–8, the Transfiguration",
+    "usedBy": [
+      "transfiguration"
+    ]
+  },
+  "donkey": {
+    "node": "event",
+    "rendered": true,
+    "description": "The donkey and the palm.",
+    "basis": "Zechariah 9:9; Mark 11, the Triumphal Entry",
+    "usedBy": [
+      "triumphal-entry"
+    ]
+  },
+  "bread-cup": {
+    "node": "event",
+    "rendered": true,
+    "description": "The bread and the cup.",
+    "basis": "Mark 14:22–24, the Last Supper",
+    "usedBy": [
+      "last-supper"
+    ]
+  },
+  "cross-thorns": {
+    "node": "event",
+    "rendered": true,
+    "description": "The cross ringed by the crown of thorns.",
+    "basis": "Mark 15, the Crucifixion",
+    "usedBy": [
+      "crucifixion"
+    ]
+  },
+  "empty-tomb": {
+    "node": "event",
+    "rendered": true,
+    "description": "The empty tomb, its stone rolled away.",
+    "basis": "John 20, the empty tomb",
+    "usedBy": [
+      "resurrection"
+    ]
+  },
+  "ascending-cloud": {
+    "node": "event",
+    "rendered": true,
+    "description": "The figure taken up into the cloud.",
+    "basis": "Acts 1:9, taken up in a cloud",
+    "usedBy": [
+      "ascension"
+    ]
+  },
+  "crossed-keys": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The crossed keys of the kingdom.",
+    "basis": "Matthew 16:19, \"the keys of the kingdom\"",
+    "usedBy": [
+      "peter"
+    ]
+  },
+  "scroll-sword": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The scroll of the letters and the sword of martyrdom.",
+    "basis": "The Pauline epistles; the sword as his traditional attribute",
+    "usedBy": [
+      "paul",
+      "the-pauline-epistles"
+    ]
+  },
+  "dove-flame": {
+    "node": "event",
+    "rendered": true,
+    "description": "The dove descending amid tongues of fire.",
+    "basis": "Acts 2:3, the tongues of fire at Pentecost",
+    "usedBy": [
+      "pentecost"
+    ]
+  },
+  "andrew-cross": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The X-shaped saltire cross.",
+    "basis": "The tradition of Andrew's martyrdom on a diagonal cross",
+    "usedBy": [
+      "andrew"
+    ]
+  },
+  "james-sword": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The sword of martyrdom, the pilgrim's shell above.",
+    "basis": "Acts 12:2, James beheaded; the Santiago pilgrimage shell",
+    "usedBy": [
+      "james-son-of-zebedee"
+    ]
+  },
+  "eagle": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The eagle of John the Evangelist.",
+    "basis": "The four living creatures; John 1:1, the soaring prologue",
+    "usedBy": [
+      "john",
+      "book-john"
+    ]
+  },
+  "philip-loaves": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The basket of loaves from the feeding.",
+    "basis": "John 6:5–7, Philip and the feeding of the five thousand",
+    "usedBy": [
+      "philip"
+    ]
+  },
+  "doubting-hand": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The hand reaching to touch the wounds.",
+    "basis": "John 20:24–29, doubting Thomas",
+    "usedBy": [
+      "thomas"
+    ]
+  },
+  "money-bag": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The money bag of the tax collector.",
+    "basis": "Matthew 9:9, Matthew called from the tax booth",
+    "usedBy": [
+      "matthew"
+    ]
+  },
+  "net": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The net of the fishers of men.",
+    "basis": "Mark 1:17, \"I will make you fishers of men\"",
+    "usedBy": [
+      "other-apostles"
+    ]
+  },
+  "thirty-silver": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The thirty pieces of silver, thrown down.",
+    "basis": "Matthew 26:15; 27:5, the price of betrayal",
+    "usedBy": [
+      "judas-iscariot"
+    ]
+  },
+  "casting-lots": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The lots by which he was chosen.",
+    "basis": "Acts 1:26, Matthias chosen by lot",
+    "usedBy": [
+      "matthias"
+    ]
+  },
+  "spice-jar": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The jar of spices carried to the tomb.",
+    "basis": "Mark 16:1, the women bring spices to anoint the body",
+    "usedBy": [
+      "mary-magdalene"
+    ]
+  },
+  "encourager": {
+    "node": "figure",
+    "rendered": true,
+    "description": "Open hands lifting a gift.",
+    "basis": "Acts 4:36, Barnabas the \"son of encouragement\"",
+    "usedBy": [
+      "barnabas"
+    ]
+  },
+  "passed-torch": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The torch of the faith handed on.",
+    "basis": "2 Timothy 2:2, the faith entrusted to the next generation",
+    "usedBy": [
+      "timothy"
+    ]
+  },
+  "ox": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The winged ox of Luke the Evangelist.",
+    "basis": "The four living creatures; the sacrificial theme of Luke",
+    "usedBy": [
+      "luke",
+      "book-luke"
+    ]
+  },
+  "winged-lion": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The winged lion of Mark the Evangelist.",
+    "basis": "The four living creatures; the sign of Mark (and Venice)",
+    "usedBy": [
+      "mark",
+      "book-mark"
+    ]
+  },
+  "martyr-crown": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The martyr's laurel crown and cross.",
+    "basis": "Stephanos means \"crown\"; the first martyr",
+    "usedBy": [
+      "stephen"
+    ]
+  },
+  "james-club": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The fuller's club of his martyrdom.",
+    "basis": "The tradition (Hegesippus) of James the Just's death",
+    "usedBy": [
+      "james-brother-of-jesus"
+    ]
+  },
+  "stephen-stones": {
+    "node": "event",
+    "rendered": true,
+    "description": "The stones, thrown.",
+    "basis": "Acts 7:58–60, the stoning of Stephen",
+    "usedBy": [
+      "martyrdom-of-stephen"
+    ]
+  },
+  "damascus-light": {
+    "node": "event",
+    "rendered": true,
+    "description": "The blinding light on the Damascus road.",
+    "basis": "Acts 9:3, the light from heaven",
+    "usedBy": [
+      "conversion-of-paul"
+    ]
+  },
+  "open-door": {
+    "node": "event",
+    "rendered": true,
+    "description": "The door of faith opened to the Gentiles.",
+    "basis": "Acts 14:27; 15, the door opened to the nations",
+    "usedBy": [
+      "council-of-jerusalem"
+    ]
+  },
+  "sailing-ship": {
+    "node": "event",
+    "rendered": true,
+    "description": "The ship crossing the Roman sea.",
+    "basis": "Acts 13–28, Paul's missionary voyages",
+    "usedBy": [
+      "pauls-journeys"
+    ]
+  },
+  "menorah": {
+    "node": "event",
+    "rendered": true,
+    "description": "The temple menorah, carried to Rome.",
+    "basis": "The Arch of Titus; the temple destroyed AD 70",
+    "usedBy": [
+      "fall-of-jerusalem-70"
+    ]
+  },
+  "council-codex": {
+    "node": "event",
+    "rendered": true,
+    "description": "The open codex of the creed, crowned by a cross.",
+    "basis": "The creed of the councils",
+    "usedBy": [
+      "council-of-nicaea"
+    ]
+  },
+  "split-circle": {
+    "node": "event",
+    "rendered": true,
+    "description": "One seal torn in two.",
+    "basis": "The parting of East and West",
+    "usedBy": [
+      "great-schism"
+    ]
+  },
+  "luther-rose": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The rose-and-cross seal Luther designed.",
+    "basis": "Luther's personal seal",
+    "usedBy": [
+      "martin-luther",
+      "luther-bible"
+    ]
+  },
+  "olive-branch": {
+    "node": "event",
+    "rendered": true,
+    "description": "The olive branch of a negotiated peace.",
+    "basis": "The peace of 1648",
+    "usedBy": [
+      "peace-of-westphalia"
+    ]
+  },
+  "tanakh-scrolls": {
+    "node": "text",
+    "rendered": true,
+    "description": "Three scrolls — Law, Prophets, Writings — the Law gilded at the centre.",
+    "basis": "The threefold Hebrew canon (Luke 24:44)",
+    "usedBy": [
+      "the-tanakh"
+    ]
+  },
+  "genesis-dawn": {
+    "node": "text",
+    "rendered": true,
+    "description": "The first dawn rising over the waters.",
+    "basis": "Genesis 1, the beginning",
+    "usedBy": [
+      "book-genesis"
+    ]
+  },
+  "exodus-staff": {
+    "node": "text",
+    "rendered": true,
+    "description": "The shepherd's staff of Moses, raised for the going-out.",
+    "basis": "Exodus 4:2; 14:16, the staff of Moses",
+    "usedBy": [
+      "book-exodus"
+    ]
+  },
+  "leviticus-altar": {
+    "node": "text",
+    "rendered": true,
+    "description": "The horned altar with its rising flame.",
+    "basis": "Leviticus 1; 9:24, fire on the altar",
+    "usedBy": [
+      "book-leviticus"
+    ]
+  },
+  "numbers-tents": {
+    "node": "text",
+    "rendered": true,
+    "description": "The camp of tents in the wilderness, a standard raised.",
+    "basis": "Numbers 2, the tribes encamped by their standards",
+    "usedBy": [
+      "book-numbers"
+    ]
+  },
+  "deuteronomy-tablets": {
+    "node": "text",
+    "rendered": true,
+    "description": "The two tablets of the law, restated on the plains of Moab.",
+    "basis": "Deuteronomy 5, the commandments repeated",
+    "usedBy": [
+      "book-deuteronomy"
+    ]
+  },
+  "former-prophets-scroll": {
+    "node": "text",
+    "rendered": true,
+    "description": "An open narrative scroll on its rollers.",
+    "basis": "The Deuteronomistic History, Joshua–Kings",
+    "usedBy": [
+      "the-former-prophets"
+    ]
+  },
+  "restoration-wall": {
+    "node": "text",
+    "rendered": true,
+    "description": "The rebuilt city wall and its gate.",
+    "basis": "Nehemiah 6:15, the wall finished",
+    "usedBy": [
+      "the-post-exilic-histories"
+    ]
+  },
+  "psalter-harp": {
+    "node": "text",
+    "rendered": true,
+    "description": "The lyre of praise, gold-framed and strung.",
+    "basis": "Psalm 33:2; 150:3, praise with the lyre and harp",
+    "usedBy": [
+      "book-psalms"
+    ]
+  },
+  "proverbs-lamp": {
+    "node": "text",
+    "rendered": true,
+    "description": "The lamp of wisdom, a light to the feet.",
+    "basis": "Proverbs 6:23; cf. Psalm 119:105",
+    "usedBy": [
+      "book-proverbs"
+    ]
+  },
+  "ecclesiastes-hourglass": {
+    "node": "text",
+    "rendered": true,
+    "description": "The hourglass; all is fleeting breath.",
+    "basis": "Ecclesiastes 1:2, \"vanity of vanities\"",
+    "usedBy": [
+      "book-ecclesiastes"
+    ]
+  },
+  "song-lily": {
+    "node": "text",
+    "rendered": true,
+    "description": "The lily of the valleys.",
+    "basis": "Song of Songs 2:1",
+    "usedBy": [
+      "book-song-of-songs"
+    ]
+  },
+  "isaiah-coal": {
+    "node": "text",
+    "rendered": true,
+    "description": "The burning coal from the altar, held in the tongs.",
+    "basis": "Isaiah 6:6–7, the coal that touched the prophet's lips",
+    "usedBy": [
+      "book-isaiah"
+    ]
+  },
+  "jeremiah-almond": {
+    "node": "text",
+    "rendered": true,
+    "description": "The almond branch in blossom — the watching rod.",
+    "basis": "Jeremiah 1:11–12, the branch of an almond tree",
+    "usedBy": [
+      "book-jeremiah"
+    ]
+  },
+  "ezekiel-wheel": {
+    "node": "text",
+    "rendered": true,
+    "description": "The wheel within a wheel, its rim full of eyes.",
+    "basis": "Ezekiel 1:16–18, wheels within wheels",
+    "usedBy": [
+      "book-ezekiel"
+    ]
+  },
+  "daniel-lion": {
+    "node": "text",
+    "rendered": true,
+    "description": "The lion of the den, maned in gold.",
+    "basis": "Daniel 6, the lions' den",
+    "usedBy": [
+      "book-daniel"
+    ]
+  },
+  "twelve-scroll": {
+    "node": "text",
+    "rendered": true,
+    "description": "The roller-bars of a scroll listing the twelve minor prophets.",
+    "basis": "The Book of the Twelve",
+    "usedBy": [
+      "the-book-of-the-twelve"
+    ]
+  },
+  "winged-man": {
+    "node": "text",
+    "rendered": true,
+    "description": "The winged man of the four living creatures.",
+    "basis": "Matthew 1, the human genealogy; the four living creatures",
+    "usedBy": [
+      "book-matthew"
+    ]
+  },
+  "acts-tongues": {
+    "node": "text",
+    "rendered": true,
+    "description": "The tongues of fire of the Spirit poured out.",
+    "basis": "Acts 2:3, tongues as of fire",
+    "usedBy": [
+      "book-acts"
+    ]
+  },
+  "epistles-bundle": {
+    "node": "text",
+    "rendered": true,
+    "description": "A bundle of sealed letters.",
+    "basis": "The general (catholic) epistles",
+    "usedBy": [
+      "the-general-epistles"
+    ]
+  },
+  "alpha-omega": {
+    "node": "text",
+    "rendered": true,
+    "description": "The Alpha and the Omega.",
+    "basis": "Revelation 1:8; 22:13, \"the beginning and the end\"",
+    "usedBy": [
+      "book-revelation"
+    ]
+  },
+  "gospel-cross": {
+    "node": "text",
+    "rendered": true,
+    "description": "The open Gospel beneath the cross.",
+    "basis": "The fourfold Gospel canon",
+    "usedBy": [
+      "the-new-testament-canon"
+    ]
+  },
+  "septuagint-scroll": {
+    "node": "text",
+    "rendered": true,
+    "description": "A Greek scroll in two columns.",
+    "basis": "The Septuagint, the Greek Old Testament",
+    "usedBy": [
+      "the-septuagint"
+    ]
+  },
+  "torn-fragment": {
+    "node": "text",
+    "rendered": true,
+    "description": "A torn sheet with its ragged edge.",
+    "basis": "The Muratorian fragment",
+    "usedBy": [
+      "the-muratorian-fragment"
+    ]
+  },
+  "festal-letter": {
+    "node": "text",
+    "rendered": true,
+    "description": "The canon list under a cross.",
+    "basis": "Athanasius' 39th Festal Letter, AD 367",
+    "usedBy": [
+      "athanasius-367"
+    ]
+  },
+  "canon-ratified": {
+    "node": "event",
+    "rendered": true,
+    "description": "The open Bible ratified with a seal.",
+    "basis": "The councils of Hippo (393) and Carthage (397)",
+    "usedBy": [
+      "councils-of-hippo-carthage"
+    ]
+  },
+  "vulgate-codex": {
+    "node": "text",
+    "rendered": true,
+    "description": "Jerome's Latin Bible — cross on the board, and a quill.",
+    "basis": "The Vulgate; Jerome's translation",
+    "usedBy": [
+      "the-vulgate"
+    ]
+  },
+  "masoretic-points": {
+    "node": "text",
+    "rendered": true,
+    "description": "Hebrew lines with the added vowel points.",
+    "basis": "The Masoretes' pointing of the Hebrew text",
+    "usedBy": [
+      "the-masoretic-text"
+    ]
+  },
+  "tyndale-flame": {
+    "node": "text",
+    "rendered": true,
+    "description": "The open English Bible, and the flame of the martyr's burning.",
+    "basis": "Tyndale's New Testament, 1526; his death, 1536",
+    "usedBy": [
+      "tyndale-new-testament"
+    ]
+  },
+  "kjv-crown": {
+    "node": "text",
+    "rendered": true,
+    "description": "The open Bible beneath the crown.",
+    "basis": "The King James (Authorized) Version, 1611",
+    "usedBy": [
+      "king-james-version"
+    ]
+  },
+  "clement-letter": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The letter to Corinth, with a hanging seal.",
+    "basis": "1 Clement, c. AD 96",
+    "usedBy": [
+      "clement-of-rome"
+    ]
+  },
+  "ignatius-chains": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The chains of the prisoner for Christ.",
+    "basis": "Ignatius taken to Rome for martyrdom, c. AD 108",
+    "usedBy": [
+      "ignatius-of-antioch"
+    ]
+  },
+  "polycarp-pyre": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The stake and flames of the martyr.",
+    "basis": "The Martyrdom of Polycarp, c. AD 155",
+    "usedBy": [
+      "polycarp"
+    ]
+  },
+  "justin-pallium": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The philosopher's cloak, clasped with the star of truth.",
+    "basis": "Justin kept the philosopher's pallium; the 'true philosophy'",
+    "usedBy": [
+      "justin-martyr"
+    ]
+  },
+  "irenaeus-book": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The book marked with the fourfold Gospel.",
+    "basis": "Irenaeus, Against Heresies; the four Gospels",
+    "usedBy": [
+      "irenaeus"
+    ]
+  },
+  "tertullian-trinity": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The triangle of the Trinity.",
+    "basis": "Tertullian coined 'Trinitas'",
+    "usedBy": [
+      "tertullian"
+    ]
+  },
+  "origen-columns": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The six parallel columns of the Hexapla.",
+    "basis": "Origen's Hexapla",
+    "usedBy": [
+      "origen"
+    ]
+  },
+  "cyprian-cathedra": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The bishop's cathedra, marked with the cross.",
+    "basis": "Cyprian, On the Unity of the Church",
+    "usedBy": [
+      "cyprian"
+    ]
+  },
+  "martyr-palm": {
+    "node": "event",
+    "rendered": true,
+    "description": "The martyr's palm branch.",
+    "basis": "The palm as the ancient sign of the martyrs",
+    "usedBy": [
+      "diocletianic-persecution"
+    ]
+  },
+  "edict-scroll": {
+    "node": "event",
+    "rendered": true,
+    "description": "The imperial decree with its wax seal.",
+    "basis": "The Edict of Milan, AD 313",
+    "usedBy": [
+      "edict-of-milan"
+    ]
+  },
+  "labarum": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The standard bearing the Chi-Rho.",
+    "basis": "Constantine's labarum; the Milvian Bridge vision",
+    "usedBy": [
+      "constantine"
+    ]
+  },
+  "arian-iota": {
+    "node": "event",
+    "rendered": true,
+    "description": "The single Greek iota on which the dispute turned.",
+    "basis": "homoousios vs homoiousios",
+    "usedBy": [
+      "arian-controversy"
+    ]
+  },
+  "creed-tablet": {
+    "node": "text",
+    "rendered": true,
+    "description": "The codex of the confession, sealed with the Chi-Rho.",
+    "basis": "The Nicene Creed, 325/381",
+    "usedBy": [
+      "the-nicene-creed"
+    ]
+  },
+  "antony-tau": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The Tau cross, and the desert sun.",
+    "basis": "Antony of Egypt; the Tau (Anthony's) cross",
+    "usedBy": [
+      "antony-of-egypt"
+    ]
+  },
+  "athanasius-shield": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The shield of the Nicene faith, held against the world.",
+    "basis": "Athanasius contra mundum",
+    "usedBy": [
+      "athanasius"
+    ]
+  },
+  "trinity-knot": {
+    "node": "figure",
+    "rendered": true,
+    "description": "Three rings for the one God in three persons.",
+    "basis": "The Cappadocians' Trinitarian theology",
+    "usedBy": [
+      "the-cappadocian-fathers"
+    ]
+  },
+  "ambrose-beehive": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The beehive of honeyed eloquence.",
+    "basis": "The legend of bees on the infant Ambrose's mouth",
+    "usedBy": [
+      "ambrose-of-milan"
+    ]
+  },
+  "chrysostom-mouth": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The golden mouth, and words going forth.",
+    "basis": "John 'Chrysostom' — the golden-mouthed preacher",
+    "usedBy": [
+      "john-chrysostom"
+    ]
+  },
+  "jerome-lion": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The tame lion of the legend.",
+    "basis": "The legend of Jerome and the lion",
+    "usedBy": [
+      "jerome"
+    ]
+  },
+  "augustine-heart": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The restless heart, aflame.",
+    "basis": "Confessions 1.1, 'our heart is restless'",
+    "usedBy": [
+      "augustine-of-hippo"
+    ]
+  },
+  "council-assembly": {
+    "node": "event",
+    "rendered": true,
+    "description": "Bishops assembled around the decree.",
+    "basis": "The ecumenical councils",
+    "usedBy": [
+      "council-of-constantinople-i",
+      "council-of-ephesus",
+      "council-of-chalcedon"
+    ]
+  },
+  "benedict-raven": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The raven that bore off the poisoned bread.",
+    "basis": "The legend of Benedict and the raven",
+    "usedBy": [
+      "benedict-of-nursia"
+    ]
+  },
+  "papal-tiara": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The papal tiara, the triple crown.",
+    "basis": "The office of the medieval papacy",
+    "usedBy": [
+      "gregory-the-great"
+    ]
+  },
+  "islam-crescent": {
+    "node": "event",
+    "rendered": true,
+    "description": "The crescent and star (historical context).",
+    "basis": "The rise of Islam, from AD 622",
+    "usedBy": [
+      "the-rise-of-islam"
+    ]
+  },
+  "imperial-crown": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The arched imperial crown with orb and cross.",
+    "basis": "Charlemagne crowned emperor, AD 800",
+    "usedBy": [
+      "charlemagne"
+    ]
+  },
+  "investiture-clash": {
+    "node": "event",
+    "rendered": true,
+    "description": "The crozier crossed by the sword — Church and crown.",
+    "basis": "The Investiture Controversy",
+    "usedBy": [
+      "the-investiture-controversy"
+    ]
+  },
+  "anselm-fides": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The book beneath the rising light of understanding.",
+    "basis": "Anselm, 'faith seeking understanding'",
+    "usedBy": [
+      "anselm-of-canterbury"
+    ]
+  },
+  "crusade-cross": {
+    "node": "event",
+    "rendered": true,
+    "description": "The Jerusalem cross — cross potent and four crosslets.",
+    "basis": "The Crusades, from 1095",
+    "usedBy": [
+      "the-first-crusade"
+    ]
+  },
+  "three-mitres": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The three mitres of the sees he declined.",
+    "basis": "Bernard refused the bishoprics offered him",
+    "usedBy": [
+      "bernard-of-clairvaux"
+    ]
+  },
+  "hildegard-feather": {
+    "node": "figure",
+    "rendered": true,
+    "description": "A feather on the breath of God.",
+    "basis": "Hildegard's description of herself",
+    "usedBy": [
+      "hildegard-of-bingen"
+    ]
+  },
+  "francis-birds": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The birds to whom he preached.",
+    "basis": "Francis preaching to the birds",
+    "usedBy": [
+      "francis-of-assisi"
+    ]
+  },
+  "dominic-star": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The star of the preacher, above the book of study.",
+    "basis": "Dominic's star; the Order of Preachers",
+    "usedBy": [
+      "dominic"
+    ]
+  },
+  "aquinas-sun": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The radiant sun of the Angelic Doctor.",
+    "basis": "Aquinas shown with the sun on his breast",
+    "usedBy": [
+      "thomas-aquinas"
+    ]
+  },
+  "catherine-ring": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The ring of the mystical marriage.",
+    "basis": "Catherine's mystical marriage to Christ",
+    "usedBy": [
+      "catherine-of-siena"
+    ]
+  },
+  "avignon-tiara": {
+    "node": "event",
+    "rendered": true,
+    "description": "The tiara and the fleur-de-lis of France.",
+    "basis": "The Avignon papacy, 1309-1377",
+    "usedBy": [
+      "the-avignon-papacy"
+    ]
+  },
+  "schism-two-tiaras": {
+    "node": "event",
+    "rendered": true,
+    "description": "Rival tiaras, and the crack between them.",
+    "basis": "The Western Schism, 1378-1417",
+    "usedBy": [
+      "the-western-schism"
+    ]
+  },
+  "wycliffe-star": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The morning star, above the English Bible.",
+    "basis": "Wycliffe, 'morning star of the Reformation'",
+    "usedBy": [
+      "john-wycliffe"
+    ]
+  },
+  "hus-goose": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The goose (his name), and the martyr's flame.",
+    "basis": "'Hus' means goose in Czech; burned at Constance",
+    "usedBy": [
+      "jan-hus"
+    ]
+  },
+  "plague-skull": {
+    "node": "event",
+    "rendered": true,
+    "description": "The skull, memento mori of a plague age.",
+    "basis": "The Black Death, 1347-1351",
+    "usedBy": [
+      "the-black-death"
+    ]
+  },
+  "imitatio-steps": {
+    "node": "text",
+    "rendered": true,
+    "description": "Footsteps following the cross.",
+    "basis": "The Imitation of Christ",
+    "usedBy": [
+      "the-imitation-of-christ"
+    ]
+  },
+  "constantinople-dome": {
+    "node": "event",
+    "rendered": true,
+    "description": "The domed church crowned by a crescent.",
+    "basis": "The fall of Constantinople, 1453; Hagia Sophia",
+    "usedBy": [
+      "fall-of-constantinople"
+    ]
+  },
+  "erasmus-quill": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The humanist's quill over the page.",
+    "basis": "Erasmus; his Greek New Testament, 1516",
+    "usedBy": [
+      "erasmus"
+    ]
+  },
+  "theses-nail": {
+    "node": "event",
+    "rendered": true,
+    "description": "The paper nailed to the door.",
+    "basis": "The Ninety-Five Theses, Wittenberg 1517",
+    "usedBy": [
+      "the-95-theses"
+    ]
+  },
+  "hand-on-bible": {
+    "node": "event",
+    "rendered": true,
+    "description": "The hand on the open Bible — conscience bound to Scripture.",
+    "basis": "Luther at the Diet of Worms, 1521",
+    "usedBy": [
+      "the-diet-of-worms"
+    ]
+  },
+  "zwingli-sword-bible": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The sword laid across the open Bible.",
+    "basis": "Zwingli, reformer of Zurich, died in battle 1531",
+    "usedBy": [
+      "huldrych-zwingli"
+    ]
+  },
+  "anabaptist-drops": {
+    "node": "event",
+    "rendered": true,
+    "description": "The waters of believer's baptism, beneath the cross.",
+    "basis": "The Anabaptists; believer's baptism, from 1525",
+    "usedBy": [
+      "the-anabaptists"
+    ]
+  },
+  "confession-articles": {
+    "node": "text",
+    "rendered": true,
+    "description": "The codex of articles, under the cross.",
+    "basis": "The Augsburg Confession, 1530",
+    "usedBy": [
+      "the-augsburg-confession"
+    ]
+  },
+  "supremacy-crown": {
+    "node": "event",
+    "rendered": true,
+    "description": "The crown set over the church.",
+    "basis": "The Act of Supremacy, 1534",
+    "usedBy": [
+      "the-english-reformation"
+    ]
+  },
+  "jesuit-ihs": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The Jesuit IHS, wreathed in rays.",
+    "basis": "The Society of Jesus; the IHS monogram of Christ",
+    "usedBy": [
+      "ignatius-loyola"
+    ]
+  },
+  "calvin-hand-heart": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The heart offered to God in an open hand.",
+    "basis": "Calvin's seal: 'my heart I give to you, Lord'",
+    "usedBy": [
+      "john-calvin"
+    ]
+  },
+  "cranmer-hand": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The hand thrust into the flames.",
+    "basis": "Cranmer burned the recanting hand first, 1556",
+    "usedBy": [
+      "thomas-cranmer"
+    ]
+  },
+  "common-prayer": {
+    "node": "text",
+    "rendered": true,
+    "description": "Praying hands over the open book.",
+    "basis": "The Book of Common Prayer, 1549",
+    "usedBy": [
+      "the-book-of-common-prayer"
+    ]
+  },
+  "augsburg-peace": {
+    "node": "event",
+    "rendered": true,
+    "description": "Two pennants, Catholic and Lutheran, side by side.",
+    "basis": "The Peace of Augsburg, 1555; cuius regio, eius religio",
+    "usedBy": [
+      "the-peace-of-augsburg"
+    ]
+  },
+  "knox-trumpet": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The first blast of the trumpet.",
+    "basis": "Knox's 'First Blast of the Trumpet'",
+    "usedBy": [
+      "john-knox"
+    ]
+  },
+  "teresa-heart": {
+    "node": "figure",
+    "rendered": true,
+    "description": "The heart pierced by the golden arrow.",
+    "basis": "Teresa's transverberation",
+    "usedBy": [
+      "teresa-of-avila"
+    ]
+  },
+  "bartholomew-massacre": {
+    "node": "event",
+    "rendered": true,
+    "description": "The sword and the broken cross.",
+    "basis": "The St Bartholomew's Day Massacre, 1572",
+    "usedBy": [
+      "st-bartholomews-day-massacre"
+    ]
+  },
+  "thirty-years-swords": {
+    "node": "event",
+    "rendered": true,
+    "description": "The crossed swords of a generation of war.",
+    "basis": "The Thirty Years' War, 1618-1648",
+    "usedBy": [
+      "the-thirty-years-war"
+    ]
+  }
+}

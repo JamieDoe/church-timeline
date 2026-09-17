@@ -1,0 +1,15 @@
+{
+  "id": "the-exodus-route",
+  "title": "The Route of the Exodus",
+  "entryId": "the-exodus",
+  "certainty": "contested",
+  "note": "GENUINELY DISPUTED. The route of the Exodus is not established fact — even the location of Mount Sinai is uncertain (Jebel Musa is the traditional site; others are proposed). This is one traditional reconstruction of the southern route, drawn to show the shape of the journey, not to settle it.",
+  "points": [
+    { "placeName": "Rameses (Goshen)", "lat": 30.8, "lng": 31.8, "note": "The starting point in the Nile delta (Exodus 12:37)." },
+    { "placeName": "Succoth", "lat": 30.55, "lng": 32.15, "note": "The first stage out of Egypt — location uncertain." },
+    { "placeName": "Crossing of the Sea", "lat": 30.0, "lng": 32.5, "note": "The 'Sea of Reeds' crossing; the exact body of water is debated." },
+    { "placeName": "Mount Sinai", "lat": 28.54, "lng": 33.98, "note": "Jebel Musa is the traditional Mount Sinai — but the true site is genuinely unknown." },
+    { "placeName": "Kadesh-Barnea", "lat": 30.68, "lng": 34.42, "note": "The oasis where Israel stayed through much of the wilderness years." },
+    { "placeName": "Plains of Moab (Jericho)", "lat": 31.87, "lng": 35.44, "note": "Opposite Jericho, on the edge of the promised land (Numbers 22:1)." }
+  ]
+}

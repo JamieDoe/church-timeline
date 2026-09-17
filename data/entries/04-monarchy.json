@@ -1,0 +1,304 @@
+[
+  {
+    "id": "conquest-of-canaan",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Conquest of Canaan",
+    "yearStart": -1400,
+    "dateDisplay": "c. 1400 BC or c. 1210 BC (disputed)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "falling-walls",
+    "categories": ["conquest"],
+    "summary": "Israel crosses the Jordan and the walls of Jericho fall — the gift of the land, and one of the sharpest gaps between narrative and archaeology.",
+    "article": "**What scripture narrates.** Under Joshua, Israel crosses the Jordan on dry ground, and the walls of Jericho fall at the sound of the trumpets and a shout (Joshua 3–6). A campaign follows — Ai, then southern and northern coalitions — and the land is apportioned among the twelve tribes (Joshua 11–21). The book presents it as the LORD's gift of the land promised to Abraham, though its own later chapters, and the opening of Judges, admit that much of the land remained unconquered.\n\n**Where scripture and archaeology diverge.** This is among the most debated episodes in biblical history. Excavations at Jericho and Ai have not yielded destruction layers matching a straightforward reading — Jericho appears to have been largely unwalled and unoccupied in the relevant periods — and the material record suggests Israel emerged within Canaan more gradually and less violently than a single sweeping conquest. Scholarly models range from a modified conquest to peaceful infiltration to an internal social upheaval; this entry is marked *contested*, and the gap between the narrative and the spade is exactly what this project keeps visible.\n\n**Register.** What scripture proclaims — the faithfulness of God to his promise of land — is a theological claim in the scriptural register; the historical reconstruction is a separate and open question.",
+    "scriptureRefs": ["Joshua 3–6", "Joshua 11–21", "Judges 1"],
+    "readingPointer": "Read the crossing and the fall of Jericho in Joshua 3–6.",
+    "sources": [
+      "ESV Study Bible, introduction to Joshua",
+      "The Oxford Dictionary of the Christian Church, \"Joshua\"",
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years"
+    ]
+  },
+  {
+    "id": "period-of-the-judges",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "The Period of the Judges",
+    "yearStart": -1375,
+    "yearEnd": -1050,
+    "dateDisplay": "c. 1375–1050 BC (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "history"],
+    "symbol": "judges-sword",
+    "categories": ["judges"],
+    "summary": "Centuries with no king, when \"everyone did what was right in his own eyes\" — a cycle of falling away and rescue by deliverers.",
+    "article": "**What scripture narrates.** After Joshua's generation dies, Israel has no king, and \"everyone did what was right in his own eyes\" (Judges 21:25). The book of Judges tells a recurring cycle: the people fall into idolatry, are oppressed by a neighboring power, cry out, and are rescued by a *judge* — a charismatic deliverer raised up by God (Othniel, Ehud, Deborah, Gideon, Jephthah, Samson, and others) — then fall away again. It is a dark, violent period, honestly told, the loose tribal confederation held together only by the covenant and the occasional deliverer.\n\n**Register and dating.** The judges span the centuries between the settlement and the monarchy (traditionally c. 1375–1050 BC); the chronology is loose and the figures overlapping, the individual narratives thinly corroborated outside scripture — so this framing is marked *traditional*. Historians read the era as the period in which Israel took shape as a people in the highlands of Canaan.\n\n**Its point.** Judges makes the case, by relentless example, for what Israel lacked — a faithful king — setting up the turn to Samuel, Saul, and David that follows.",
+    "scriptureRefs": ["Judges 2:11–19", "Judges 21:25", "Ruth 1:1"],
+    "readingPointer": "The cycle is set out in Judges 2, and told across the book.",
+    "sources": [
+      "ESV Study Bible, introduction to Judges",
+      "The Oxford Dictionary of the Christian Church, \"Judges, Book of\""
+    ]
+  },
+  {
+    "id": "deborah",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Deborah",
+    "yearStart": -1200,
+    "dateDisplay": "12th century BC (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture"],
+    "symbol": "palm-tree",
+    "categories": ["judge", "prophetess"],
+    "summary": "Prophetess and judge, \"a mother in Israel,\" who summoned Barak to battle and sang one of the Bible's oldest songs.",
+    "article": "**What scripture narrates.** Deborah is a prophetess who judges Israel from beneath her palm in the hill country of Ephraim (Judges 4:4–5) — the only woman among the judges, and the one who holds both offices, prophet and judge. When the Canaanite general Sisera oppresses Israel, she summons Barak to battle and goes with him; the victory is won, and Sisera falls at last to Jael's tent peg. The great war-poem of Judges 5, the Song of Deborah, celebrates it — reckoned one of the oldest passages in the Bible.\n\n**Register and dating.** Deborah belongs to the judges period, traditionally placed in the 12th century BC; like the other judges she is thinly corroborated outside scripture (marked *traditional*).\n\n**Her place in the story.** She stands out as a woman exercising the highest leadership in Israel in an age that gave women little — remembered in her own song as \"a mother in Israel\" (Judges 5:7).",
+    "scriptureRefs": ["Judges 4", "Judges 5"],
+    "readingPointer": "Her story and song are in Judges 4–5.",
+    "sources": [
+      "ESV Study Bible, notes on Judges 4–5",
+      "The Oxford Dictionary of the Christian Church, \"Deborah\""
+    ]
+  },
+  {
+    "id": "gideon",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Gideon",
+    "yearStart": -1150,
+    "dateDisplay": "12th century BC (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture"],
+    "symbol": "gideon-torch",
+    "categories": ["judge"],
+    "summary": "The hesitant judge whose three hundred, with trumpets and torches, routed Midian — so the victory could only be God's.",
+    "article": "**What scripture narrates.** Gideon is called while threshing wheat in secret for fear of the Midianites; hesitant, he asks for signs — the fleece wet, then dry (Judges 6:36–40) — before God pares his army from thousands down to three hundred, so that the victory can only be God's. With trumpets, torches hidden in jars, and a shout, the three hundred rout the Midianite camp by night (Judges 7). Offered kingship, he refuses — \"the LORD will rule over you\" — yet the gold ephod he later makes becomes a snare (Judges 8).\n\n**Register and dating.** Gideon belongs to the judges period, traditionally the 12th century BC; thinly corroborated outside scripture (marked *traditional*).\n\n**His place in the story.** He is the judge of weakness made strong through trust — Hebrews lists him among the heroes of faith (Hebrews 11:32) — and his refusal of a crown is one of the book's clearest statements that Israel's true king is God.",
+    "scriptureRefs": ["Judges 6", "Judges 7", "Judges 8", "Hebrews 11:32"],
+    "readingPointer": "His story is told in Judges 6–8.",
+    "sources": [
+      "ESV Study Bible, notes on Judges 6–8",
+      "The Oxford Dictionary of the Christian Church, \"Gideon\""
+    ]
+  },
+  {
+    "id": "samson",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Samson",
+    "yearStart": -1075,
+    "dateDisplay": "11th century BC (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture"],
+    "symbol": "broken-pillars",
+    "categories": ["judge", "nazirite"],
+    "summary": "The strongest and least self-controlled of the judges, whose uncut hair held his strength — and who pulled the temple down at the last.",
+    "article": "**What scripture narrates.** Samson is a Nazirite from birth, set apart to God, his uncut hair the sign of his vow and the secret of his prodigious strength (Judges 13). His story is a tangle of feats and failures against the Philistines — the lion, the riddle, the foxes, the jawbone — and of his undoing by Delilah, who coaxes out his secret; shorn and blinded, he is set to grind in the Philistine prison. At the last, his hair grown back, he pulls the temple of Dagon down on himself and his captors: \"Let me die with the Philistines\" (Judges 16:30).\n\n**Register and dating.** Samson belongs to the late judges period, traditionally the 11th century BC; thinly corroborated outside scripture (marked *traditional*).\n\n**His place in the story.** The strongest of the judges is also the least self-controlled — a portrait of Israel itself in the period: gifted, set apart, and forever squandering it. Hebrews nonetheless numbers him among the faithful (Hebrews 11:32).",
+    "scriptureRefs": ["Judges 13", "Judges 14–15", "Judges 16", "Hebrews 11:32"],
+    "readingPointer": "His story is told in Judges 13–16.",
+    "sources": [
+      "ESV Study Bible, notes on Judges 13–16",
+      "The Oxford Dictionary of the Christian Church, \"Samson\""
+    ]
+  },
+  {
+    "id": "ruth",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Ruth",
+    "yearStart": -1120,
+    "dateDisplay": "11th–12th century BC (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture"],
+    "symbol": "gleaned-barley",
+    "categories": ["matriarch", "judges"],
+    "summary": "The loyal Moabite widow — \"your people shall be my people\" — who became the great-grandmother of David, and an ancestor of Christ.",
+    "article": "**What scripture narrates.** In the days of the judges, a famine drives a family of Bethlehem to Moab; there the sons marry Moabite women, then die, and the widow Naomi, bereft, turns home. Her daughter-in-law Ruth will not leave her: \"Where you go I will go… your people shall be my people, and your God my God\" (Ruth 1:16). In Bethlehem Ruth gleans in the field of Boaz, a kinsman, who — moved by her loyalty — redeems the family land and marries her. Their son Obed is the grandfather of David.\n\n**Register and dating.** The book is set \"in the days when the judges ruled\" (traditionally the 11th–12th century BC); its date of composition is debated, and it is marked *traditional*.\n\n**On the line of promise.** Ruth the Moabite — an outsider by birth — becomes the great-grandmother of King David, and so an ancestor of Christ: Matthew names her in his genealogy (Matthew 1:5), one of the women he deliberately includes. Her story is scripture's quiet argument that the line of promise runs through loyal love and reaches beyond Israel's borders.",
+    "scriptureRefs": ["Ruth 1", "Ruth 2–4", "Matthew 1:5"],
+    "readingPointer": "Her story is told in the book of Ruth — only four chapters.",
+    "sources": [
+      "ESV Study Bible, introduction to Ruth",
+      "The Oxford Dictionary of the Christian Church, \"Ruth, Book of\""
+    ],
+    "location": { "name": "Bethlehem", "lat": 31.7, "lng": 35.2 }
+  },
+  {
+    "id": "samuel",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Samuel",
+    "yearStart": -1080,
+    "yearEnd": -1010,
+    "dateDisplay": "11th century BC (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture"],
+    "symbol": "horn-of-oil",
+    "categories": ["prophet", "judge"],
+    "summary": "The last judge and first of the great prophets, who anointed Israel's first kings with the horn of oil.",
+    "article": "**What scripture narrates.** Asked of God by the barren Hannah and given back to him at Shiloh (1 Samuel 1), Samuel hears the LORD call his name as a boy (1 Samuel 3) and grows into the hinge figure of Israel's story: the last of the judges and the first of the great prophets. When Israel demands a king \"like all the nations,\" it is Samuel who warns them, and Samuel who nonetheless anoints Saul (1 Samuel 8–10) — and, after Saul's rejection, who fills his horn with oil and anoints the shepherd boy David at Bethlehem (1 Samuel 16:13).\n\n**His emblem.** The horn of oil marks the office this canvas draws as a line: the prophet who makes kings, standing outside the throne to speak God's word to it. That prophet-to-king relationship — Samuel to Saul, Samuel to David, later Nathan to David and Elijah to Ahab — becomes one of the Old Testament's structural patterns.\n\n**Dating.** Samuel's dates are a traditional back-reckoning from the conventional chronology of Saul and David's reigns; no external source names him. His home and circuit centered on Ramah (1 Samuel 7:15–17).",
+    "scriptureRefs": ["1 Samuel 1–3", "1 Samuel 8–10", "1 Samuel 16:1–13"],
+    "readingPointer": "His story is told in 1 Samuel 1–16.",
+    "sources": [
+      "ESV Study Bible, notes on 1 Samuel",
+      "The Oxford Dictionary of the Christian Church, \"Samuel\""
+    ],
+    "relationships": [
+      { "targetId": "saul", "type": "anointed" },
+      { "targetId": "david", "type": "anointed" }
+    ],
+    "location": { "name": "Ramah (traditional identification)", "lat": 31.85, "lng": 35.23 }
+  },
+  {
+    "id": "anointing-of-saul",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Anointing of Saul",
+    "yearStart": -1050,
+    "dateDisplay": "c. 1050 BC (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "history"],
+    "symbol": "anointing-crown",
+    "categories": ["monarchy"],
+    "summary": "Israel demands a king \"like all the nations,\" and Samuel anoints Saul — the turn from judges to monarchy, held in tension.",
+    "article": "**What scripture narrates.** Israel demands a king \"like all the nations\"; Samuel warns them what a king will take, but at the LORD's word anoints Saul, a tall young Benjamite, as Israel's first king (1 Samuel 8–10). It is a hinge in the story — the move from the loose rule of judges to a monarchy — and scripture holds it in tension: the request is treated as a kind of rejection of God's own kingship (1 Samuel 8:7), yet God grants it and works through it.\n\n**Register and dating.** The united monarchy begins around 1050–1030 BC on the conventional reckoning; the narrative is thinly corroborated outside scripture (marked *traditional*).\n\n**Its meaning.** The ambivalence is the point: Israel gets what it asks for, and the rest of Samuel and Kings weighs every king against the question of whether he served God's kingship or his own.",
+    "scriptureRefs": ["1 Samuel 8", "1 Samuel 9–10", "1 Samuel 12"],
+    "readingPointer": "Read the demand for a king and the anointing in 1 Samuel 8–10.",
+    "sources": [
+      "ESV Study Bible, notes on 1 Samuel 8–10",
+      "The Oxford Dictionary of the Christian Church, \"Saul\""
+    ]
+  },
+  {
+    "id": "saul",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Saul",
+    "yearStart": -1080,
+    "yearEnd": -1010,
+    "dateDisplay": "reigned c. 1050–1010 BC (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture"],
+    "symbol": "saul-spear",
+    "categories": ["king"],
+    "summary": "Israel's tragic first king — tall and promising, undone by disobedience and jealousy, the foil against whom David is measured.",
+    "article": "**What scripture narrates.** Saul, son of Kish, of the tribe of Benjamin, is Israel's first king — tall, promising, and anointed by Samuel (1 Samuel 9–10). He wins early victories, but twice acts presumptuously against the LORD's word, and Samuel tells him the kingdom will be torn from him and given to a better man (1 Samuel 15). From then his reign darkens: tormented and jealous, he hunts the young David through the wilderness, consults the medium at Endor, and finally falls on his own sword after defeat by the Philistines at Mount Gilboa (1 Samuel 31).\n\n**Register and dating.** Saul reigned around 1050–1010 BC on the conventional reckoning; no external source names him (marked *traditional*).\n\n**His place in the story.** Saul is the tragic first king — the man who looked the part and lost it, the foil against whom David is measured. David, though hunted, twice spares Saul's life, refusing to raise his hand against \"the LORD's anointed\" (1 Samuel 24; 26).",
+    "scriptureRefs": ["1 Samuel 9–11", "1 Samuel 15", "1 Samuel 31"],
+    "readingPointer": "His story runs from 1 Samuel 9 through 1 Samuel 31.",
+    "sources": [
+      "ESV Study Bible, notes on 1 Samuel",
+      "The Oxford Dictionary of the Christian Church, \"Saul\""
+    ],
+    "relationships": [{ "targetId": "david", "type": "opposed" }]
+  },
+  {
+    "id": "david-becomes-king",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "David Becomes King",
+    "yearStart": -1010,
+    "dateDisplay": "c. 1010 BC",
+    "certainty": "attested",
+    "registers": ["scripture", "history"],
+    "symbol": "judah-lion",
+    "categories": ["monarchy", "king"],
+    "summary": "The shepherd made king takes Jerusalem as his capital — the tribes united for the first time, and the earliest externally attested figure here.",
+    "article": "**What scripture narrates.** Anointed by Samuel as a boy (1 Samuel 16), David rises through the killing of Goliath and years of exile as Saul hunts him. After Saul's death he is made king over Judah at Hebron, and seven years later over all Israel; he captures the Jebusite stronghold of Jerusalem and makes it his capital, bringing the ark there (2 Samuel 5–6). Under David the tribes become, for the first time, a united kingdom with a center.\n\n**What history can say.** David is the earliest figure on this timeline with external attestation: the Tel Dan Stele (9th century BC) names the \"House of David\" as a ruling dynasty, so most historians accept a historical David who founded a royal line — while debating how large and centralized his kingdom actually was. This event is marked *attested* on the strength of that dynastic evidence, even as the scale of the united monarchy remains debated.\n\n**Register.** The scriptural narrative of anointing and divine choice is a theological account; what the inscription attests is narrower — a dynasty founder — and the two should not be collapsed.",
+    "scriptureRefs": ["2 Samuel 2:1–4", "2 Samuel 5", "2 Samuel 6"],
+    "readingPointer": "Read David's rise to kingship in 2 Samuel 2–6.",
+    "sources": [
+      "ESV Study Bible, notes on 2 Samuel",
+      "The Oxford Dictionary of the Christian Church, \"David\"",
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years"
+    ],
+    "location": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 }
+  },
+  {
+    "id": "david",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "David",
+    "yearStart": -1040,
+    "yearEnd": -970,
+    "dateDisplay": "reigned c. 1010–970 BC",
+    "certainty": "attested",
+    "registers": ["scripture", "history"],
+    "symbol": "harp",
+    "categories": ["king", "psalmist", "line-of-promise", "covenant"],
+    "summary": "Shepherd, psalmist, and king of Israel, to whom God promised a house and throne forever.",
+    "article": "**What scripture narrates.** Anointed as a boy while his brothers stood taller (1 Samuel 16), David fells Goliath, survives Saul's jealousy in the wilderness years, and is made king first of Judah and then of all Israel, taking Jerusalem as his city (2 Samuel 5). His harp — the emblem here — remembers both the shepherd who played for Saul and the tradition that placed many of the Psalms in his mouth. At the center of his story stands the covenant of 2 Samuel 7: God will build David a house, and \"your throne shall be established forever\" (2 Samuel 7:16). Scripture does not flatter him; the Bathsheba narrative and its aftermath (2 Samuel 11–12) are told with unblinking honesty, answered by the penitence tradition hears in Psalm 51.\n\n**What history can say.** David is the earliest figure on this canvas with a plausible external attestation: the Tel Dan Stele, an Aramaic victory inscription of the ninth century BC discovered in 1993, refers to the \"House of David\" (*bytdwd*) as a dynasty. Most historians therefore accept a historical David who founded a ruling house, while debating how large and centralized his kingdom really was — positions range from scripture's united monarchy to far more modest chiefdom reconstructions. The reign dates c. 1010–970 BC are the conventional scholarly reckoning.\n\n**On the line of promise.** The Davidic covenant is the reason the gold thread runs through him: the prophets await a righteous Branch of David, and the New Testament's first sentence announces \"Jesus Christ, the son of David\" (Matthew 1:1). The thread runs on from David through his son Solomon and the kings of Judah toward Christ; the generations between are condensed here.\n\n**Psalm attribution — a note.** Many psalms carry the heading \"of David\" (*ledawid*); what that Hebrew phrase asserts — authorship, dedication, collection — is a live scholarly question, so this project says \"the psalms tradition associates with David\" rather than flattening the matter.",
+    "scriptureRefs": ["1 Samuel 16–31", "2 Samuel 5–7", "2 Samuel 11–12", "Psalm 51 (title)", "Matthew 1:1"],
+    "readingPointer": "His story runs from 1 Samuel 16 through 1 Kings 2.",
+    "sources": [
+      "ESV Study Bible, notes on 1–2 Samuel",
+      "The Oxford Dictionary of the Christian Church, \"David\"",
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years"
+    ],
+    "relationships": [{ "targetId": "solomon", "type": "line-of-promise" }],
+    "location": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 }
+  },
+  {
+    "id": "davidic-covenant",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "The Davidic Covenant",
+    "yearStart": -1000,
+    "dateDisplay": "c. 1000 BC (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "throne",
+    "categories": ["covenant", "monarchy"],
+    "summary": "\"Your throne shall be established forever\" — the promise of an everlasting throne, the seedbed of messianic hope.",
+    "article": "**What scripture narrates.** When David proposes to build the LORD a house — a temple — the prophet Nathan brings a reversal: it is the LORD who will build David a house, a dynasty, and establish his kingdom forever. \"Your throne shall be established forever\" (2 Samuel 7:16). The temple will be built by David's son, but the promise reaches past any one reign to an everlasting throne.\n\n**Register.** This is a covenant promise in the scriptural register, not an externally verifiable event (marked *traditional*). Its importance is theological and enormous: the Davidic covenant becomes the seedbed of messianic hope — the prophets await a coming son of David, a righteous Branch, and the New Testament opens by announcing Jesus as \"the son of David\" (Matthew 1:1; Luke 1:32–33).\n\n**On the line of promise.** This promise is why the gold thread runs through David: the everlasting throne pledged here is what the genealogy of Matthew traces toward Christ.",
+    "scriptureRefs": ["2 Samuel 7", "Psalm 89", "Luke 1:32–33"],
+    "readingPointer": "Read Nathan's oracle in 2 Samuel 7.",
+    "sources": [
+      "ESV Study Bible, notes on 2 Samuel 7",
+      "The Oxford Dictionary of the Christian Church, \"David\" and \"Messiah\""
+    ]
+  },
+  {
+    "id": "solomon",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Solomon",
+    "yearStart": -1010,
+    "yearEnd": -931,
+    "dateDisplay": "reigned c. 970–931 BC (united-monarchy scale debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "scales",
+    "categories": ["king", "line-of-promise", "wisdom"],
+    "summary": "David's son, who asked for wisdom and built the temple — Israel's golden age, and a sharp debate over how grand it really was.",
+    "article": "**What scripture narrates.** Solomon, son of David and Bathsheba, succeeds his father and, offered anything, asks for wisdom to govern (1 Kings 3) — famously displayed in the judgment of the two mothers. His reign is Israel's golden age: he builds the temple in Jerusalem and a great palace, trades and grows rich, and his wisdom draws the queen of Sheba (1 Kings 4–10). Tradition assigns him Proverbs, Ecclesiastes, and the Song of Songs. But his many foreign wives turn his heart to other gods, and for this the kingdom is told it will be torn in two after his death (1 Kings 11).\n\n**Register, dating, and the historical debate.** Solomon reigned around 970–931 BC on the conventional reckoning. His historicity is bound up with the sharp debate over the united monarchy: archaeologists disagree about how grand tenth-century Jerusalem really was — the \"high\" and \"low\" chronologies read the same stones very differently — and no direct evidence of Solomon or his temple survives. This entry is marked *contested* to carry that debate; the biblical portrait of imperial splendor is not straightforwardly confirmed by the spade.\n\n**On the line of promise.** Solomon is the next link of the gold thread after David — \"David was the father of Solomon\" (Matthew 1:6) — and the temple he builds becomes the center of Israel's worship until its destruction.",
+    "scriptureRefs": ["1 Kings 3", "1 Kings 6–8", "1 Kings 11", "Matthew 1:6"],
+    "readingPointer": "His story is told in 1 Kings 1–11.",
+    "sources": [
+      "ESV Study Bible, notes on 1 Kings",
+      "The Oxford Dictionary of the Christian Church, \"Solomon\"",
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years"
+    ],
+    "relationships": [{ "targetId": "hezekiah", "type": "line-of-promise" }],
+    "location": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 }
+  },
+  {
+    "id": "solomons-temple",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Solomon's Temple",
+    "yearStart": -966,
+    "dateDisplay": "c. 966 BC (united-monarchy dating debated)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "temple",
+    "categories": ["temple", "worship"],
+    "summary": "The first temple in Jerusalem — the fixed center of Israel's worship, until Babylon destroyed it four centuries later.",
+    "article": "**What scripture narrates.** In the fourth year of his reign, Solomon begins the temple in Jerusalem, seven years in the building — a house of cedar and gold for the ark and the presence of God (1 Kings 6). At its dedication the glory of the LORD fills it like a cloud, and Solomon prays that God will hear his people when they turn toward this place (1 Kings 8). The First Temple becomes the fixed center of Israel's worship for nearly four centuries, until Babylon destroys it in 586 BC.\n\n**Register and history.** The building is narrated in scripture in great architectural detail; no archaeological remains of it survive (the Temple Mount has never been excavated), and its scale is debated with the rest of the united monarchy — so this entry is marked *contested*. What it establishes theologically — a single sanctuary, God dwelling among his people — shapes everything that follows, including the New Testament's language of Jesus and the church as the true temple.\n\n**Its long shadow.** The temple's destruction, rebuilding, and destruction again run like a spine through the rest of the biblical story; \"something greater than the temple is here,\" Jesus says (Matthew 12:6).",
+    "scriptureRefs": ["1 Kings 5–8", "2 Chronicles 3–7", "John 2:19–21"],
+    "readingPointer": "Read the building and dedication in 1 Kings 6–8.",
+    "sources": [
+      "ESV Study Bible, notes on 1 Kings 6–8",
+      "The Oxford Dictionary of the Christian Church, \"Temple\""
+    ],
+    "location": { "name": "Jerusalem (the Temple Mount)", "lat": 31.778, "lng": 35.235 }
+  }
+]

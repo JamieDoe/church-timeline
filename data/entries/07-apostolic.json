@@ -1,0 +1,520 @@
+[
+  {
+    "id": "peter",
+    "type": "figure",
+    "layers": ["people", "church"],
+    "title": "Peter",
+    "yearStart": 1,
+    "yearEnd": 67,
+    "dateDisplay": "d. c. AD 64–68 (traditional)",
+    "certainty": "attested",
+    "registers": ["scripture", "tradition", "history"],
+    "symbol": "crossed-keys",
+    "categories": ["apostle"],
+    "summary": "Fisherman, spokesman of the twelve, keeper of the keys — and the apostle whose office the traditions still debate.",
+    "article": "**What scripture narrates.** Simon the fisherman is called at the Sea of Galilee, renamed Cephas/Peter — \"the rock\" — and stands as spokesman of the twelve: first to confess \"You are the Christ\" (Matthew 16:16), given \"the keys of the kingdom\" (Matthew 16:19, the crossed keys of his emblem), and yet the one who denies Jesus three times before the rooster crows. Restored on the shore (John 21), he preaches at Pentecost, opens the door to Gentile believers at Caesarea (Acts 10), and writes to scattered churches as \"a witness of the sufferings of Christ\" (1 Peter 5:1). Paul's letters independently attest him as a \"pillar\" apostle (Galatians 2:9) — and record confronting him at Antioch (Galatians 2:11).\n\n**What tradition holds, and history weighs.** The New Testament never records Peter's death. Very early tradition — 1 Clement (c. AD 96), then writers of the second century — places his martyrdom in Rome under Nero, c. AD 64–68; the detail that he was crucified head-downward comes from the later, apocryphal *Acts of Peter*. Historians broadly accept the Roman martyrdom as early and plausible tradition while noting the embellishments; his birth year is simply unknown, so this entry's placement is approximate.\n\n**The debate his name carries.** \"You are Peter, and on this rock I will build my church\" (Matthew 16:18) is among the most consequential disputed sentences in Christian history — see the tradition views on this page, each stated in its own voice and none adjudicated here.",
+    "scriptureRefs": ["Matthew 16:13–23", "John 21:15–19", "Acts 2", "Acts 10", "Galatians 2:9–14", "1 Peter 5:1"],
+    "readingPointer": "Follow him through the Gospels, then Acts 1–12, then his two letters.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Peter, St\"",
+      "Henry Chadwick, The Early Church",
+      "Justo L. González, The Story of Christianity, vol. 1"
+    ],
+    "relationships": [
+      { "targetId": "paul", "type": "contemporary" },
+      { "targetId": "mark", "type": "influenced" }
+    ],
+    "traditions": {
+      "catholic": "Catholic teaching holds that Christ made Peter the visible head of the church, that Peter became the first bishop of Rome, and that his office continues in the papacy — the pope as Peter's successor exercising a real primacy of jurisdiction over the whole church.",
+      "orthodox": "Orthodox teaching honors Peter as first among the apostles (a primacy of honor) and Rome's ancient precedence among the patriarchates, but holds that Peter's confession of faith, and an authority shared by all bishops in council, is the rock — rejecting a universal papal jurisdiction.",
+      "protestant": "Protestant readings generally take the rock to be Peter's confession of Christ (or Christ himself), regard Peter as foundational in the apostolic generation without instituting a perpetual office, and deny that Matthew 16 establishes the papacy."
+    },
+    "location": { "name": "Rome (traditional site of martyrdom)", "lat": 41.89, "lng": 12.48 }
+  },
+  {
+    "id": "james-brother-of-jesus",
+    "type": "figure",
+    "layers": ["people", "church"],
+    "title": "James, brother of Jesus",
+    "yearStart": 1,
+    "yearEnd": 62,
+    "dateDisplay": "d. AD 62",
+    "certainty": "attested",
+    "registers": ["scripture", "history", "tradition"],
+    "symbol": "james-club",
+    "categories": ["apostle", "church-leader"],
+    "summary": "\"James the Just,\" leader of the Jerusalem church, who presided at the Council of Jerusalem — and is attested by Josephus.",
+    "article": "**What scripture narrates.** James, called \"the Lord's brother\" (Galatians 1:19), does not follow Jesus during his ministry but, after an appearance of the risen Christ (1 Corinthians 15:7), becomes the leader of the Jerusalem church. He presides at the Council of Jerusalem, giving the decisive judgment that Gentiles need not be circumcised (Acts 15:13–21), and is remembered as \"James the Just,\" a man of deep prayer. The New Testament letter of James — practical, sharp on faith and works — is traditionally his.\n\n**What history confirms.** James is among the best-attested figures of the apostolic age: the historian Josephus records his death (*Antiquities* 20.9.1) — stoned c. AD 62 on the order of the high priest Ananus — naming him \"the brother of Jesus who was called Christ.\" Marked *attested*.\n\n**A note the traditions dispute.** What \"brother of Jesus\" means is itself debated — full brother (many Protestants), half-brother or step-brother, or cousin (traditions holding Mary's perpetual virginity). This project notes the difference rather than settling it.",
+    "scriptureRefs": ["Acts 15:13–21", "Galatians 1:19", "1 Corinthians 15:7", "James 1–2"],
+    "readingPointer": "Read the letter of James, and his judgment in Acts 15.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"James, St, the Lord's Brother\"",
+      "Henry Chadwick, The Early Church"
+    ],
+    "location": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 }
+  },
+  {
+    "id": "andrew",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Andrew",
+    "yearStart": 2,
+    "yearEnd": 60,
+    "dateDisplay": "1st century AD (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "andrew-cross",
+    "categories": ["apostle"],
+    "summary": "Peter's brother, the first-called, who kept bringing people to Jesus — and, by tradition, died on an X-shaped cross.",
+    "article": "**What scripture narrates.** Andrew, a fisherman of Bethsaida and Peter's brother, is the first disciple called (a disciple of John the Baptist who follows Jesus and then fetches his brother: \"We have found the Messiah,\" John 1:41). He is the one who brings the boy with the loaves and fishes to Jesus, and who brings the inquiring Greeks (John 6; 12) — remembered as the apostle who introduces others to Christ.\n\n**Register and tradition.** Andrew is known through the Gospels; the traditions of his later mission (Greece, Scythia) and his martyrdom on a saltire — the diagonal \"St Andrew's cross\" of his emblem and of the Scottish flag — are later and thinly corroborated (marked *traditional*).",
+    "scriptureRefs": ["John 1:35–42", "Mark 1:16–18", "John 6:8–9", "John 12:20–22"],
+    "readingPointer": "His calling is in John 1:35–42.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Andrew, St\""
+    ],
+    "relationships": [{ "targetId": "peter", "type": "contemporary" }]
+  },
+  {
+    "id": "james-son-of-zebedee",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "James, son of Zebedee",
+    "yearStart": 3,
+    "yearEnd": 44,
+    "dateDisplay": "d. AD 44",
+    "certainty": "traditional",
+    "registers": ["scripture", "history"],
+    "symbol": "james-sword",
+    "categories": ["apostle"],
+    "summary": "One of the inner three, John's brother — the first of the apostles to be martyred, by Herod Agrippa.",
+    "article": "**What scripture narrates.** James and his brother John, sons of Zebedee, are called from their nets and nicknamed \"Boanerges,\" sons of thunder (Mark 3:17); with Peter they form the inner circle who see the Transfiguration and Gethsemane. Their request for the highest seats prompts Jesus' teaching that greatness is service (Mark 10:35–45). James is the first of the twelve to die a martyr — beheaded by Herod Agrippa I (Acts 12:1–2).\n\n**Register and dating.** His martyrdom (c. AD 44, under the attested Herod Agrippa) is the one apostolic death the New Testament records; James himself is known through the Gospels (marked *traditional*). Much later tradition links him to Spain and the great pilgrimage shrine of Santiago de Compostela.",
+    "scriptureRefs": ["Mark 1:19–20", "Mark 10:35–45", "Acts 12:1–2"],
+    "readingPointer": "His martyrdom is recorded in Acts 12:1–2.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"James, St, the Great\""
+    ]
+  },
+  {
+    "id": "john",
+    "type": "figure",
+    "layers": ["scripture", "people", "church"],
+    "title": "John",
+    "yearStart": 6,
+    "yearEnd": 100,
+    "dateDisplay": "c. AD 6 – c. 100 (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "eagle",
+    "categories": ["apostle", "evangelist"],
+    "summary": "The beloved disciple, longest-lived of the twelve — traditionally the evangelist of the fourth Gospel and the seer of Revelation.",
+    "article": "**What scripture narrates.** John, son of Zebedee and brother of James, is one of the inner three; the fourth Gospel's \"disciple whom Jesus loved,\" who leans on Jesus at the Last Supper, stands at the cross to receive Mary into his care, and outruns Peter to the empty tomb (John 13; 19; 20). He is a \"pillar\" of the Jerusalem church (Galatians 2:9).\n\n**Register and tradition.** Tradition — early but debated — makes him the author of the fourth Gospel, three letters, and, from exile on Patmos, the Revelation; it places his old age at Ephesus, the only apostle not martyred. Modern scholarship debates how directly the apostle stands behind these books (the \"Johannine\" question). This entry is marked *traditional*; the authorship debates belong to the book entries.\n\n**His emblem.** The eagle — one of the four living creatures — became the ancient symbol of John the Evangelist, for the soaring opening of his Gospel: \"In the beginning was the Word.\"",
+    "scriptureRefs": ["John 13:23–25", "John 19:26–27", "John 20:1–10", "Revelation 1:9"],
+    "readingPointer": "Read the Gospel of John, then the letters of John, then Revelation.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"John, St, the Apostle\"",
+      "Henry Chadwick, The Early Church"
+    ],
+    "location": { "name": "Ephesus (traditional)", "lat": 37.94, "lng": 27.34 }
+  },
+  {
+    "id": "philip",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Philip",
+    "yearStart": 4,
+    "yearEnd": 80,
+    "dateDisplay": "1st century AD (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "philip-loaves",
+    "categories": ["apostle"],
+    "summary": "The apostle of the practical question — \"where are we to buy bread?\" — and of \"Lord, show us the Father.\"",
+    "article": "**What scripture narrates.** Philip of Bethsaida is called early and brings Nathanael to Jesus — \"come and see\" (John 1:43–46). In John's Gospel he is the one Jesus tests before feeding the five thousand (\"where are we to buy bread?\", 6:5–7), who brings the inquiring Greeks, and who asks at the Last Supper, \"Lord, show us the Father,\" drawing the reply, \"Whoever has seen me has seen the Father\" (John 14:8–9).\n\n**Register and tradition.** Philip is known through the Gospels; later traditions of his mission and death in Asia Minor (Hierapolis) are thinly corroborated (marked *traditional*). He is distinct from Philip the deacon-evangelist of Acts 8.",
+    "scriptureRefs": ["John 1:43–46", "John 6:5–7", "John 14:8–9"],
+    "readingPointer": "His questions appear in John 6 and John 14.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Philip, St, the Apostle\""
+    ]
+  },
+  {
+    "id": "thomas",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Thomas",
+    "yearStart": 4,
+    "yearEnd": 72,
+    "dateDisplay": "1st century AD (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "doubting-hand",
+    "categories": ["apostle"],
+    "summary": "\"Doubting Thomas,\" who would not believe until he touched the wounds — and then confessed, \"My Lord and my God.\"",
+    "article": "**What scripture narrates.** Thomas, called the Twin (Didymus), is willing to die with Jesus (\"let us also go, that we may die with him,\" John 11:16) and honest in his confusion (\"we do not know where you are going,\" 14:5). Absent when the risen Jesus first appears, he refuses to believe \"unless I... place my finger into the mark of the nails\"; a week later Jesus offers him exactly that, and Thomas answers with the Gospel's highest confession, \"My Lord and my God!\" (John 20:24–29).\n\n**Register and tradition.** Thomas is known through John's Gospel; a strong and ancient tradition — carried by the Mar Thoma (\"St Thomas\") Christians of India to this day — holds that he carried the gospel to India and was martyred there. That mission is traditional, not securely documented (marked *traditional*).",
+    "scriptureRefs": ["John 11:16", "John 14:5", "John 20:24–29"],
+    "readingPointer": "His confession is in John 20:24–29.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Thomas, St, the Apostle\""
+    ]
+  },
+  {
+    "id": "matthew",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Matthew",
+    "yearStart": 3,
+    "yearEnd": 70,
+    "dateDisplay": "1st century AD (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "money-bag",
+    "categories": ["apostle", "evangelist"],
+    "summary": "The tax collector called from his booth — traditionally the apostle behind the first Gospel.",
+    "article": "**What scripture narrates.** Matthew (also called Levi) is a tax collector — a despised collaborator with Rome — called by Jesus from his booth with two words, \"Follow me,\" and rising at once to leave it; that evening Jesus dines with \"tax collectors and sinners,\" answering the scandalized: \"I came not to call the righteous, but sinners\" (Matthew 9:9–13).\n\n**Register and tradition.** Matthew is named among the twelve, and early tradition connects him with the first Gospel — the most Jewish of the four, opening with the genealogy this canvas draws in gold. Modern scholarship debates that authorship (the Gospel is anonymous), a question this project leaves to the book's entry (marked *traditional*). His emblem is the money bag of the trade he left.",
+    "scriptureRefs": ["Matthew 9:9–13", "Mark 2:14", "Matthew 10:3"],
+    "readingPointer": "His call is in Matthew 9:9–13.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Matthew, St\""
+    ]
+  },
+  {
+    "id": "other-apostles",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "The Other Apostles",
+    "yearStart": 5,
+    "dateDisplay": "1st century AD (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "net",
+    "categories": ["apostle"],
+    "summary": "The rest of the twelve — Bartholomew, James son of Alphaeus, Thaddaeus, and Simon the Zealot — named in the lists, little else recorded.",
+    "article": "**What scripture narrates.** Four of the twelve appear in the apostle-lists but carry almost no narrative: **Bartholomew** (widely identified with Nathanael, in whom Jesus saw \"an Israelite indeed, in whom there is no deceit,\" John 1:47); **James the son of Alphaeus** (\"James the Less\"); **Thaddaeus** (also called Judas son of James, and the traditional author of the letter of Jude); and **Simon the Zealot**, whose byname may mark a former revolutionary. They complete the twelve — an echo, the New Testament notices, of the twelve tribes of Israel (Matthew 19:28).\n\n**Register and tradition.** These four are grouped here because scripture records little of them individually; the later traditions of their missions and martyrdoms (Bartholomew in Armenia, Simon and Jude in Persia) are thinly corroborated (marked *traditional*). That the movement remembered exactly twelve, named, is itself the point — a reconstituted Israel.",
+    "scriptureRefs": ["Matthew 10:2–4", "Luke 6:14–16", "Acts 1:13", "John 1:45–51"],
+    "readingPointer": "The lists of the twelve are in Matthew 10, Luke 6, and Acts 1.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Apostle\""
+    ]
+  },
+  {
+    "id": "judas-iscariot",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Judas Iscariot",
+    "yearStart": 5,
+    "yearEnd": 30,
+    "dateDisplay": "d. c. AD 30",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "thirty-silver",
+    "categories": ["apostle"],
+    "summary": "One of the twelve who betrayed Jesus for thirty pieces of silver — the tragedy at the heart of the passion.",
+    "article": "**What scripture narrates.** Judas, keeper of the disciples' common purse, agrees to hand Jesus over to the authorities for thirty pieces of silver, and identifies him in Gethsemane with a kiss (Matthew 26:14–16, 47–50). Seized with remorse, he throws the silver back into the temple and hangs himself (Matthew 27:3–5); Acts gives a grimmer variant of his death (Acts 1:18). His place among the twelve is filled by Matthias.\n\n**Register.** Judas is narrated in all four Gospels (marked *traditional*). His betrayal has drawn endless reflection — on providence and guilt, on how one so close could fall — and the Gospels neither excuse it nor pretend it was not a real choice.",
+    "scriptureRefs": ["Matthew 26:14–16", "Matthew 26:47–50", "Matthew 27:3–5", "Acts 1:15–20"],
+    "readingPointer": "His betrayal and end are in Matthew 26–27.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Judas Iscariot\""
+    ]
+  },
+  {
+    "id": "matthias",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Matthias",
+    "yearStart": 6,
+    "yearEnd": 80,
+    "dateDisplay": "1st century AD (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "casting-lots",
+    "categories": ["apostle"],
+    "summary": "Chosen by lot to replace Judas and complete the twelve, before Pentecost.",
+    "article": "**What scripture narrates.** Between the Ascension and Pentecost, the eleven move to restore their number to twelve. The requirement: one who had accompanied them \"from the baptism of John\" to the Ascension, to be \"a witness to his resurrection.\" Two are proposed; after prayer, they cast lots, and the lot falls to Matthias, who is \"numbered with the eleven apostles\" (Acts 1:15–26).\n\n**Register and tradition.** Matthias appears only here; nothing further is recorded, and the traditions of his later mission are thinly corroborated (marked *traditional*). His emblem is the lot by which he was chosen — the last time the New Testament church decides that way, before the Spirit comes at Pentecost.",
+    "scriptureRefs": ["Acts 1:15–26"],
+    "readingPointer": "His choosing is in Acts 1:15–26.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Matthias, St\""
+    ],
+    "relationships": [{ "targetId": "judas-iscariot", "type": "succeeded" }]
+  },
+  {
+    "id": "mary-magdalene",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Mary Magdalene",
+    "yearStart": 4,
+    "yearEnd": 60,
+    "dateDisplay": "1st century AD (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "spice-jar",
+    "categories": ["disciple"],
+    "summary": "Healed by Jesus, faithful at the cross, and the first witness of the resurrection — \"the apostle to the apostles.\"",
+    "article": "**What scripture narrates.** Mary of Magdala, from whom Jesus cast out seven demons (Luke 8:2), follows and supports him, stands by the cross when most have fled, and comes to the tomb at dawn with spices to anoint the body. She is the first to meet the risen Jesus — mistaking him for the gardener until he speaks her name — and is sent to tell the others: \"I have seen the Lord\" (John 20:1–18). For this the ancient church called her *apostola apostolorum*, the apostle to the apostles.\n\n**Register, and a note on identity.** A long Western tradition (from a sermon of Gregory the Great, 591) merged Mary Magdalene with the unnamed sinful woman of Luke 7 and with Mary of Bethany, casting her as a repentant prostitute — a conflation the biblical text does not support and which modern scholarship and the churches have largely set aside. This project keeps her as scripture presents her: healed disciple and first witness. Marked *traditional*.",
+    "scriptureRefs": ["Luke 8:1–3", "John 19:25", "John 20:1–18", "Mark 16:9"],
+    "readingPointer": "Her meeting with the risen Jesus is in John 20:1–18.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Mary Magdalene, St\""
+    ]
+  },
+  {
+    "id": "paul",
+    "type": "figure",
+    "layers": ["people", "church"],
+    "title": "Paul",
+    "yearStart": 5,
+    "yearEnd": 64,
+    "dateDisplay": "c. AD 5 – c. 64/67",
+    "certainty": "attested",
+    "registers": ["scripture", "history", "tradition"],
+    "symbol": "scroll-sword",
+    "categories": ["apostle", "missionary"],
+    "summary": "Persecutor turned apostle to the Gentiles, whose letters are the earliest Christian documents we possess.",
+    "article": "**What scripture narrates.** Saul of Tarsus, a Pharisee who \"persecuted the church of God violently\" (Galatians 1:13), is stopped on the Damascus road by a vision of the risen Jesus (Acts 9; his own briefer account, Galatians 1). As Paul, he carries the message across Asia Minor and Greece in three missionary journeys, argues at the Jerusalem council that Gentiles need not become Jews to belong (Acts 15), confronts Peter at Antioch over that very principle (Galatians 2:11–14), and arrives at Rome a prisoner (Acts 28).\n\n**What history can say.** Paul is the best-attested figure of the apostolic age because we have his own letters — the earliest surviving Christian documents, written in the 50s AD. Scholarship universally accepts seven as undisputedly his (Romans, 1–2 Corinthians, Galatians, Philippians, 1 Thessalonians, Philemon) and debates the remaining six of the canonical thirteen — a scholarly question about authorship conventions this project reports rather than resolves. His execution in Rome under Nero, c. 64–67, is early tradition (1 Clement 5), not narrated in scripture; the sword in his emblem is that later iconographic attribute — the manner of a Roman citizen's execution — joined to the scroll of his letters, not a portrait.\n\n**The long reach of Romans.** Paul's letter to the Romans, with its argument that \"the righteous shall live by faith\" (Romans 1:17), has detonated repeatedly in church history: Augustine's conversion garden, and — the influence line this canvas draws across a millennium and a half — the Wittenberg friar Martin Luther, whose wrestle with that verse he later described as the gate to paradise opening.",
+    "scriptureRefs": ["Acts 9:1–22", "Acts 15", "Galatians 1:11–2:14", "Romans 1:16–17", "2 Timothy 4:6–8"],
+    "readingPointer": "Read his conversion in Acts 9, then Galatians — his own fiercest telling of the gospel.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Paul, St\"",
+      "Henry Chadwick, The Early Church",
+      "Justo L. González, The Story of Christianity, vol. 1"
+    ],
+    "relationships": [
+      { "targetId": "martin-luther", "type": "influenced" },
+      { "targetId": "peter", "type": "opposed" },
+      { "targetId": "timothy", "type": "teacher-to-disciple" }
+    ],
+    "location": { "name": "Tarsus (birthplace)", "lat": 36.92, "lng": 34.9 }
+  },
+  {
+    "id": "barnabas",
+    "type": "figure",
+    "layers": ["scripture", "people", "church"],
+    "title": "Barnabas",
+    "yearStart": 4,
+    "yearEnd": 61,
+    "dateDisplay": "1st century AD (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "encourager",
+    "categories": ["apostle", "missionary"],
+    "summary": "\"Son of encouragement,\" who vouched for the newly converted Paul and launched the first mission with him.",
+    "article": "**What scripture narrates.** Joseph, a Levite of Cyprus, is nicknamed **Barnabas**, \"son of encouragement,\" by the apostles, and sells a field to lay the money at their feet (Acts 4:36–37). When the church fears the newly converted Saul, it is Barnabas who vouches for him (Acts 9:27); the two are sent out together on the first missionary journey (Acts 13–14). Later they part ways sharply over young Mark (Acts 15:36–41), a rare honest note of conflict among the leaders.\n\n**Register and tradition.** Barnabas is well drawn in Acts (marked *traditional*); tradition adds his later mission and martyrdom on Cyprus. He is the quiet enabler of the apostolic mission — the one who makes room for others, including the apostle whose letters would eclipse his own memory.",
+    "scriptureRefs": ["Acts 4:36–37", "Acts 9:26–27", "Acts 13–14", "Acts 15:36–41"],
+    "readingPointer": "His part runs through Acts 4, 9, and 13–15.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Barnabas, St\""
+    ],
+    "relationships": [{ "targetId": "paul", "type": "influenced" }]
+  },
+  {
+    "id": "timothy",
+    "type": "figure",
+    "layers": ["scripture", "people", "church"],
+    "title": "Timothy",
+    "yearStart": 17,
+    "yearEnd": 97,
+    "dateDisplay": "1st century AD (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "passed-torch",
+    "categories": ["church-leader"],
+    "summary": "Paul's young protégé and \"true child in the faith,\" to whom two of the New Testament letters are addressed.",
+    "article": "**What scripture narrates.** Timothy, son of a Greek father and a devout Jewish mother (Eunice) and grandmother (Lois) who raised him in the scriptures, joins Paul on the second journey and becomes his most trusted companion — sent ahead, left in charge, called \"my beloved child\" and \"my true child in the faith\" (1 Timothy 1:2; 2 Timothy 1:5). The two letters to him are among the New Testament's most personal, urging a young leader to \"guard the deposit\" and pass the faith on to \"faithful men who will be able to teach others also\" (2 Timothy 2:2).\n\n**Register and tradition.** Timothy is well attested in Paul's letters and Acts (marked *traditional*); tradition makes him first bishop of Ephesus and a martyr. His emblem — a torch handed on — is the theme of the letters to him: the faith passed to the next generation.",
+    "scriptureRefs": ["Acts 16:1–3", "1 Timothy 1:2", "2 Timothy 1:5", "2 Timothy 2:2"],
+    "readingPointer": "Read Paul's two letters to Timothy.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Timothy, St\""
+    ]
+  },
+  {
+    "id": "luke",
+    "type": "figure",
+    "layers": ["scripture", "people", "church"],
+    "title": "Luke",
+    "yearStart": 10,
+    "yearEnd": 84,
+    "dateDisplay": "1st century AD (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "ox",
+    "categories": ["evangelist"],
+    "summary": "The physician and companion of Paul, traditionally the author of the third Gospel and Acts — a quarter of the New Testament.",
+    "article": "**What scripture narrates.** Luke, \"the beloved physician\" (Colossians 4:14), is a companion of Paul — the \"we\" of several passages in Acts suggests an eyewitness traveler (Acts 16:10ff). Tradition, early and widely held, makes him the author of the two-volume work of the third Gospel and the Acts of the Apostles — together about a quarter of the New Testament, and the only Gentile author in it.\n\n**Register and tradition.** Luke's authorship is traditional and debated by scholars like the other Gospels' (marked *traditional*); it belongs to the book entries. His Gospel is the one of Mary's Magnificat, the good Samaritan, and the prodigal son — with a marked tenderness toward the poor, women, and outsiders. His ancient emblem is the winged ox, for the sacrificial themes of his opening.",
+    "scriptureRefs": ["Colossians 4:14", "Acts 16:10–17", "Luke 1:1–4", "2 Timothy 4:11"],
+    "readingPointer": "Read the Gospel of Luke and its sequel, Acts.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Luke, St\""
+    ],
+    "relationships": [{ "targetId": "paul", "type": "contemporary" }]
+  },
+  {
+    "id": "mark",
+    "type": "figure",
+    "layers": ["scripture", "people", "church"],
+    "title": "Mark",
+    "yearStart": 8,
+    "yearEnd": 68,
+    "dateDisplay": "1st century AD (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "winged-lion",
+    "categories": ["evangelist"],
+    "summary": "The young companion whose failure Paul and Barnabas quarreled over — traditionally the author of the earliest Gospel, from Peter's preaching.",
+    "article": "**What scripture narrates.** John Mark, whose mother's house in Jerusalem hosts the church (Acts 12:12), sets out with Paul and Barnabas but turns back — the cause of their later split (Acts 13:13; 15:37–39). He is reconciled and useful again (\"get Mark, for he is very useful to me,\" 2 Timothy 4:11), and appears beside Peter, who calls him \"my son\" (1 Peter 5:13).\n\n**Register and tradition.** Early tradition (Papias, c. AD 130) makes Mark the interpreter of Peter, writing down Peter's preaching as the second — and, most scholars now hold, the *earliest* — Gospel: short, urgent, unpolished. That authorship is traditional (marked *traditional*); the priority of Mark is a mainstream scholarly view. His ancient emblem is the winged lion, later the sign of Venice, which claims his relics.",
+    "scriptureRefs": ["Acts 12:12", "Acts 15:37–39", "2 Timothy 4:11", "1 Peter 5:13"],
+    "readingPointer": "Read the Gospel of Mark — the shortest and swiftest.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Mark, St\""
+    ]
+  },
+  {
+    "id": "stephen",
+    "type": "figure",
+    "layers": ["scripture", "people", "church"],
+    "title": "Stephen",
+    "yearStart": 5,
+    "yearEnd": 34,
+    "dateDisplay": "d. c. AD 34 (traditional)",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "martyr-crown",
+    "categories": ["martyr", "deacon"],
+    "summary": "The first of the seven deacons and the first Christian martyr, who saw heaven opened and forgave his killers.",
+    "article": "**What scripture narrates.** Stephen, \"full of grace and power,\" is one of the seven chosen to serve the Greek-speaking widows (Acts 6). Seized and tried before the council, he delivers a sweeping indictment of his hearers, and — seeing \"the heavens opened, and the Son of Man standing at the right hand of God\" — is dragged out and stoned, praying as Jesus had, \"Lord, do not hold this sin against them\" (Acts 7:54–60). At his feet the coats are laid by a young man named Saul.\n\n**Register and tradition.** Stephen is narrated in Acts (marked *traditional*); his name, *Stephanos*, means \"crown\" — the martyr's crown of his emblem. His death scatters the Jerusalem church and, with it, the gospel; and the approving witness Saul will, three chapters later, be stopped on the Damascus road.",
+    "scriptureRefs": ["Acts 6:1–8", "Acts 7:54–60", "Acts 8:1"],
+    "readingPointer": "His trial and death are in Acts 6–7.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Stephen, St\""
+    ],
+    "location": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 }
+  },
+  {
+    "id": "pentecost",
+    "type": "event",
+    "layers": ["scripture", "church"],
+    "title": "Pentecost",
+    "yearStart": 30,
+    "dateDisplay": "AD 30 or 33",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "dove-flame",
+    "categories": ["church-beginnings"],
+    "summary": "Wind, fire, and many tongues in Jerusalem — the outpouring of the Spirit the church keeps as its birthday.",
+    "article": "**What scripture narrates.** Fifty days after Passover, at the feast of Weeks, the disciples are gathered in Jerusalem when \"a sound like a mighty rushing wind\" fills the house and \"divided tongues as of fire\" rest on each of them (Acts 2:1–4). They proclaim \"the mighty works of God\" in the many languages of the pilgrim crowd; Peter stands to interpret it — this is what the prophet Joel promised — and about three thousand are baptized. Luke's narrative deliberately answers Babel: where language once scattered the nations, here every nation hears.\n\n**Register and date.** The event is narrated in scripture and kept in tradition as the church's birthday; there is no external corroboration to weigh, which is why it is marked *traditional*. Its date rides on the crucifixion date — the same AD 30 or 33 pair.\n\n**Why this node sits on two layers.** Pentecost belongs to the scripture layer as an event of the New Testament narrative, and to the church layer as the church's own beginning — the hinge where this canvas's biblical story opens into church history. From here the apostles' lines fan outward.",
+    "scriptureRefs": ["Acts 2", "Joel 2:28–32", "Genesis 11:1–9"],
+    "readingPointer": "Read the account in Acts 2.",
+    "sources": [
+      "ESV Study Bible, notes on Acts 2",
+      "The Oxford Dictionary of the Christian Church, \"Pentecost\"",
+      "Justo L. González, The Story of Christianity, vol. 1"
+    ],
+    "location": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 }
+  },
+  {
+    "id": "martyrdom-of-stephen",
+    "type": "event",
+    "layers": ["scripture", "church"],
+    "title": "Martyrdom of Stephen",
+    "yearStart": 34,
+    "dateDisplay": "c. AD 34",
+    "certainty": "traditional",
+    "registers": ["scripture", "tradition"],
+    "symbol": "stephen-stones",
+    "categories": ["martyrdom", "church-beginnings"],
+    "summary": "The stoning of the first martyr — which scatters the Jerusalem church and its gospel, under the eyes of Saul.",
+    "article": "**What scripture narrates.** Stephen, tried before the council, is stoned to death — the first Christian martyr — praying for his killers as he dies (Acts 7:54–60). The persecution that breaks out drives believers out of Jerusalem, and \"those who were scattered went about preaching the word\" (Acts 8:4): the church's first great expansion is set off by its first great loss. Watching, and approving, is a young Pharisee named Saul.\n\n**Register.** Narrated in Acts (marked *traditional*). The scene is the seam between two stories — the death that scatters the gospel outward, and the persecutor who will become its greatest missionary.\n\n**Its long echo.** \"Martyr\" is simply the Greek for *witness*; Stephen makes the church's word for dying-in-testimony, and Tertullian's later line — \"the blood of the martyrs is the seed of the church\" — begins here.",
+    "scriptureRefs": ["Acts 6:8–15", "Acts 7:54–60", "Acts 8:1–4"],
+    "readingPointer": "Read the stoning in Acts 7:54–8:4.",
+    "sources": [
+      "ESV Study Bible, notes on Acts 6–8",
+      "The Oxford Dictionary of the Christian Church, \"Stephen, St\""
+    ],
+    "location": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 }
+  },
+  {
+    "id": "conversion-of-paul",
+    "type": "event",
+    "layers": ["scripture", "church"],
+    "title": "Conversion of Paul",
+    "yearStart": 35,
+    "dateDisplay": "c. AD 34–36",
+    "certainty": "attested",
+    "registers": ["scripture", "history"],
+    "symbol": "damascus-light",
+    "categories": ["church-beginnings", "mission"],
+    "summary": "The persecutor stopped by light on the Damascus road — the turning point that carried the gospel to the Gentile world.",
+    "article": "**What scripture narrates.** Saul, \"breathing threats and murder\" and armed with warrants to arrest believers, is struck to the ground on the road to Damascus by a blinding light and a voice: \"Saul, Saul, why are you persecuting me?\" (Acts 9:1–9). Blinded, he is led into the city, healed and baptized by the disciple Ananias, and begins at once to preach the faith he had tried to destroy.\n\n**What history can say.** Paul recounts the encounter himself, in his own letters — the earliest Christian documents — as the hinge of his life: \"he who had formerly persecuted us is now preaching the faith\" (Galatians 1:23). Because it rests on his own first-hand testimony, the conversion is among the best-attested events of the apostolic age (marked *attested*); what it *was* — a vision of the risen Christ — is the claim he stakes everything on.\n\n**Its consequence.** No single conversion has done more to shape history: from it come the mission to the Gentiles, thirteen letters, and much of the theology of the Western church.",
+    "scriptureRefs": ["Acts 9:1–22", "Acts 22:6–16", "Galatians 1:11–24", "1 Corinthians 15:8–10"],
+    "readingPointer": "Read the Damascus road in Acts 9.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Paul, St\"",
+      "Henry Chadwick, The Early Church"
+    ],
+    "location": { "name": "Damascus", "lat": 33.51, "lng": 36.29 }
+  },
+  {
+    "id": "pauls-journeys",
+    "type": "event",
+    "layers": ["scripture", "church"],
+    "title": "Paul's Missionary Journeys",
+    "yearStart": 46,
+    "yearEnd": 60,
+    "dateDisplay": "c. AD 46–60",
+    "certainty": "attested",
+    "registers": ["scripture", "history"],
+    "symbol": "sailing-ship",
+    "categories": ["mission"],
+    "summary": "Three journeys planting churches across Asia Minor and Greece — the network that carried the gospel into the Roman world.",
+    "article": "**What scripture narrates.** In three great journeys (Acts 13–21), Paul and his companions cross the eastern Roman world — Cyprus, Asia Minor, Macedonia, Greece — preaching first in the synagogues, then to the Gentiles, planting churches in Antioch, Philippi, Corinth, Ephesus, and beyond, and writing back to them the letters that became scripture. A final voyage, as a prisoner, carries him by shipwreck to Rome (Acts 27–28).\n\n**What history can say.** The journeys are corroborated by Paul's own letters, which name the same cities and churches and let us cross-check Acts against a first-hand source — a rare wealth of evidence for the ancient world (marked *attested*). The roads and sea-lanes of the empire, and its common Greek tongue, are the very arteries the gospel travels.\n\n**Its consequence.** By these journeys a Jewish renewal movement becomes a Mediterranean-wide faith — the churches Paul plants and writes to are the seedbed of everything that follows.",
+    "scriptureRefs": ["Acts 13–14", "Acts 15:36–18:22", "Acts 18:23–21:16", "Acts 27–28"],
+    "readingPointer": "Follow the journeys through Acts 13–28.",
+    "sources": [
+      "ESV Study Bible, introduction to Acts",
+      "Justo L. González, The Story of Christianity, vol. 1"
+    ],
+    "location": { "name": "Antioch (missionary base)", "lat": 36.2, "lng": 36.16 }
+  },
+  {
+    "id": "council-of-jerusalem",
+    "type": "event",
+    "layers": ["scripture", "church"],
+    "title": "Council of Jerusalem",
+    "yearStart": 49,
+    "dateDisplay": "c. AD 48–50",
+    "certainty": "attested",
+    "registers": ["scripture", "history"],
+    "symbol": "open-door",
+    "categories": ["council", "mission"],
+    "summary": "The apostles decide Gentiles need not become Jews to follow Christ — the ruling that opened the faith to the world.",
+    "article": "**What scripture narrates.** As Gentiles come to faith, a fierce question splits the young church: must they be circumcised and keep the Law of Moses to be saved? The apostles and elders gather in Jerusalem; Peter recalls the Gentile Pentecost at Cornelius's house, Paul and Barnabas report their mission, and James gives the judgment: \"we should not trouble those of the Gentiles who turn to God\" (Acts 15:19). Only a few basic requirements are asked. The door of faith is opened wide.\n\n**What history can say.** Paul gives his own account of the same meeting in Galatians 2, letting us cross-check Acts — so the council is well-attested (marked *attested*), even as Paul's and Luke's tellings differ in emphasis, a difference this project notes.\n\n**Its consequence.** This is arguably the most consequential decision in Christian history: that the gospel is for all nations without becoming a sect of Judaism. Everything the canvas draws in the church layer flows from that opened door.",
+    "scriptureRefs": ["Acts 15:1–35", "Galatians 2:1–10"],
+    "readingPointer": "Read the council in Acts 15.",
+    "sources": [
+      "ESV Study Bible, notes on Acts 15",
+      "Henry Chadwick, The Early Church",
+      "The Oxford Dictionary of the Christian Church, \"Jerusalem, Council of\""
+    ],
+    "location": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 }
+  },
+  {
+    "id": "fall-of-jerusalem-70",
+    "type": "event",
+    "layers": ["church"],
+    "title": "The Fall of Jerusalem (AD 70)",
+    "yearStart": 70,
+    "dateDisplay": "AD 70",
+    "certainty": "attested",
+    "registers": ["history", "scripture"],
+    "symbol": "menorah",
+    "categories": ["judgment", "church-beginnings"],
+    "summary": "Rome destroys the Second Temple, ending the temple age — a rupture that reshaped both Judaism and the young church.",
+    "article": "**What happened.** In the Jewish revolt against Rome (begun AD 66), the legions under Titus besieged Jerusalem and in AD 70 took it, burning the Second Temple to the ground; the temple treasures, the great menorah among them, were carried in triumph to Rome — a scene still carved on the Arch of Titus that stands there today. The temple was never rebuilt.\n\n**What history confirms.** This is firm history, described in detail by the Jewish historian Josephus (an eyewitness to the war) and marked by the Arch of Titus and Roman coinage (*Iudaea Capta*). Marked *attested*. Jesus is remembered as foretelling the temple's fall (Mark 13:1–2).\n\n**Its consequence.** The destruction ended the sacrificial, temple-centered world of both Jesus and the apostles. Judaism reshaped itself around Torah and synagogue; the church, already spreading through Paul's Gentile mission and no longer bound to Jerusalem, was set decisively on its own path into the Roman world — where this canvas's church layer takes up the story.",
+    "scriptureRefs": ["Mark 13:1–2", "Luke 21:20–24"],
+    "readingPointer": "Jesus' prediction is in Mark 13; the history is in Josephus's Jewish War.",
+    "sources": [
+      "Henry Chadwick, The Early Church",
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years",
+      "The Oxford Dictionary of the Christian Church, \"Jerusalem\""
+    ],
+    "location": { "name": "Jerusalem", "lat": 31.78, "lng": 35.23 }
+  }
+]

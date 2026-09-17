@@ -1,0 +1,99 @@
+[
+  {
+    "id": "council-of-nicaea",
+    "type": "event",
+    "layers": ["church"],
+    "title": "Council of Nicaea",
+    "yearStart": 325,
+    "dateDisplay": "AD 325",
+    "certainty": "attested",
+    "registers": ["history", "tradition"],
+    "symbol": "council-codex",
+    "categories": ["council", "creed"],
+    "summary": "The first ecumenical council, summoned by Constantine, which confessed the Son as 'of one substance with the Father.'",
+    "article": "**What happened.** In 325 the emperor Constantine — newly patron of a faith his predecessors had persecuted — summoned bishops from across the empire to Nicaea in Asia Minor to settle a dispute tearing the eastern churches: the Alexandrian presbyter Arius taught that the Son of God was a creature, exalted above all others but with a beginning; his bishop Alexander, with the young deacon Athanasius, held the Son to be fully divine, eternal as the Father is eternal. Tradition remembers \"the 318 fathers\" in attendance — a conventional, symbolic count.\n\n**What the council said.** The assembled bishops adopted a creed confessing the Son as \"begotten, not made, of one substance (*homoousios*) with the Father\" — deliberately choosing a word Arius could not sign. Nearly all present subscribed. The council also ruled on the date of Easter and issued canons of church order. The struggle did not end at Nicaea — Arianism revived politically for decades, and Athanasius was exiled five times defending the council's confession — until the Council of Constantinople (381) reaffirmed and completed what we now recite as the Nicene Creed.\n\n**Why it matters on this canvas.** Nicaea is the pattern-setting event of the church layer: the first time the whole church attempted to speak with one conciliar voice, the template for every later council — and the moment the church's confession about the figure at the end of the gold thread was given its enduring grammar. It is well-documented history (Eusebius attended and wrote of it; the creed and canons survive), which is why the entry is marked *attested*.",
+    "sources": [
+      "Henry Chadwick, The Early Church",
+      "Justo L. González, The Story of Christianity, vol. 1",
+      "The Oxford Dictionary of the Christian Church, \"Nicaea, First Council of\""
+    ],
+    "location": { "name": "Nicaea (modern İznik)", "lat": 40.43, "lng": 29.72 }
+  },
+  {
+    "id": "great-schism",
+    "type": "event",
+    "layers": ["church"],
+    "title": "The Great Schism",
+    "yearStart": 1054,
+    "dateDisplay": "1054 (conventional date)",
+    "certainty": "attested",
+    "registers": ["history"],
+    "symbol": "split-circle",
+    "categories": ["schism"],
+    "summary": "East and West exchange excommunications — the conventional date for a parting centuries in the making.",
+    "article": "**What happened.** In July 1054, papal legates led by Cardinal Humbert laid a bull of excommunication on the altar of Hagia Sophia against the patriarch of Constantinople, Michael Cerularius, who promptly excommunicated the legates in return. The quarrels of the moment were real if narrow — the Western addition of the *filioque* (\"and the Son\") to the creed, papal authority, and even the bread of the Eucharist (leavened or unleavened) — but behind them lay centuries of drift: language (Greek and Latin no longer understood each other), politics, and two diverging instincts about how the church is ordered.\n\n**Why the date is called conventional.** Historians are careful here: 1054 excommunicated individuals, not churches, and communion between East and West frayed rather than snapped — many contemporaries barely noticed. The sack of Constantinople by the Fourth Crusade in 1204 did far more to make the breach bitter and popular. But 1054 became the remembered milestone, and this canvas uses it as such while labeling it conventional. In 1965, Pope Paul VI and Ecumenical Patriarch Athenagoras mutually consigned the excommunications of 1054 to oblivion — a healing gesture, though not yet a restored communion.\n\n**What it produced.** From this parting run the two great streams of Chalcedonian Christianity: the Roman Catholic West and the Eastern Orthodox communion — the first great visible branching this canvas's church layer draws, ahead of the Reformation's further fanning of the Western stream.",
+    "sources": [
+      "The Oxford Dictionary of the Christian Church, \"Schism, The Great\"",
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years",
+      "Justo L. González, The Story of Christianity, vol. 1"
+    ],
+    "traditions": {
+      "catholic": "Catholic accounts have generally seen the schism as the East's departure from unity with the see of Peter, while modern Catholic teaching speaks of the Orthodox as true sister churches with valid sacraments, and regards the schism as a wound in the one church.",
+      "orthodox": "Orthodox accounts have generally seen the schism as the West's innovation — above all the unilateral addition of the filioque to a creed fixed by ecumenical council, and expanding papal claims — with Orthodoxy preserving the faith of the undivided first millennium.",
+      "protestant": "Protestant traditions, emerging five centuries later within the Western stream, typically read 1054 as evidence that church unity was already historically contingent — and have variously looked to the pre-schism church as a shared inheritance."
+    },
+    "location": { "name": "Constantinople (modern Istanbul)", "lat": 41.01, "lng": 28.98 }
+  },
+  {
+    "id": "martin-luther",
+    "type": "figure",
+    "layers": ["church"],
+    "title": "Martin Luther",
+    "yearStart": 1483,
+    "yearEnd": 1546,
+    "dateDisplay": "1483–1546",
+    "certainty": "attested",
+    "registers": ["history"],
+    "symbol": "luther-rose",
+    "categories": ["reformer"],
+    "summary": "The Wittenberg friar whose protest against indulgences opened the Reformation.",
+    "article": "**The friar and the verse.** Martin Luther, born at Eisleben in 1483, entered the Augustinian order after a lightning-storm vow and became a doctor of scripture at Wittenberg. Tormented by the question of how a sinner could stand before a righteous God, he found his answer in Paul: \"the righteous shall live by faith\" (Romans 1:17) — righteousness not achieved but given. He read Paul with **Augustine** — the father of his own order — at his shoulder, and worked from the fresh Greek New Testament that **Erasmus** had just printed; the influence lines this canvas draws to him from Paul, Augustine, and Erasmus all meet in that discovery.\n\n**The protest.** On 31 October 1517 he published ninety-five theses against the sale of indulgences — by tradition, nailed to the Wittenberg castle church door; the nailing itself is debated, the publication is not. The dispute escalated to the heart of authority: at the Diet of Worms (1521), asked to recant his books before the emperor, he refused unless convinced \"by scripture and plain reason.\" Excommunicated by the pope and outlawed by the empire, he was hidden at the Wartburg, where he translated the New Testament into German — the vernacular Bible becoming the Reformation's engine. He married Katharina von Bora, a former nun, in 1525, and died at Eisleben in 1546.\n\n**Light and shadow.** Luther's legacy includes the recovery of preaching, congregational song, and the Bible in the people's tongue — and also fierce polemics, above all the anti-Jewish writings of his late years, which Lutheran churches today formally repudiate. This project records both without softening either.\n\n**Forerunners and heirs.** Luther did not come from nowhere: a century before him **Jan Hus** had been burned for kindred convictions, and Luther came to own the debt — the pre-Reformation line this canvas draws runs Wycliffe → Hus → Luther. Nor did the movement stay a single stream: within a generation Lutheran, Reformed, Anabaptist, and Anglican branches diverged — the Anabaptists breaking even from Zwingli (the one *split-from* line on the whole canvas), while Rome answered at the Council of Trent. His emblem here is the rose-and-cross seal he designed himself, not a portrait.",
+    "sources": [
+      "Justo L. González, The Story of Christianity, vol. 2",
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years",
+      "The Oxford Dictionary of the Christian Church, \"Luther, Martin\""
+    ],
+    "traditions": {
+      "catholic": "The Council of Trent (1545–1563) answered Luther by teaching that justification is not by faith alone: it begins with grace and includes an inner renewal in which faith, hope, and charity are infused, and it is nourished through the sacraments. Modern Catholic–Lutheran dialogue (the 1999 Joint Declaration) found substantial, though not total, common ground.",
+      "orthodox": "Orthodoxy stood outside this Western quarrel and frames salvation less in courtroom categories than as theosis — lifelong transformation into the likeness of God. Sixteenth-century correspondence between Lutheran theologians and Patriarch Jeremias II ended courteously but without agreement.",
+      "protestant": "For the Reformation traditions, justification by faith alone is, in Luther's phrase, the article by which the church stands or falls: the sinner is declared righteous for Christ's sake through faith, with good works the fruit of that standing rather than its ground."
+    },
+    "location": { "name": "Wittenberg", "lat": 51.87, "lng": 12.65 },
+    "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+      "credit": "Lucas Cranach the Elder, Martin Luther (1528), Veste Coburg — via Wikimedia Commons",
+      "license": "Public domain (PD-Art)",
+      "note": "Painted from life by Cranach, 1528 — one of the few figures on this timeline whose true likeness is known."
+    }
+  },
+  {
+    "id": "peace-of-westphalia",
+    "type": "event",
+    "layers": ["church"],
+    "title": "Peace of Westphalia",
+    "yearStart": 1648,
+    "dateDisplay": "1648",
+    "certainty": "attested",
+    "registers": ["history"],
+    "symbol": "olive-branch",
+    "categories": ["treaty", "wars-of-religion"],
+    "summary": "The treaties ending the Thirty Years' War — and the era of Europe's confessional wars, where this timeline rests.",
+    "article": "**What happened.** After thirty years of war that devastated central Europe — begun in 1618 amid Catholic–Protestant conflict in Bohemia and swollen into a general European struggle — diplomats meeting in the Westphalian cities of Münster and Osnabrück concluded peace in 1648. The settlement extended the recognition that the Peace of Augsburg (1555) had given Lutherans to the Reformed (Calvinist) churches as well, fixed a baseline year for who held which church lands, and made the confessional map of the Holy Roman Empire a matter of negotiated law rather than conquest.\n\n**Why the timeline rests here.** Westphalia is commonly taken as the close of Europe's age of religion wars: after it, the great confessional blocs — Catholic, Lutheran, Reformed, with the Anabaptist and Anglican streams alongside — settle into the shape that the modern era inherits. The story of the church hardly ends in 1648, but the arc this canvas traces — from promise, through fulfillment, to a church spread and divided across the world — reaches a natural resting place.\n\n**A note of proportion.** Historians debate how \"religious\" the Thirty Years' War really was — dynastic and state interests drove much of it, with Catholic France ultimately fighting the Catholic Habsburgs — a caution against reading the era as simple theology-with-armies.",
+    "sources": [
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years",
+      "Justo L. González, The Story of Christianity, vol. 2",
+      "The Oxford Dictionary of the Christian Church, \"Westphalia, Peace of\""
+    ],
+    "location": { "name": "Münster and Osnabrück", "lat": 51.96, "lng": 7.63 }
+  }
+]

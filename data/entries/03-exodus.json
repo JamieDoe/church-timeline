@@ -1,0 +1,237 @@
+[
+  {
+    "id": "moses",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Moses",
+    "yearStart": -1526,
+    "yearEnd": -1406,
+    "dateDisplay": "15th or 13th century BC (dating tied to the disputed Exodus date)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "tablets",
+    "categories": ["prophet", "lawgiver", "exodus"],
+    "summary": "Drawn from the Nile and sent back to Pharaoh — the prophet through whom Israel received deliverance and the Law.",
+    "article": "**What scripture narrates.** Born under Pharaoh's decree of death and drawn from the Nile (Exodus 2), Moses flees to Midian, meets God in the burning bush (Exodus 3), and is sent back to lead Israel out of Egypt. At Sinai he mediates the covenant and receives the Law — the two tablets of his emblem (Exodus 19–20, 31:18) — then carries a complaining people through forty wilderness years, seeing the promised land only from Mount Nebo (Deuteronomy 34). Scripture gives him 120 years, structured in three forties, and calls him the prophet whom the LORD knew \"face to face\" (Deuteronomy 34:10).\n\n**Why his dates are contested.** Moses' lifespan is pinned to the date of the Exodus, and that date is genuinely disputed (see the Exodus entry — roughly 1446 BC on the \"early\" reckoning, roughly 1250 BC on the \"late\"). His canvas position uses the early date purely for placement; the dispute, not the position, is the honest datum. Beyond chronology, no Egyptian or other external source names Moses, and scholarly views on the historical figure behind the narratives range widely. This entry is marked *contested* to carry both the dating dispute and that historiographical range.\n\n**His place in the story.** For the rest of scripture, Moses is the measure of prophecy and the giver of Torah: \"the Law was given through Moses; grace and truth came through Jesus Christ\" (John 1:17). He appears at the Transfiguration beside Elijah (Mark 9:4) — the Law and the Prophets flanking the one the church confesses they pointed to.",
+    "scriptureRefs": ["Exodus 2–4", "Exodus 19–20", "Deuteronomy 34", "John 1:17"],
+    "readingPointer": "His story runs from Exodus 2 through Deuteronomy 34.",
+    "sources": [
+      "ESV Study Bible, introduction to Exodus and notes",
+      "The Oxford Dictionary of the Christian Church, \"Moses\"",
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years"
+    ],
+    "location": { "name": "Mount Sinai (Jebel Musa, traditional site)", "lat": 28.54, "lng": 33.98 }
+  },
+  {
+    "id": "the-exodus",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "The Exodus",
+    "yearStart": -1446,
+    "dateDisplay": "c. 1446 BC or c. 1250 BC (disputed)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "pillar-fire",
+    "categories": ["exodus", "covenant"],
+    "summary": "Israel's deliverance from Egypt through the sea — the defining act of God scripture returns to ever after.",
+    "article": "**What scripture narrates.** Ten plagues break Pharaoh's grip; Israel keeps the first Passover and leaves Egypt, led by the pillar of cloud and fire; the sea parts before them and closes over the pursuing army (Exodus 12–15). The event is the Old Testament's defining act of God — \"I am the LORD your God, who brought you out of the land of Egypt\" opens the Ten Commandments (Exodus 20:2) — and Israel's festivals, psalms, and prophets return to it constantly.\n\n**The date is genuinely disputed.** The \"early\" date, c. 1446 BC, follows 1 Kings 6:1, which places the Exodus 480 years before Solomon began the temple (c. 966 BC). The \"late\" date, c. 1250 BC, notes that Exodus 1:11 has Israel building the store-city of Raamses — a name pointing to Ramesses II's thirteenth-century capital — and reads the 480 years as a stylized figure (twelve generations of forty). Serious readers sit on both sides; study Bibles routinely print both. This canvas positions the node at the early date **only because a node must sit somewhere**; the honest display is the disputed pair.\n\n**What external evidence shows.** No Egyptian record mentions Israel's departure, and archaeology has recovered no direct trace of the wilderness journey — though the Merneptah Stele (c. 1208 BC) proves a people called Israel was in Canaan by the late thirteenth century. Historians' positions range from a substantial historical core behind the narrative to much more skeptical reconstructions. That silence is not the same as disproof, and the narrative's centrality in Israel's memory is itself a datum historians weigh; but a beginner should know the difference between what scripture proclaims and what a spade has confirmed.",
+    "scriptureRefs": ["Exodus 12–15", "Exodus 20:2", "1 Kings 6:1", "Deuteronomy 26:5–9"],
+    "readingPointer": "Read the deliverance narrative in Exodus 12–15.",
+    "sources": [
+      "ESV Study Bible, introduction to Exodus (discussion of both dates)",
+      "The Oxford Dictionary of the Christian Church, \"Exodus\"",
+      "Diarmaid MacCulloch, Christianity: The First Three Thousand Years"
+    ],
+    "location": { "name": "Sinai Peninsula (traditional route)", "lat": 29.5, "lng": 33.8 }
+  },
+  {
+    "id": "passover",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Passover",
+    "yearStart": -1446,
+    "dateDisplay": "c. 1446 BC or c. 1250 BC (disputed)",
+    "certainty": "contested",
+    "registers": ["scripture", "tradition", "history"],
+    "symbol": "passover-door",
+    "categories": ["exodus", "covenant", "feast"],
+    "summary": "The blood on the doorposts and the meal eaten in haste — the night of deliverance, made a feast kept ever after.",
+    "article": "**What scripture narrates.** On the night of the final plague — the death of the firstborn — Israel is told to kill a lamb, mark the doorframes with its blood, and eat it in haste, dressed to travel; where the blood is seen, the LORD \"passes over\" that house (Exodus 12). The meal is to be kept every year as a memorial, \"a statute forever\" (12:14) — the origin of the Passover feast Israel keeps to this day.\n\n**Register.** Passover is narrated in scripture and held in living tradition; the historical events behind it share the Exodus's debated dating and corroboration (marked *contested*). What the text presents is a founding act of rescue, deliberately made repeatable in a rite so that each generation might tell it as its own.\n\n**Its reach into the New Testament.** The Gospels set Jesus' death at Passover, and the New Testament calls him \"our Passover lamb\" who \"has been sacrificed\" (1 Corinthians 5:7; cf. John 1:29); the Last Supper is a Passover meal, the root of the Lord's Supper. Christian reading thus sees the lamb whose blood turns away death as a figure fulfilled at the cross — a reading this project notes as a reading.",
+    "scriptureRefs": ["Exodus 12", "Luke 22:14–20", "1 Corinthians 5:7", "John 1:29"],
+    "readingPointer": "Read the first Passover in Exodus 12.",
+    "sources": [
+      "ESV Study Bible, notes on Exodus 12",
+      "The Oxford Dictionary of the Christian Church, \"Passover\""
+    ]
+  },
+  {
+    "id": "crossing-of-the-sea",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Crossing of the Sea",
+    "yearStart": -1446,
+    "dateDisplay": "c. 1446 BC or c. 1250 BC (disputed)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "parted-sea",
+    "categories": ["exodus"],
+    "summary": "Trapped at the water's edge, Israel passes through on dry ground — the Old Testament's supreme image of salvation.",
+    "article": "**What scripture narrates.** Pursued by Pharaoh's chariots to the edge of the sea, Israel is trapped — until Moses stretches out his hand, a strong east wind drives back the waters, and the people pass through on dry ground; when the Egyptians follow, the sea returns and covers them (Exodus 14). On the far shore Moses and Miriam sing: \"The LORD is my strength and my song, and he has become my salvation\" (Exodus 15:2).\n\n**Register and history.** The crossing is the climax of the deliverance and the Old Testament's supreme image of salvation, returned to in psalm and prophet. Its location and historicity are debated along with the rest of the Exodus — the Hebrew *yam suph* means \"Sea of Reeds\" as readily as \"Red Sea\" — and no external record attests it; marked *contested*.\n\n**Its long echo.** Paul reads the passage through the sea as a type of baptism — Israel \"baptized into Moses in the cloud and in the sea\" (1 Corinthians 10:1–2); the church's Easter vigil has sung the Exodus crossing for centuries as the figure of rescue from death to life.",
+    "scriptureRefs": ["Exodus 14", "Exodus 15:1–21", "1 Corinthians 10:1–2"],
+    "readingPointer": "Read the crossing in Exodus 14–15.",
+    "sources": [
+      "ESV Study Bible, notes on Exodus 14–15",
+      "The Oxford Dictionary of the Christian Church, \"Exodus\""
+    ]
+  },
+  {
+    "id": "sinai-and-the-law",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Sinai & the Giving of the Law",
+    "yearStart": -1445,
+    "dateDisplay": "c. 1446 BC or c. 1250 BC (disputed)",
+    "certainty": "contested",
+    "registers": ["scripture", "tradition", "history"],
+    "symbol": "sinai-mountain",
+    "categories": ["exodus", "covenant", "law"],
+    "summary": "God descends on the mountain in fire to make a covenant with a redeemed people, and speaks the Ten Commandments.",
+    "article": "**What scripture narrates.** Three months out of Egypt, Israel camps before Mount Sinai, and the LORD descends in fire, smoke, and thunder to make a covenant with the people he has redeemed (Exodus 19). He speaks the Ten Commandments (Exodus 20) and, through Moses, a body of law; the covenant is sealed with blood and a shared meal (Exodus 24). Here Israel becomes a nation under God's law — \"a kingdom of priests and a holy nation\" (19:6) — and receives the pattern for the tabernacle, God's dwelling in their midst.\n\n**Register and dating.** Sinai is the theological heart of the Torah, narrated in scripture and central to tradition; it shares the Exodus's debated dating and corroboration (marked *contested*). The mountain's location is itself uncertain — the traditional Jebel Musa in the southern Sinai is one candidate among several.\n\n**The Law and the gospel.** How the Sinai law relates to grace and to Christ is one of the New Testament's central questions — Paul wrestles with it throughout Romans and Galatians, and \"the Law was given through Moses; grace and truth came through Jesus Christ\" (John 1:17). The Ten Commandments remain a shared moral inheritance across Jewish and Christian traditions, though the traditions number them differently.",
+    "scriptureRefs": ["Exodus 19–20", "Exodus 24", "Exodus 31:18", "Romans 7:7–12"],
+    "readingPointer": "Read the giving of the Law in Exodus 19–20.",
+    "sources": [
+      "ESV Study Bible, notes on Exodus 19–24",
+      "The Oxford Dictionary of the Christian Church, \"Ten Commandments\" and \"Decalogue\""
+    ],
+    "location": { "name": "Mount Sinai (Jebel Musa, traditional site)", "lat": 28.54, "lng": 33.98 }
+  },
+  {
+    "id": "golden-calf",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "The Golden Calf",
+    "yearStart": -1445,
+    "dateDisplay": "c. 1446 BC or c. 1250 BC (disputed)",
+    "certainty": "contested",
+    "registers": ["scripture", "tradition"],
+    "symbol": "golden-calf",
+    "categories": ["exodus", "idolatry"],
+    "summary": "Idolatry at the foot of Sinai — Israel's archetypal apostasy, days after the covenant was sealed.",
+    "article": "**What scripture narrates.** While Moses is on the mountain receiving the covenant, the people grow restless and press Aaron to \"make us gods who shall go before us\"; he casts a golden calf from their earrings, and they worship it with a feast (Exodus 32). Moses comes down, breaks the tablets at the sight, grinds the calf to powder, and then intercedes for the people, turning back God's wrath (Exodus 32:11–14, 30–32). It is Israel's archetypal apostasy — idolatry at the very foot of Sinai, days after the covenant.\n\n**Register.** Narrated in scripture and shared across the tradition as a byword for turning from God to idols of one's own making; it carries the Exodus's contested dating. Aaron's part in it — the future high priest yielding to the crowd — the text records without excusing.\n\n**Its echo.** Paul takes the golden calf as a warning to the church: \"do not be idolaters as some of them were\" (1 Corinthians 10:7); Stephen recalls it in his indictment before the council (Acts 7:39–41).",
+    "scriptureRefs": ["Exodus 32", "1 Corinthians 10:7", "Acts 7:39–41"],
+    "readingPointer": "Read the account in Exodus 32.",
+    "sources": [
+      "ESV Study Bible, notes on Exodus 32",
+      "The Oxford Dictionary of the Christian Church, \"Aaron\""
+    ]
+  },
+  {
+    "id": "wilderness-wanderings",
+    "type": "event",
+    "layers": ["scripture"],
+    "title": "Wilderness Wanderings",
+    "yearStart": -1444,
+    "yearEnd": -1406,
+    "dateDisplay": "c. 1446–1406 BC or c. 1250–1210 BC (disputed)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "wilderness-path",
+    "categories": ["exodus", "wilderness"],
+    "summary": "Forty years between deliverance and the promised land — a generation tested, learning to trust the God who redeemed it.",
+    "article": "**What scripture narrates.** From Sinai, Israel sets out for the promised land — but at its border, ten of the twelve spies bring back a fearful report, and the people refuse to enter (Numbers 13–14). For this the generation is sentenced to forty years in the wilderness until it dies out; only Joshua and Caleb, who trusted, will cross over. The forty years are marked by manna and quail, water from the rock, the bronze serpent, rebellion and plague, and the LORD's presence in the pillar of cloud and fire and the tabernacle (Numbers; Deuteronomy).\n\n**Register and history.** The wanderings are narrated in scripture; archaeology has found no direct trace of them, and their route and dating are debated with the rest of the Exodus (marked *contested*). What the narrative presents is a long testing — a people learning, slowly and by failure, to trust the God who redeemed them.\n\n**Its reading.** The New Testament takes the wilderness generation as a sober warning: they \"were overthrown in the wilderness\" through unbelief, set down \"as examples for us\" (1 Corinthians 10:1–11; Hebrews 3–4). Jesus' forty days of testing in the wilderness deliberately echo Israel's forty years.",
+    "scriptureRefs": ["Numbers 13–14", "Numbers 21:4–9", "1 Corinthians 10:1–11", "Hebrews 3:16–19"],
+    "readingPointer": "The wilderness years are told across Numbers and Deuteronomy.",
+    "sources": [
+      "ESV Study Bible, introductions to Numbers and Deuteronomy",
+      "The Oxford Dictionary of the Christian Church, \"Exodus\""
+    ]
+  },
+  {
+    "id": "aaron",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Aaron",
+    "yearStart": -1529,
+    "yearEnd": -1407,
+    "dateDisplay": "15th or 13th century BC (dating tied to the disputed Exodus date)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "aaron-rod",
+    "categories": ["priest", "exodus"],
+    "summary": "Moses' brother and spokesman, consecrated Israel's first high priest — and the maker of the golden calf.",
+    "article": "**What scripture narrates.** Aaron, Moses' older brother of the tribe of Levi, is appointed his spokesman before Pharaoh — \"he shall be your mouth\" (Exodus 4:16) — and shares the confrontations of the plagues. At Sinai he is consecrated Israel's first high priest, he and his sons set apart to serve at the altar (Exodus 28–29; Leviticus 8), yet he also makes the golden calf when the people press him (Exodus 32). When his priesthood is later challenged, his staff alone buds with almond blossoms as God's sign (Numbers 17). He dies on Mount Hor, the high priesthood passing to his son (Numbers 20:22–29).\n\n**Register and dating.** Aaron shares the Exodus narratives' debated historicity and dating (marked *contested*). The Aaronic priesthood he founds structures Israel's worship for the rest of the Old Testament.\n\n**His place in the story.** Aaron heads Israel's priesthood as Moses heads its prophecy and law; Hebrews contrasts the mortal, sinful Aaronic priests with Christ, the great high priest \"after the order of Melchizedek\" (Hebrews 5–7). The priestly blessing he is given — \"The LORD bless you and keep you\" (Numbers 6:24–26) — is still prayed across the traditions.",
+    "scriptureRefs": ["Exodus 4:14–16", "Exodus 28–29", "Numbers 17", "Hebrews 5:1–4"],
+    "readingPointer": "His story runs across Exodus, Leviticus, and Numbers.",
+    "sources": [
+      "ESV Study Bible, notes on Exodus 28–29 and Leviticus 8",
+      "The Oxford Dictionary of the Christian Church, \"Aaron\""
+    ],
+    "relationships": [{ "targetId": "moses", "type": "contemporary" }]
+  },
+  {
+    "id": "miriam",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Miriam",
+    "yearStart": -1540,
+    "yearEnd": -1407,
+    "dateDisplay": "15th or 13th century BC (dating tied to the disputed Exodus date)",
+    "certainty": "contested",
+    "registers": ["scripture"],
+    "symbol": "timbrel",
+    "categories": ["prophetess", "exodus"],
+    "summary": "Sister of Moses and Aaron, prophetess, who led the women in the song of victory at the sea.",
+    "article": "**What scripture narrates.** Miriam, the sister of Moses and Aaron, first appears watching over the baby Moses in the reeds and arranging for his own mother to nurse him (Exodus 2:4–8). After the crossing of the sea she leads the women with tambourine and dance in the song of victory — \"Sing to the LORD, for he has triumphed gloriously\" (Exodus 15:20–21) — and is called a prophetess. Later she and Aaron challenge Moses' unique authority, and she is struck with leprosy, then healed at Moses' plea (Numbers 12). She dies at Kadesh (Numbers 20:1).\n\n**Register and dating.** Miriam shares the Exodus narratives' debated historicity and dating (marked *contested*).\n\n**Her place in the story.** She is remembered as one of the three the LORD \"sent before\" Israel out of Egypt — \"Moses, Aaron, and Miriam\" (Micah 6:4) — the first woman called a prophetess in the Torah, and her song is among the oldest poetry in the Bible.",
+    "scriptureRefs": ["Exodus 2:1–10", "Exodus 15:20–21", "Numbers 12", "Micah 6:4"],
+    "readingPointer": "Her story appears in Exodus 2, Exodus 15, and Numbers 12.",
+    "sources": [
+      "ESV Study Bible, notes on Exodus 15 and Numbers 12",
+      "The Oxford Dictionary of the Christian Church, \"Miriam\""
+    ],
+    "relationships": [{ "targetId": "moses", "type": "contemporary" }]
+  },
+  {
+    "id": "joshua",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Joshua",
+    "yearStart": -1500,
+    "yearEnd": -1390,
+    "dateDisplay": "15th or 13th century BC (dating tied to the disputed Exodus date)",
+    "certainty": "contested",
+    "registers": ["scripture", "history"],
+    "symbol": "joshua-trumpet",
+    "categories": ["leader", "conquest"],
+    "summary": "Moses' successor, who led Israel across the Jordan into the land — and whose Hebrew name is, in Greek, Jesus.",
+    "article": "**What scripture narrates.** Joshua, of the tribe of Ephraim, is Moses' aide and general — he leads Israel's fighters against Amalek (Exodus 17), is one of the twelve spies, and with Caleb alone trusts that God will give the land (Numbers 14). Commissioned as Moses' successor (Numbers 27; Deuteronomy 34:9), he leads Israel across the Jordan into Canaan, takes Jericho, and apportions the land among the tribes; at Shechem he sets the people a choice — \"choose this day whom you will serve… but as for me and my house, we will serve the LORD\" (Joshua 24:15).\n\n**Register, dating, and archaeology.** Joshua shares the Exodus's debated dating, and the historicity of the conquest is one of the sharper debates in biblical archaeology: excavations at Jericho and Ai have not matched a straightforward reading of the narrative, and scholars range from a swift conquest to a gradual, largely internal emergence of Israel within Canaan. This entry is marked *contested*, and the tension between the book's account and the material evidence is exactly the kind this project keeps visible.\n\n**His place in the story.** Joshua (\"the LORD saves\") bears the Hebrew name that is, in Greek, Jesus — a resonance the New Testament notices (Hebrews 4:8). He is the one who brings the people into their rest in the land.",
+    "scriptureRefs": ["Numbers 13–14", "Joshua 1", "Joshua 6", "Joshua 24"],
+    "readingPointer": "His story is told in the book of Joshua (begin at Joshua 1).",
+    "sources": [
+      "ESV Study Bible, introduction to Joshua",
+      "The Oxford Dictionary of the Christian Church, \"Joshua\""
+    ],
+    "relationships": [{ "targetId": "moses", "type": "succeeded" }],
+    "location": { "name": "Jericho", "lat": 31.87, "lng": 35.44 }
+  },
+  {
+    "id": "caleb",
+    "type": "figure",
+    "layers": ["scripture", "people"],
+    "title": "Caleb",
+    "yearStart": -1500,
+    "yearEnd": -1385,
+    "dateDisplay": "15th or 13th century BC (dating tied to the disputed Exodus date)",
+    "certainty": "contested",
+    "registers": ["scripture"],
+    "symbol": "grape-cluster",
+    "categories": ["exodus", "conquest"],
+    "summary": "One of the two faithful spies, who \"wholly followed the LORD\" and claimed his promised inheritance at eighty-five.",
+    "article": "**What scripture narrates.** Caleb, of the tribe of Judah, is one of the twelve sent to spy out Canaan; when ten bring back a fearful report, he and Joshua alone urge the people to go up, \"for we are well able to overcome it\" (Numbers 13:30). Because he \"wholly followed the LORD,\" he is promised the land he scouted, and forty-five years later, at eighty-five, he claims the hill country of Hebron, driving out its inhabitants (Joshua 14:6–14).\n\n**Register and dating.** Caleb shares the Exodus and conquest narratives' debated historicity and dating (marked *contested*).\n\n**His place in the story.** With Joshua, Caleb is the counter-example to the wilderness generation's unbelief — the two of that generation who trusted God and lived to cross over. The spies' cluster of grapes, carried back from the Valley of Eshcol on a pole (Numbers 13:23), becomes his emblem: proof of the good land, held out to a people afraid to take it.",
+    "scriptureRefs": ["Numbers 13–14", "Joshua 14:6–14", "Joshua 15:13–19"],
+    "readingPointer": "His story appears in Numbers 13–14 and Joshua 14.",
+    "sources": [
+      "ESV Study Bible, notes on Numbers 13–14 and Joshua 14–15"
+    ],
+    "relationships": [{ "targetId": "joshua", "type": "contemporary" }]
+  }
+]
