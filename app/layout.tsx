@@ -7,6 +7,7 @@ import { IntroLoader } from "@/components/intro-loader";
 import { SiteNav } from "@/components/site-nav";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site";
+import { Analytics } from "@vercel/analytics/next";
 
 const ebGaramond = EB_Garamond({
   variable: "--font-eb-garamond",
@@ -64,9 +65,18 @@ export default function RootLayout({
       suppressHydrationWarning
       className={`${ebGaramond.variable} ${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
+      <Analytics />
       <body className="min-h-full flex flex-col">
-        <Script id="theme-init" strategy="beforeInteractive" dangerouslySetInnerHTML={{ __html: themeInit }} />
-        <Script id="intro-init" strategy="beforeInteractive" dangerouslySetInnerHTML={{ __html: introInit }} />
+        <Script
+          id="theme-init"
+          strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{ __html: themeInit }}
+        />
+        <Script
+          id="intro-init"
+          strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{ __html: introInit }}
+        />
         <IntroLoader />
         <header className="border-b border-border bg-card/60">
           <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6">
@@ -88,7 +98,10 @@ export default function RootLayout({
             <p>
               AI-assisted, for personal study; may contain errors — cross-check
               against the source canon.{" "}
-              <Link href="/about" className="underline underline-offset-2 hover:text-foreground">
+              <Link
+                href="/about"
+                className="underline underline-offset-2 hover:text-foreground"
+              >
                 About the sources
               </Link>
             </p>
